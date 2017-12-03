@@ -100,7 +100,7 @@
     <string name="pref_24hour">Mostrar hora en formato de 24 horas</string>
     <string name="pref_title_bosspriority">Prioridad jefe</string>
     <string name="pref_bosspriority">Los jefes se ordenan por prioridad</string>
-    <string name="pref_title_bossnotification">Spawn Window Notification (Closed Beta)</string>
+    <string name="pref_title_bossnotification">Spawn Window Notification</string>
     <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
     <string name="pref_title_region">Región</string>
 

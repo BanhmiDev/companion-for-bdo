@@ -100,7 +100,7 @@
     <string name="pref_24hour">Время отображения в 24-часовом формате</string>
     <string name="pref_title_bosspriority">приоритет босса</string>
     <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
-    <string name="pref_title_bossnotification">Spawn Window Notification (Closed Beta)</string>
+    <string name="pref_title_bossnotification">Spawn Window Notification</string>
     <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
     <string name="pref_title_region">Область</string>
 

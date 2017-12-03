@@ -100,7 +100,7 @@
     <string name="pref_24hour">24 시간 형식의 시간 표시</string>
     <string name="pref_title_bosspriority">산란 보스 우선 순위</string>
     <string name="pref_bosspriority">보스가 우선 순위에 따라 분류됩니다.</string>
-    <string name="pref_title_bossnotification">Spawn Window Notification (Closed Beta)</string>
+    <string name="pref_title_bossnotification">Spawn Window Notification</string>
     <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
     <string name="pref_title_region">부품</string>
 

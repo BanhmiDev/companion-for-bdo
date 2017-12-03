@@ -100,7 +100,7 @@
     <string name="pref_24hour">Zeige Uhrzeiten im 24-Stunden-Format an</string>
     <string name="pref_title_bosspriority">Spawnfenster Priorität</string>
     <string name="pref_bosspriority">Bosse die möglicherweise spawnen können werden zuerst angezeigt</string>
-    <string name="pref_title_bossnotification">Spawnfenster Benachrichtigung (Geschlossene Beta)</string>
+    <string name="pref_title_bossnotification">Spawnfenster Benachrichtigung</string>
     <string name="pref_bossnotification">Aktiviert eine permanente Benachrichtigung von Spawnfenstern</string>
     <string name="pref_title_region">Region</string>
 
