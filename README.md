@@ -8,10 +8,10 @@ This repository contains the *original* strings in English (```original/strings.
 ## Contributing Guidelines
 You can add missing languages or suggest better translations by simply opening an issue (or via pull requests).
 
+Additionally leave your desired name if you want to be mentioned as a contributor.
+
 ### Adding New Language
-Title of the issue could look like: ```Adding new language X```.                         
-Also take ```original/strings.xml``` as a reference.
+Title of the issue could look like: ```Adding new language X```. Also take ```original/strings.xml``` as a reference.
 
 ### Suggesting Changes
-Title of the issue could look like: ```Update for X```.                         
-You can either attach the whole file or just mention the changes within your comment.
+Title of the issue could look like: ```Update for X```. You can either attach the whole file or just mention the changes within your comment.
