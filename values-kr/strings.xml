@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NAVIGATION -->
+    <string name="navigation_drawer_open">탐색 모음 열기</string>
+    <string name="navigation_drawer_close">탐색 창 닫기</string>
+    <string name="action_settings">설정</string>
+
+    <!-- TITLES -->
+    <string name="title_header_timers">타이머</string>
+    <string name="title_header_crafting">제작</string>
+    <string name="title_header_calculators">계산기</string>
+    <string name="title_header_charts">차트</string>
+    <string name="title_header_misc">기타</string>
+    <string name="title_main_timer">게임 타이머</string>
+    <string name="title_boss_timer">보스 타이머</string>
+    <string name="title_cooking_inspection">검사</string>
+    <string name="title_cooking_db">조리</string>
+    <string name="title_alchemy_db">연금술</string>
+    <string name="title_materialgroup">자재 그룹</string>
+    <string name="title_horse_calculator">말 계산기</string>
+    <string name="title_market_calculator">시장 계산기</string>
+    <string name="title_failstack_chart">스태킹</string>
+    <string name="title_grinding_chart">사냥</string>
+    <string name="title_horse_chart">말 목록</string>
+    <string name="title_about">정보</string>
+    <string name="title_share">공유</string>
+    <string name="title_rate_app">앱 평가</string>
+
+    <!-- INTROS -->
+    <string name="intro_market" formatted="false">검은 사막의 기본 세율은 35% 입니다. 밸류 패키지 은 세금 반환 값의 30 %를 추가합니다.</string>
+    <string name="intro_grinding">연삭 반점은 <b>EXP 등급</b> (최고 ~ 최저) 으로 정렬됩니다.</string>
+    <string name="intro_bosstimer">보스 스폰주기를 보려면 <b>여기</b>를 클릭하십시오.</string>
+    <string name="intro_bosstimer_offline"><b>오프라인 모드</b>. 변경 사항은 서버와 동기화되지 않습니다.</string>
+    <string name="intro_horselist">색상 조합은 가능한 자손을 계산하는 데 사용할 수 있습니다.</string>
+
+    <!-- CRAFTING LEVEL -->
+    <string name="beginner">초급 Lv.</string>
+    <string name="apprentice">견습 Lv.</string>
+    <string name="skilled">숙련 Lv.</string>
+    <string name="professional">전문 Lv.</string>
+    <string name="artisan">장인 Lv.</string>
+    <string name="master">명장 Lv.</string>
+    <string name="guru">도인 Lv.</string>
+
+    <!-- BOSSTIMER -->
+    <string name="bosstimer_data">마지막: %1$s\n다음 것: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>사장님이 산란 창에 있습니다!</b></string>
+    <string name="bosstimer_server_maintenance">서버 유지 보수</string>
+    <string name="bosstimer_region">현재 선택: %s</string>
+
+    <!-- HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">각 영역마다 다른 승수가 있습니다: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. 현재 선택: %1$d</string>
+    <string name="female_horse"><b>여자</b></string>
+    <string name="male_horse"><b>남성</b></string>
+    <string name="tier">티어</string>
+    <string name="level">레벨</string>
+    <string name="death">죽음</string>
+    <string name="horse_result">남성 T%1$d (레벨: %2$d, 죽음: %3$d)\n여자 T%4$d (레벨: %5$d, 죽음: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">죽음 (선택 과목)</string>
+
+    <!-- MARKET CALCULATOR -->
+    <string name="value_pack"><b>밸류 패키지</b></string>
+    <string name="value_pack_is_activated">밸류 패키지가 활성화되었습니다.</string>
+    <string name="market_sell_price">시장 판매 가격</string>
+    <string name="market_sell_amount">수량</string>
+    <string name="market_result"><b>밸류 패키지:</b> %1$s\n<b>이익:</b> %2$s</string>
+
+    <!-- ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">기본 기회</string>
+    <string name="enhance_optimal_stacks">최적의 스택</string>
+    <string name="enhance_success_chance">성공 확률</string>
+    <string name="enhancement_weapon">무기</string>
+    <string name="enhancement_armor">갑옷</string>
+    <string name="enhancement_accessory">종범</string>
+
+    <!-- GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>레벨:</b> %2$s\n%3$s 백만 실버/시간</string>
+
+    <!-- HORSE CHART -->
+    <string name="horse_description">속도/가속도: %1$s%%\n회전/제동: %2$s%%</string>
+
+    <!-- MISC -->
+    <string name="rate_dialog_title">앱의 평가</string>
+    <string name="rate_dialog_message">이 응용 프로그램을 사용하셔야 대단히 감사합니다. 만약 괜찮 으시면 1 분 정도로 끝나기 때문에이 응용 프로그램의 평가를 부탁드립니다. 도와 주셔서 감사합니다</string>
+    <string name="rate_dialog_ok">지금 평가</string>
+    <string name="rate_dialog_cancel">나중에하는</string>
+    <string name="rate_dialog_no">아니, 괜찮아요</string>
+
+    <!-- PREF -->
+    <string name="pref_notice">번역 도움말</string>
+    <string name="pref_language">현재 설정: %s</string>
+    <string name="pref_screen_awake">타이머를 위해 화면을 켜 놓으십시오 (페이지 새로 고침 필요)</string>
+    <string name="pref_title_screen_awake">잠들지 말라</string>
+    <string name="pref_title_language">언어</string>
+    <string name="pref_twitter">Twitter</string>
+    <string name="pref_notice_summary">번역 업데이트 제안</string>
+    <string name="pref_twitter_summary">프로젝트 업데이트는 Twitter 있습니다</string>
+    <string name="pref_attention">보스 타이머 설정을 변경하면 페이지를 다시로드해야 할 수도 있습니다.</string>
+    <string name="pref_title_24hour">24 시간 형식</string>
+    <string name="pref_24hour">24 시간 형식의 시간 표시</string>
+    <string name="pref_title_bosspriority">산란 보스 우선 순위</string>
+    <string name="pref_bosspriority">보스가 우선 순위에 따라 분류됩니다.</string>
+    <string name="pref_title_bossnotification">Spawn Window Notification (Closed Beta)</string>
+    <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
+    <string name="pref_title_region">부품</string>
+
+    <!-- ERRORS -->
+    <string name="error_generic">오류, 페이지를 새로 고침하십시오.</string>
+    <string name="error_bosstimer_nodata">저장된 데이터가 없습니다.\n자신을 새로 고침하십시오..</string>
+
+    <!-- CRAFTING -->
+    <string name="crafting_material">자료</string>
+    <string name="crafting_results">결과</string>
+    <string name="crafting_calculator">계산자</string>
+    <string name="crafted_amount">수량:</string>
+    <string name="recipes">레시피</string>
+    <string name="show_all">모두 보이기</string>
+    <string name="bookmark_title_empty">목록이 비어 있습니다</string>
+    <string name="bookmark_empty">북마크 목록이 현재 비어 있습니다.</string>
+
+    <!-- GENERAL -->
+    <string name="calculate">계산</string>
+    <string name="level_required">필수 레벨: %1$s</string>
+    <string name="enabled">활성화되었습니다</string>
+    <string name="disabled">비활성화되었습니다</string>
+    <string name="can_substitute">다다음 항목 목록의 항목을 사용할 수 있습니다:\n\n</string>
+    <string name="upgrade_to_pro">광고를 제거하다</string>
+    <string name="ok">OK</string>
+    <string name="cancel">취소</string>
+    <string name="cooldown_push">1 시간 후에 다시 시도하십시오.</string>
+    <string name="loading">로드 중&#8230;</string>
+    <string name="search">검색&#8230;</string>
+    <string name="intervals">간격</string>
+
+    <!-- ARRAY VALUES (DROPDOWNS ETC) -->
+    <string name="today">오늘</string>
+    <string name="yesterday">어제</string>
+
+    <string name="sort_by_name_asc">이름순으로 정렬 : 오름차순</string>
+    <string name="sort_by_name_desc">이름순으로 정렬 : 내림차순</string>
+    <string name="sort_by_level_asc">수준별 정렬 : 오름차순</string>
+    <string name="sort_by_level_desc">수준별 정렬 : 내림차순</string>
+
+    <string name="karanda">카란다</string>
+    <string name="dimtreespirit">우둔한 나무 정령</string>
+    <string name="kzarka">크자카</string>
+    <string name="nouver">누베르</string>
+    <string name="kutum">쿠툼</string>
+    <string name="bheg">비겁한 베그</string>
+    <string name="mudster">거대한 진흙 괴물</string>
+    <string name="rednose">빨간코</string>
+
+    <!-- INGAME TIMERS -->
+    <string name="ingame_title">게임 타임즈</string>
+    <string name="reset_title">재설정</string>
+    <string name="night">다음 날</string>
+    <string name="day">다음 날</string>
+    <string name="resetDaily">매일</string>
+    <string name="resetImperial">황실</string>
+    <string name="resetImperialTrading">황실 무역</string>
+    <string name="resetBSA">흑정령의 모험</string>
+</resources>

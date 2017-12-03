@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NAVIGATION -->
+    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
+    <string name="navigation_drawer_close">Navigationsleiste schließen</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <!-- TITLES -->
+    <string name="title_header_timers">Timer</string>
+    <string name="title_header_crafting">Crafting</string>
+    <string name="title_header_calculators">Rechner</string>
+    <string name="title_header_charts">Listen</string>
+    <string name="title_header_misc">Sonstiges</string>
+    <string name="title_main_timer">Ingame Timer</string>
+    <string name="title_boss_timer">Boss Timer</string>
+    <string name="title_cooking_inspection">Inspektion</string>
+    <string name="title_cooking_db">Koch Rezepte</string>
+    <string name="title_alchemy_db">Alchemie Rezepte</string>
+    <string name="title_materialgroup">Materialgruppen</string>
+    <string name="title_horse_calculator">Pferdezuchtrechner</string>
+    <string name="title_market_calculator">Marktrechner</string>
+    <string name="title_failstack_chart">Failstack Tabelle</string>
+    <string name="title_grinding_chart">Grinding Tabelle</string>
+    <string name="title_horse_chart">Pferde Tabelle</string>
+    <string name="title_about">Info</string>
+    <string name="title_share">Teilen</string>
+    <string name="title_rate_app">App Bewerten</string>
+
+    <!-- INTROS -->
+    <string name="intro_market" formatted="false">Die Grundsteuer in BDO beträgt 35%. Vorteilspakete geben zusätzlich 30% des versteuerten Rückgabewerts.</string>
+    <string name="intro_grinding">Die Grindingspots werden nach <b>EXP-Bewertung</b> (vom höchsten zum niedrigsten) sortiert. Silber hängt stark vom AP/DP und der Geschwindigkeit ab.</string>
+    <string name="intro_bosstimer">Klicke <b>hier</b>, um die Boss-Spawn-Intervalle anzusehen.</string>
+    <string name="intro_bosstimer_offline">Du befindest dich im <b>Offline-Modus</b>. Änderungen werden nicht mit dem Server synchronisiert.</string>
+    <string name="intro_horselist">Jedes Pferd hat rote, schwarze und weiße Farbpunkte. Die Farbkombinationen werden verwendet um die möglichen Nachkommen zu berechnen.</string>
+
+    <!-- CRAFTING LEVEL -->
+    <string name="beginner">Anfänger</string>
+    <string name="apprentice">Lehrling</string>
+    <string name="skilled">Geselle</string>
+    <string name="professional">Kenner</string>
+    <string name="artisan">Fachmann</string>
+    <string name="master">Meister</string>
+    <string name="guru">Guru</string>
+
+    <!-- BOSSTIMER -->
+    <string name="bosstimer_data">Zuletzt: %1$s\nKommend: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>Boss ist im Spawnfenster!</b></string>
+    <string name="bosstimer_server_maintenance">Server Wartung</string>
+    <string name="bosstimer_region">Aktuelle Region: %s</string>
+
+    <!-- HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">Regionen haben unterschliedliche Pferdezuchtmultiplikatoren: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Derzeitige Auswahl: %1$d</string>
+    <string name="female_horse"><b>Weibliches Pferd</b></string>
+    <string name="male_horse"><b>Männliches Pferd</b></string>
+    <string name="tier">Stufe</string>
+    <string name="level">Level</string>
+    <string name="death">Tode</string>
+    <string name="horse_result">Männlich T%1$d (lvl: %2$d, tode: %3$d)\nWeiblich T%4$d (lvl: %5$d, tode: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">Tode (optional)</string>
+
+    <!-- MARKET CALCULATOR -->
+    <string name="value_pack"><b>Vorteilspaket</b></string>
+    <string name="value_pack_is_activated">Vorteilspaket ist aktiviert</string>
+    <string name="market_sell_price">Marktverkaufspreis</string>
+    <string name="market_sell_amount">Marktverkaufsmenge</string>
+    <string name="market_result"><b>Vorteilspaket:</b> %1$s\n<b>Profit:</b> %2$s</string>
+
+    <!-- ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">Basis Chance</string>
+    <string name="enhance_optimal_stacks">Optimale Stacks</string>
+    <string name="enhance_success_chance">Erfolgs Chance</string>
+    <string name="enhancement_weapon">Waffe</string>
+    <string name="enhancement_armor">Rüstung</string>
+    <string name="enhancement_accessory">Schmuck</string>
+
+    <!-- GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Level:</b> %2$s\n%3$s Millionen Silber/Stunde</string>
+
+    <!-- HORSE CHART -->
+    <string name="horse_description">Geschwindigkeit/Beschleunigung: %1$s%%\nTurn/Brake: %2$s%%</string>
+
+    <!-- MISC -->
+    <string name="rate_dialog_title">Bewerte die App</string>
+    <string name="rate_dialog_message">Wenn dir diese App gefällt, nimm dir doch einen Moment Zeit und bewerte sie. Danke für deine Unterstützung!</string>
+    <string name="rate_dialog_ok">Jetzt bewerten</string>
+    <string name="rate_dialog_cancel">Später</string>
+    <string name="rate_dialog_no">Nein, Danke</string>
+
+    <!-- PREF -->
+    <string name="pref_notice">Bei der Übersetzung helfen</string>
+    <string name="pref_language">Derzeit eingestellt auf: %s</string>
+    <string name="pref_screen_awake">Bildschirm für Timer angeschaltet lassen</string>
+    <string name="pref_title_screen_awake">Bildschirm angeschaltet lassen</string>
+    <string name="pref_title_language">Sprache</string>
+    <string name="pref_twitter">Twitter</string>
+    <string name="pref_notice_summary">Übersetzungen vorschlagen</string>
+    <string name="pref_twitter_summary">Folge mir auf Twitter für Projekt-Updates</string>
+    <string name="pref_attention">Bei neuen Einstellungen muss der Boss Timer möglicherweise neugeladen werden.</string>
+    <string name="pref_title_24hour">24-Stunden-Format</string>
+    <string name="pref_24hour">Zeige Uhrzeiten im 24-Stunden-Format an</string>
+    <string name="pref_title_bosspriority">Spawnfenster Priorität</string>
+    <string name="pref_bosspriority">Bosse die möglicherweise spawnen können werden zuerst angezeigt</string>
+    <string name="pref_title_bossnotification">Spawnfenster Benachrichtigung (Geschlossene Beta)</string>
+    <string name="pref_bossnotification">Aktiviert eine permanente Benachrichtigung von Spawnfenstern</string>
+    <string name="pref_title_region">Region</string>
+
+    <!-- ERRORS -->
+    <string name="error_generic">Fehler, versuche die Seite neuzuladen.</string>
+    <string name="error_bosstimer_nodata">Keine gespeicherten Datensätze\nAktualisiere selber den letzten Spawn.</string>
+
+    <!-- CRAFTING -->
+    <string name="crafting_material">Herstellungs-Material</string>
+    <string name="crafting_results">Herstellungs-Ergebnisse</string>
+    <string name="crafting_calculator">Herstellungs-Rechner</string>
+    <string name="crafted_amount">Menge:</string>
+    <string name="recipes">Rezepte</string>
+    <string name="show_all">Alles anzeigen</string>
+    <string name="bookmark_title_empty">Lesezeichenliste leer!</string>
+    <string name="bookmark_empty">Deine Lesezeichenliste ist derzeit leer.</string>
+
+    <!-- GENERAL -->
+    <string name="calculate">Berechnen</string>
+    <string name="level_required">Benötigtes Level: %1$s</string>
+    <string name="enabled">aktiviert</string>
+    <string name="disabled">deaktiviert</string>
+    <string name="can_substitute">Du kannst jeden Gegenstand dieser Liste benutzen:\n\n</string>
+    <string name="upgrade_to_pro">Werbung Entfernen</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbruch</string>
+    <string name="cooldown_push">Abklingzeit, versuche es wieder in 1 Stunde.</string>
+    <string name="loading">Lädt&#8230;</string>
+    <string name="search">Search&#8230;</string>
+    <string name="intervals">Intervalle</string>
+
+    <!-- ARRAY VALUES (DROPDOWNS ETC) -->
+    <string name="today">Heute</string>
+    <string name="yesterday">Gestern</string>
+
+    <string name="sort_by_name_asc">Sortiere nach Name: aufsteigend</string>
+    <string name="sort_by_name_desc">Sortiere nach Name: absteigend</string>
+    <string name="sort_by_level_asc">Sortiere nach Level: aufsteigend</string>
+    <string name="sort_by_level_desc">Sortiere nach Level: absteigend</string>
+
+    <string name="karanda">Karanda</string>
+    <string name="dimtreespirit">Dim Tree Spirit</string>
+    <string name="kzarka">Kzarka</string>
+    <string name="nouver">Nouver</string>
+    <string name="kutum">Kutum</string>
+    <string name="bheg">Dastard Bheg</string>
+    <string name="mudster">Giant Mudster</string>
+    <string name="rednose">Red Nose</string>
+
+    <!-- INGAME TIMERS -->
+    <string name="ingame_title">Ingame Timer</string>
+    <string name="reset_title">Zurücksetzungen</string>
+    <string name="night">Nacht in</string>
+    <string name="day">Tag in</string>
+    <string name="resetDaily">Täglich</string>
+    <string name="resetImperial">Kaiserlich</string>
+    <string name="resetImperialTrading">Kaiserlicher Handel</string>
+    <string name="resetBSA">Schwarzgeist Brettspiel</string>
+</resources>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NAVIGATION -->
+    <string name="navigation_drawer_open">ナビゲーション・ドロワーを開く</string>
+    <string name="navigation_drawer_close">ナビゲーション・ドロワーを閉じる</string>
+    <string name="action_settings">設定</string>
+
+    <!-- TITLES -->
+    <string name="title_header_timers">タイマー</string>
+    <string name="title_header_crafting">製作</string>
+    <string name="title_header_calculators">カルキュレーター</string>
+    <string name="title_header_charts">リスト</string>
+    <string name="title_header_misc">その他</string>
+    <string name="title_main_timer">ゲームタイマー</string>
+    <string name="title_boss_timer">ボスタイマー</string>
+    <string name="title_cooking_inspection">検査</string>
+    <string name="title_cooking_db">料理</string>
+    <string name="title_alchemy_db">錬金術</string>
+    <string name="title_materialgroup">品目グループ</string>
+    <string name="title_horse_calculator">馬の繁殖</string>
+    <string name="title_market_calculator">市場利益</string>
+    <string name="title_failstack_chart">スタックモデル</string>
+    <string name="title_grinding_chart">レベリング</string>
+    <string name="title_horse_chart">馬のタイプ</string>
+    <string name="title_about">情報</string>
+    <string name="title_share">シェア</string>
+    <string name="title_rate_app">アプリを評価</string>
+
+    <!-- INTROS -->
+    <string name="intro_market" formatted="false">黒い砂漠の基本税率は35％です。バリューパックは課税された戻り値の30％を追加します。</string>
+    <string name="intro_grinding">スポットは<b>戦闘経歴値</b>でソートされます。</string>
+    <string name="intro_bosstimer">スポーン間隔を表示するには、<b>ここ</b>をクリックしてください。</string>
+    <string name="intro_bosstimer_offline"><b>オフラインモード</b>。 変更はサーバーと同期されません。</string>
+    <string name="intro_horselist">色は繁殖を計算するために使用されます。</string>
+
+    <!-- CRAFTING LEVEL -->
+    <string name="beginner">初心者 Lv.</string>
+    <string name="apprentice">見習い Lv.</string>
+    <string name="skilled">熟練 Lv.</string>
+    <string name="professional">専門 Lv.</string>
+    <string name="artisan">職人 Lv.</string>
+    <string name="master">名匠 Lv.</string>
+    <string name="guru">道人 Lv.</string>
+
+    <!-- BOSSTIMER -->
+    <string name="bosstimer_data">最後: %1$s\n次: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>インターバルで!</b></string>
+    <string name="bosstimer_server_maintenance">サーバのメンテナンス</string>
+    <string name="bosstimer_region">現在の選択：%s</string>
+
+    <!-- HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">リージョンには異なる乗数があります: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13。現在の乗数：%1$d</string>
+    <string name="female_horse"><b>女性の馬</b></string>
+    <string name="male_horse"><b>男性馬</b></string>
+    <string name="tier">ティア</string>
+    <string name="level">レベル</string>
+    <string name="death">死亡額</string>
+    <string name="horse_result">男性 ティア%1$d (レベル: %2$d, 死亡額: %3$d)\n女性 ティア%4$d (レベル: %5$d, 死亡額: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">死亡額 (オプショナル)</string>
+
+    <!-- MARKET CALCULATOR -->
+    <string name="value_pack"><b>バリューパッケージ</b></string>
+    <string name="value_pack_is_activated">バリューパッケージはアクティブ</string>
+    <string name="market_sell_price">販売価格</string>
+    <string name="market_sell_amount">販売金額</string>
+    <string name="market_result"><b>バリューパッケージ:</b> %1$s\n<b>利益:</b> %2$s</string>
+
+    <!-- ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">ベースチャンス</string>
+    <string name="enhance_optimal_stacks">最適なスタック</string>
+    <string name="enhance_success_chance">成功のチャンス</string>
+    <string name="enhancement_weapon">武器</string>
+    <string name="enhancement_armor">鎧</string>
+    <string name="enhancement_accessory">アクセサリー</string>
+
+    <!-- GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>レベル:</b> %2$s\n%3$s百万銀/時</string>
+
+    <!-- HORSE CHART -->
+    <string name="horse_description">速度/加速度: %1$s%%\n回転力/ブレーキ: %2$s%%</string>
+
+    <!-- MISC -->
+    <string name="rate_dialog_title">アプリを評価</string>
+    <string name="rate_dialog_message">このアプリをお使い頂き大変ありがとうございます。もしよろしければ1分程で済みますので、このアプリの評価をお願いします。ご協力感謝いたします</string>
+    <string name="rate_dialog_ok">今すぐ評価する</string>
+    <string name="rate_dialog_cancel">後でする</string>
+    <string name="rate_dialog_no">いえ、結構です</string>
+
+    <!-- PREF -->
+    <string name="pref_notice">翻訳を改善する</string>
+    <string name="pref_language">現在の設定: %s</string>
+    <string name="pref_screen_awake">タイマーの画面をオンのままにします (ページの再読み込みが必要)</string>
+    <string name="pref_title_screen_awake">寝ないで</string>
+    <string name="pref_title_language">言語</string>
+    <string name="pref_twitter">Twitter</string>
+    <string name="pref_notice_summary">翻訳の更新を提案する</string>
+    <string name="pref_twitter_summary">プロジェクトの更新はTwitter上にある</string>
+    <string name="pref_attention">ボスタイマーを変更するには、ページをリロードする必要があります。</string>
+    <string name="pref_title_24hour">24時間形式</string>
+    <string name="pref_24hour">24時間表示時間</string>
+    <string name="pref_title_bosspriority">ボスの優先順位</string>
+    <string name="pref_bosspriority">ボスは優先順位でソートされます</string>
+    <string name="pref_title_bossnotification">Spawn Window Notification</string>
+    <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
+    <string name="pref_title_region">領域</string>
+
+    <!-- ERRORS -->
+    <string name="error_generic">エラー。 ページをリロードしてください。</string>
+    <string name="error_bosstimer_nodata">保存されたデータはありません。</string>
+
+    <!-- CRAFTING -->
+    <string name="crafting_material">材料</string>
+    <string name="crafting_results">製作の結果</string>
+    <string name="crafting_calculator">カルキュレーター</string>
+    <string name="crafted_amount">量:</string>
+    <string name="recipes">レシピ</string>
+    <string name="show_all">すべて表示する</string>
+    <string name="bookmark_title_empty">ブックマークリスト</string>
+    <string name="bookmark_empty">ブックマークリストは現在空です。</string>
+
+    <!-- GENERAL -->
+    <string name="calculate">計算</string>
+    <string name="level_required">必要レベル: %1$s</string>
+    <string name="enabled">アクティブ</string>
+    <string name="disabled">非アクティブ</string>
+    <string name="can_substitute">あなたは次の項目リストから任意の項目を使用することができます：\n\n</string>
+    <string name="upgrade_to_pro">広告を削除</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cooldown_push">1時間後にもう一度お試しください。</string>
+    <string name="loading">読み込んでいます&#8230;</string>
+    <string name="search">探索&#8230;</string>
+    <string name="intervals">インターバル</string>
+
+    <!-- ARRAY VALUES (DROPDOWNS ETC) -->
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+
+    <string name="sort_by_name_asc">名前で並べ替え：昇順</string>
+    <string name="sort_by_name_desc">名前順：降順</string>
+    <string name="sort_by_level_asc">レベルで並べ替え：昇順</string>
+    <string name="sort_by_level_desc">並べ替えレベル：降順</string>
+
+    <string name="karanda">カランダ</string>
+    <string name="dimtreespirit">愚鈍な木の精霊</string>
+    <string name="kzarka">クザカ</string>
+    <string name="nouver">ヌーベル</string>
+    <string name="kutum">クツム</string>
+    <string name="bheg">臆病なベグ</string>
+    <string name="mudster">巨大マッドマン</string>
+    <string name="rednose">レッドノーズ</string>
+
+    <!-- INGAME TIMERS -->
+    <string name="ingame_title">タイマー</string>
+    <string name="reset_title">リセット</string>
+    <string name="night">次の夜</string>
+    <string name="day">翌日</string>
+    <string name="resetDaily">毎日</string>
+    <string name="resetImperial">インペリア</string>
+    <string name="resetImperialTrading">インペリアル・トレーディング</string>
+    <string name="resetBSA">ボードゲーム</string>
+</resources>
