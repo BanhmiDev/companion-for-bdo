@@ -11,20 +11,20 @@
     <string name="title_header_calculators">Calculadoras</string>
     <string name="title_header_charts">Listas</string>
     <string name="title_header_misc">Diversos</string>
-    <string name="title_main_timer">No jogo</string>
-    <string name="title_boss_timer">Jefes</string>
-    <string name="title_cooking_inspection">Inspección</string>
-    <string name="title_cooking_db">Cocina</string>
+    <string name="title_main_timer">Jogo</string>
+    <string name="title_boss_timer">Chefes</string>
+    <string name="title_cooking_inspection">Inspecionar</string>
+    <string name="title_cooking_db">Culinária</string>
     <string name="title_alchemy_db">Alquimia</string>
-    <string name="title_materialgroup">Grupos de materiais</string>
-    <string name="title_horse_calculator">Criar caballos</string>
-    <string name="title_market_calculator">Beneficio del mercado</string>
+    <string name="title_materialgroup">Materiais por tipos</string>
+    <string name="title_horse_calculator">Criação de cavalos</string>
+    <string name="title_market_calculator">Imposto de mercado</string>
     <string name="title_failstack_chart">Failstacks</string>
-    <string name="title_grinding_chart">Campos de batalha</string>
-    <string name="title_horse_chart">Lista de caballos</string>
-    <string name="title_about">Información</string>
-    <string name="title_share">Compartir</string>
-    <string name="title_rate_app">Calificar aplicacion</string>
+    <string name="title_grinding_chart">Locais de Grind</string>
+    <string name="title_horse_chart">Lista de cavalos</string>
+    <string name="title_about">Informações</string>
+    <string name="title_share">Compartilhar</string>
+    <string name="title_rate_app">Qualificar Aplicativo</string>
 
     <!-- INTROS -->
     <string name="intro_market" formatted="false">Existe um imposto de base de 35%. O Pacote Econômico adiciona 30% do valor do reembolso de impostos.</string>
@@ -49,7 +49,7 @@
     <string name="bosstimer_region">Região atual: %s</string>
 
     <!-- HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Essas regiões têm diferentes multiplicadores: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Multiplicador selecionado: %1$d</string>
+    <string name="horse_breeding_multiplier">As regiões têm diferentes multiplicadores: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Multiplicador selecionado: %1$d</string>
     <string name="female_horse"><b>Fêmea</b></string>
     <string name="male_horse"><b>Masculino</b></string>
     <string name="tier">Tier</string>
@@ -60,18 +60,18 @@
 
     <!-- MARKET CALCULATOR -->
     <string name="value_pack"><b>Pacote Econômico</b></string>
-    <string name="value_pack_is_activated">Pacote Econômico está ativado</string>
+    <string name="value_pack_is_activated">Pacote Econômico está ativo</string>
     <string name="market_sell_price">Preço de venda</string>
     <string name="market_sell_amount">Quantidade</string>
     <string name="market_result"><b>Pacote Econômico:</b> %1$s\n<b>Lucro:</b> %2$s</string>
 
     <!-- ENHANCEMENT CHART -->
-    <string name="enhance_base_chance">Base Chance</string>
-    <string name="enhance_optimal_stacks">Optimal Stacks</string>
-    <string name="enhance_success_chance">Sucesso Chance</string>
+    <string name="enhance_base_chance">Chance Base</string>
+    <string name="enhance_optimal_stacks">Stacks Maximo</string>
+    <string name="enhance_success_chance">Chance de Sucesso</string>
     <string name="enhancement_weapon">Armas</string>
-    <string name="enhancement_armor">Armadura</string>
-    <string name="enhancement_accessory">Acessório</string>
+    <string name="enhancement_armor">Armaduras</string>
+    <string name="enhancement_accessory">Acessórios</string>
 
     <!-- GRINDING CHART -->
     <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Nível:</b> %2$s\n%3$s milhões de prata/hora</string>
