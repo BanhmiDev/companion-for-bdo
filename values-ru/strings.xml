@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- NAVIGATION -->
+    <!--
+        Hello, contributor! Here are some tips and hints on how to modify this file:
+        - Please leave %<number>$s, %<number>$d as it is. They are used as placeholders for e.g. times that do not need to be translated.
+        - If you want to use the  percentage character "%", then you have to encode it as "%%" (without the quotation marks).
+        - Newlines are marked as \n and should also not be removed.
+        EXAMPLE: %1$s%% means that this would display something like this: <PLACEHOLDER>%
+        TL;DR: ignore the weird strings.
+
+        You also give feedback that isn't related to translation on the repository itself.
+        And again, thank you for your contribution!
+    -->
+    <string name="app_name">Companion for BDO</string>
+
+    <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_settings">Параметры</string>
 
-    <!-- TITLES -->
+    <!-- !! TITLES -->
     <string name="title_header_timers">Расписание</string>
     <string name="title_header_crafting">Крафт</string>
     <string name="title_header_calculators">Калькулятор</string>
@@ -26,104 +39,17 @@
     <string name="title_share">Поделиться</string>
     <string name="title_rate_app">Оцените приложение</string>
 
-    <!-- INTROS -->
+    <!-- !! INTROS -->
     <string name="intro_market" formatted="false">Как работает набор “Комфорт” для аукциона: из суммы, полученной за продажу предмета, по-прежнему снимается 35% налога, однако вместе с тем к ней добавляется 30% от действия набора;</string>
     <string name="intro_grinding">Местоположение сортируется по <b>рейтингу EXP</b> (от самого высокого до самого низкого). Вывод серебра зависит от AP/DP и скорости очистки.</string>
     <string name="intro_bosstimer">Нажмите <b>здесь</b>, чтобы просмотреть интервалы.</string>
     <string name="intro_bosstimer_offline"><b>Автономный режим</b>. Изменения не будут синхронизированы с сервером.</string>
     <string name="intro_horselist">Для увеличения шансов на получение детеныша с высоким показателем конкретного гена необходимо сводить родителей с высоким показателем этого гена.</string>
 
-    <!-- CRAFTING LEVEL -->
-    <string name="beginner">Новичок</string>
-    <string name="apprentice">Ученик</string>
-    <string name="skilled">Профессионал</string>
-    <string name="professional">Эксперт</string>
-    <string name="artisan">Мастер</string>
-    <string name="master">Грандмастер</string>
-    <string name="guru">Специалист</string>
-
-    <!-- BOSSTIMER -->
-    <string name="bosstimer_data">Время смерти: %1$s\nреспа: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>идет респ!</b></string>
-    <string name="bosstimer_server_maintenance">Обслуживание</string>
-    <string name="bosstimer_region">Текущий выбор: %s</string>
-
-    <!-- HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">На RU-серверах равен 13: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. В настоящий момент установлено значение: %1$d</string>
-    <string name="female_horse"><b>Мужской</b></string>
-    <string name="male_horse"><b>Женский</b></string>
-    <string name="tier">Pанг</string>
-    <string name="level">Уровень</string>
-    <string name="death">смертей</string>
-    <string name="horse_result">Мужской T%1$d (lvl: %2$d, смертей: %3$d)\nЖенский T%4$d (lvl: %5$d, смертей: %6$d)\n\n%7$s</string>
-    <string name="horse_hint_deaths">смертей (необязательный)</string>
-
-    <!-- MARKET CALCULATOR -->
-    <string name="value_pack"><b>Набор Комфорт</b></string>
-    <string name="value_pack_is_activated">Набор Комфорт</string>
-    <string name="market_sell_price">Цена продажи</string>
-    <string name="market_sell_amount">Количество</string>
-    <string name="market_result"><b>Набор Комфорт:</b> %1$s\n<b>Прибыль:</b> %2$s</string>
-
-    <!-- ENHANCEMENT CHART -->
-    <string name="enhance_base_chance">базовый шанс</string>
-    <string name="enhance_optimal_stacks">Макс стеки</string>
-    <string name="enhance_success_chance">Шанс успеха</string>
-    <string name="enhancement_weapon">Оружие</string>
-    <string name="enhancement_armor">Броня</string>
-    <string name="enhancement_accessory">Aксессуар</string>
-
-    <!-- GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Уровень:</b> %2$s\n%3$s миллионов серебра/час</string>
-
-    <!-- HORSE CHART -->
-    <string name="horse_description">Скопость/Ускорение: %1$s%%\nПоворот/Тормоз: %2$s%%</string>
-
-    <!-- MISC -->
-    <string name="rate_dialog_title">Оцените приложение</string>
-    <string name="rate_dialog_message">Если вам понравилось это приложение, пожалуйста, найдите время, чтобы оценить его. Это не займет больше минуты. Спасибо за вашу поддержку!</string>
-    <string name="rate_dialog_ok">Оценить сейчас</string>
-    <string name="rate_dialog_cancel">Напомнить позже</string>
-    <string name="rate_dialog_no">Нет, спасибо</string>
-
-    <!-- PREF -->
-    <string name="pref_notice">Помощь с переводом</string>
-    <string name="pref_language">В настоящий момент установлено значение: %s</string>
-    <string name="pref_screen_awake">Удерживать экран на таймерах (вы должны перезагрузить страницу)</string>
-    <string name="pref_title_screen_awake">Не спи</string>
-    <string name="pref_title_language">Язык</string>
-    <string name="pref_twitter">Twitter</string>
-    <string name="pref_notice_summary">Предложить обновления для перевода</string>
-    <string name="pref_twitter_summary">Следуйте за мной в Twitter для получения обновлений</string>
-    <string name="pref_attention">Изменения настроек таймера босса могут потребовать перезагрузки страницы.</string>
-    <string name="pref_title_24hour">24-часовой</string>
-    <string name="pref_24hour">Время отображения в 24-часовом формате</string>
-    <string name="pref_title_bosspriority">приоритет босса</string>
-    <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
-    <string name="pref_title_bossnotification">Spawn Window Notification</string>
-    <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
-    <string name="pref_title_region">Область</string>
-
-    <!-- ERRORS -->
-    <string name="error_generic">Ошибка, попробуйте перезагрузить страницу.</string>
-    <string name="error_bosstimer_nodata">Нет сохраненных данных\nОбновите себя.</string>
-
-    <!-- CRAFTING -->
-    <string name="crafting_material">Mатериал</string>
-    <string name="crafting_results">Результат</string>
-    <string name="crafting_calculator">Расчёт крафта</string>
-    <string name="crafted_amount">Количество:</string>
-    <string name="show_all">Показать все</string>
-    <string name="recipes">Рецепт</string>
-    <string name="bookmark_title_empty">Список пуст!</string>
-    <string name="bookmark_empty">Список закладок пуст.</string>
-
-    <!-- GENERAL -->
+    <!-- !! GENERAL -->
     <string name="calculate">Вычислить</string>
-    <string name="level_required">Уровень ремесла: %1$s</string>
     <string name="enabled">активный</string>
     <string name="disabled">не активен</string>
-    <string name="can_substitute">Можно использовать любой предмет из списка:\n\n</string>
     <string name="upgrade_to_pro">Премиум</string>
     <string name="ok">OK</string>
     <string name="cancel">Отмена</string>
@@ -131,16 +57,34 @@
     <string name="loading">Loading&#8230;</string>
     <string name="search">Поиск&#8230;</string>
     <string name="intervals">Интервалы</string>
-
-    <!-- ARRAY VALUES (DROPDOWNS ETC) -->
     <string name="today">Cегодня</string>
     <string name="yesterday">Вчера</string>
-
     <string name="sort_by_name_asc">Сортировать по имени: по возрастанию</string>
     <string name="sort_by_name_desc">Сортировать по имени: по убыванию</string>
     <string name="sort_by_level_asc">Сортировать по Уровень: по возрастанию</string>
     <string name="sort_by_level_desc">Сортировать по Уровень: по убыванию</string>
 
+    <!-- !! INGAME TIMERS -->
+    <string name="ingame_title">Расписание внутриигровой</string>
+    <string name="reset_title">Сбросить время</string>
+    <string name="night">Ночь за</string>
+    <string name="day">День за</string>
+    <string name="resetDaily">Ежедневно</string>
+    <string name="resetImperial">имперский</string>
+    <string name="resetImperialTrading">Имперская торговля</string>
+    <string name="resetBSA">Приключения Черного духа</string>
+
+    <!-- !! BOSSTIMER -->
+    <string name="bosstimer_data">Время смерти: %1$s\nреспа: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>идет респ!</b></string>
+    <string name="bosstimer_server_maintenance">Обслуживание</string>
+    <string name="bosstimer_region">Текущий выбор: %s</string>
+    <string name="bosstimer_5min">5 минут</string>
+    <string name="bosstimer_15min">15 минут</string>
+    <string name="bosstimer_30min">30 минут</string>
+    <string name="bosstimer_60min">60 минут</string>
+    <string name="pref_title_bossfetchtime">босс синхронизации времени в минутах</string>
+    <!-- BOSS NAMES -->
     <string name="karanda">Каранда</string>
     <string name="dimtreespirit">Древень</string>
     <string name="kzarka">Кзарка</string>
@@ -150,13 +94,87 @@
     <string name="mudster">Грязь</string>
     <string name="rednose">Красный нос</string>
 
-    <!-- INGAME TIMERS -->
-    <string name="ingame_title">Расписание внутриигровой</string>
-    <string name="reset_title">Сбросить время</string>
-    <string name="night">Ночь за</string>
-    <string name="day">День за</string>
-    <string name="resetDaily">Ежедневно</string>
-    <string name="resetImperial">имперский</string>
-    <string name="resetImperialTrading">Имперская торговля</string>
-    <string name="resetBSA">Приключения Черного духа</string>
+    <!-- !! CRAFTING -->
+    <!-- CRAFTING LEVEL -->
+    <string name="level_required">Уровень ремесла: %1$s</string>
+    <string name="beginner">Новичок</string>
+    <string name="apprentice">Ученик</string>
+    <string name="skilled">Профессионал</string>
+    <string name="professional">Эксперт</string>
+    <string name="artisan">Мастер</string>
+    <string name="master">Грандмастер</string>
+    <string name="guru">Специалист</string>
+    <!-- CRAFTING BUTTONS -->
+    <string name="crafting_material">Mатериал</string>
+    <string name="crafting_results">Результат</string>
+    <string name="crafting_calculator">Расчёт крафта</string>
+    <string name="crafted_amount">Количество:</string>
+    <string name="show_all">Показать все</string>
+    <string name="recipes">Рецепт</string>
+    <string name="bookmark_title_empty">Список пуст!</string>
+    <string name="bookmark_empty">Список закладок пуст.</string>
+    <string name="can_substitute">Можно использовать любой предмет из списка:\n\n</string>
+
+    <!-- !! HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">На RU-серверах равен 13: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. В настоящий момент установлено значение: %1$d</string>
+    <string name="female_horse"><b>Мужской</b></string>
+    <string name="male_horse"><b>Женский</b></string>
+    <string name="tier">Pанг</string>
+    <string name="level">Уровень</string>
+    <string name="death">смертей</string>
+    <string name="horse_result">Мужской T%1$d (lvl: %2$d, смертей: %3$d)\nЖенский T%4$d (lvl: %5$d, смертей: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">смертей (необязательный)</string>
+
+    <!-- !! MARKET CALCULATOR -->
+    <string name="value_pack"><b>Набор Комфорт</b></string>
+    <string name="value_pack_is_activated">Набор Комфорт</string>
+    <string name="market_sell_price">Цена продажи</string>
+    <string name="market_sell_amount">Количество</string>
+    <string name="market_result"><b>Набор Комфорт:</b> %1$s\n<b>Прибыль:</b> %2$s</string>
+
+    <!-- !! ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">базовый шанс</string>
+    <string name="enhance_optimal_stacks">Макс стеки</string>
+    <string name="enhance_success_chance">Шанс успеха</string>
+    <string name="enhancement_weapon">Оружие</string>
+    <string name="enhancement_armor">Броня</string>
+    <string name="enhancement_accessory">Aксессуар</string>
+
+    <!-- !! GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Уровень:</b> %2$s\n%3$s миллионов серебра/час</string>
+
+    <!-- !! HORSE CHART -->
+    <string name="horse_description">Скопость/Ускорение: %1$s%%\nПоворот/Тормоз: %2$s%%</string>
+
+    <!-- !! ERRORS -->
+    <string name="error_generic">Ошибка, попробуйте перезагрузить страницу.</string>
+    <string name="error_bosstimer_nodata">Нет сохраненных данных\nОбновите себя.</string>
+
+    <!-- !! SETTINGS PAGE (Title + Description) -->
+    <!-- SETTINGS -->
+    <string name="pref_title_language">Язык</string>
+    <string name="pref_language">В настоящий момент установлено значение: %s</string>
+    <string name="pref_title_24hour">24-часовой</string>
+    <string name="pref_24hour">Время отображения в 24-часовом формате</string>
+    <!-- BOSSTIMER -->
+    <string name="pref_attention">Изменения настроек таймера босса могут потребовать перезагрузки страницы.</string>
+    <string name="pref_title_region">Область</string>
+    <string name="pref_title_screen_awake">Не спи</string>
+    <string name="pref_screen_awake">Удерживать экран на таймерах</string>
+    <string name="pref_title_bosspriority">Сортировать боссы</string>
+    <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
+    <string name="pref_title_bossnotification">Уведомления о боссе</string>
+    <string name="pref_bossnotification">Включить уведомление о боссе (BETA)</string>
+    <!-- MISC -->
+    <string name="pref_title_twitter">Twitter</string>
+    <string name="pref_twitter">Следуйте за мной в Twitter для получения обновлений</string>
+    <string name="pref_translate">Предложить обновления для перевода</string>
+    <string name="pref_title_translate">Помощь с переводом</string>
+
+    <!-- !! RATE APP -->
+    <string name="rate_dialog_title">Оцените приложение</string>
+    <string name="rate_dialog_message">Если вам понравилось это приложение, пожалуйста, найдите время, чтобы оценить его. Это не займет больше минуты. Спасибо за вашу поддержку!</string>
+    <string name="rate_dialog_ok">Оценить сейчас</string>
+    <string name="rate_dialog_cancel">Напомнить позже</string>
+    <string name="rate_dialog_no">Нет, спасибо</string>
 </resources>

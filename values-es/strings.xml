@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- NAVIGATION -->
+    <!--
+        Hello, contributor! Here are some tips and hints on how to modify this file:
+        - Please leave %<number>$s, %<number>$d as it is. They are used as placeholders for e.g. times that do not need to be translated.
+        - If you want to use the  percentage character "%", then you have to encode it as "%%" (without the quotation marks).
+        - Newlines are marked as \n and should also not be removed.
+        EXAMPLE: %1$s%% means that this would display something like this: <PLACEHOLDER>%
+        TL;DR: ignore the weird strings.
+
+        You also give feedback that isn't related to translation on the repository itself.
+        And again, thank you for your contribution!
+    -->
+    <string name="app_name">Companion for BDO</string>
+
+    <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
     <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
     <string name="action_settings">Configuraciones</string>
 
-    <!-- TITLES -->
+    <!-- !! TITLES -->
     <string name="title_header_timers">Temporizadores</string>
     <string name="title_header_crafting">Produção</string>
     <string name="title_header_calculators">Calculadoras</string>
@@ -26,104 +39,17 @@
     <string name="title_share">Compartir</string>
     <string name="title_rate_app">Calificar aplicacion</string>
 
-    <!-- INTROS -->
+    <!-- !! INTROS -->
     <string name="intro_market" formatted="false">Hay un 35% de impuesto base. Paquete de Valor agrega el 30% del valor de devolución gravado.</string>
     <string name="intro_grinding">Ordenado por <b>tasas de EXP</b> (de mayor a menor). El beneficio depende en gran medida de AP/DP y velocidad clara.</string>
     <string name="intro_bosstimer">Haga clic en <b>aquí</b> para ver los intervalos.</string>
     <string name="intro_bosstimer_offline">Estás en <b>modo fuera de línea</b>. Los cambios no se sincronizarán con el servidor.</string>
     <string name="intro_horselist">Cada caballo tiene números rojos, negros y blancos. Las combinaciones de colores podrían usarse para calcular posibles descendientes.</string>
 
-    <!-- CRAFTING LEVEL -->
-    <string name="beginner">Nivel Principiante</string>
-    <string name="apprentice">Nivel Aprendiz</string>
-    <string name="skilled">Nivel Hábil</string>
-    <string name="professional">Nivel Profesional</string>
-    <string name="artisan">Nivel Artesano</string>
-    <string name="master">Nivel Maestro</string>
-    <string name="guru">Nivel Gurú</string>
-
-    <!-- BOSSTIMER -->
-    <string name="bosstimer_data">Último: %1$s\nPróximo: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>¡Jefe en intervalo!</b></string>
-    <string name="bosstimer_server_maintenance">El mantenimiento del servidor</string>
-    <string name="bosstimer_region">Selección actual: %s</string>
-
-    <!-- HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Multiplicador seleccionado: %1$d</string>
-    <string name="female_horse"><b>Hembra</b></string>
-    <string name="male_horse"><b>Masculino</b></string>
-    <string name="tier">Grado</string>
-    <string name="level">Nivel</string>
-    <string name="death">Muertes</string>
-    <string name="horse_result">Masculino T%1$d (nvl: %2$d, muertes: %3$d)\nHembra T%4$d (nvl: %5$d, muertes: %6$d)\n\n%7$s</string>
-    <string name="horse_hint_deaths">Muertes (opcional)</string>
-
-    <!-- MARKET CALCULATOR -->
-    <string name="value_pack"><b>Paquete de Valor</b></string>
-    <string name="value_pack_is_activated">Paquete de Valor está activado</string>
-    <string name="market_sell_price">Precio de venta</string>
-    <string name="market_sell_amount">Cantidad</string>
-    <string name="market_result"><b>Paquete de Valor:</b> %1$s\n<b>Lucro:</b> %2$s</string>
-
-    <!-- ENHANCEMENT CHART -->
-    <string name="enhance_base_chance">Probabilidad de base</string>
-    <string name="enhance_optimal_stacks">Optimal Stacks</string>
-    <string name="enhance_success_chance">Probabilidad de éxito</string>
-    <string name="enhancement_weapon">Arma</string>
-    <string name="enhancement_armor">Armadura</string>
-    <string name="enhancement_accessory">Accesorio</string>
-
-    <!-- GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Nivel:</b> %2$s\n%3$s millones de plata/hora</string>
-
-    <!-- HORSE CHART -->
-    <string name="horse_description">Velocidad/Aceleración: %1$s%%\nVuelta/Freno: %2$s%%</string>
-
-    <!-- MISC -->
-    <string name="rate_dialog_title">Valorar la aplicación</string>
-    <string name="rate_dialog_message">Si te ha gustado la aplicación, ¿te importaría valorar la aplicación? No te llevará más de un minuto. ¡Gracias por tu apoyo!</string>
-    <string name="rate_dialog_ok">Valorar ahora</string>
-    <string name="rate_dialog_cancel">Recuérdamelo más tarde</string>
-    <string name="rate_dialog_no">¡No, gracias!</string>
-
-    <!-- PREF -->
-    <string name="pref_notice">Ayuda con traducciones</string>
-    <string name="pref_language">Actualmente establecido en: %s</string>
-    <string name="pref_screen_awake">Mantenga la pantalla despierta en los temporizadores (se requiere actualización de página)</string>
-    <string name="pref_title_screen_awake">Mantenga la pantalla activa</string>
-    <string name="pref_title_language">Idioma</string>
-    <string name="pref_twitter">Twitter</string>
-    <string name="pref_notice_summary">Sugerir actualizaciones de traducción</string>
-    <string name="pref_twitter_summary">Sígueme en Twitter para actualizaciones de proyectos</string>
-    <string name="pref_attention">Los cambios en la configuración del temporizador pueden requerir una recarga de página.</string>
-    <string name="pref_title_24hour">Formato de 24 horas</string>
-    <string name="pref_24hour">Mostrar hora en formato de 24 horas</string>
-    <string name="pref_title_bosspriority">Prioridad jefe</string>
-    <string name="pref_bosspriority">Los jefes se ordenan por prioridad</string>
-    <string name="pref_title_bossnotification">Spawn Window Notification</string>
-    <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
-    <string name="pref_title_region">Región</string>
-
-    <!-- ERRORS -->
-    <string name="error_generic">Error, intenta volver a cargar la página.</string>
-    <string name="error_bosstimer_nodata">No hay datos guardados disponibles\nActualice los datos usted mismo.</string>
-
-    <!-- CRAFTING -->
-    <string name="crafting_material">Material</string>
-    <string name="crafting_results">Resultados</string>
-    <string name="crafting_calculator">Calculadora</string>
-    <string name="crafted_amount">Cantidad:</string>
-    <string name="recipes">Recetas</string>
-    <string name="show_all">Mostrar todo</string>
-    <string name="bookmark_title_empty">Lista vacía</string>
-    <string name="bookmark_empty">La lista de marcadores está vacía.</string>
-
-    <!-- GENERAL -->
+    <!-- !! GENERAL -->
     <string name="calculate">Calcular</string>
-    <string name="level_required">Nivel requerido: %1$s</string>
     <string name="enabled">habilitado</string>
     <string name="disabled">discapacitado</string>
-    <string name="can_substitute">Puede utilizar cualquier elemento de la siguiente lista de elementos:\n\n</string>
     <string name="upgrade_to_pro">Quitar anuncios</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancelar</string>
@@ -131,16 +57,29 @@
     <string name="loading">Cargando&#8230;</string>
     <string name="search">Buscar&#8230;</string>
     <string name="intervals">Intervalos</string>
-
-    <!-- ARRAY VALUES (DROPDOWNS ETC) -->
     <string name="today">Hoy</string>
     <string name="yesterday">Ayer</string>
-
     <string name="sort_by_name_asc">Ordenar por nombre: ascendente</string>
     <string name="sort_by_name_desc">Ordenar por nombre: descendente</string>
     <string name="sort_by_level_asc">Ordenar por nivel: ascendente</string>
     <string name="sort_by_level_desc">Ordenar por nivel: descendente</string>
 
+    <!-- !! INGAME TIMERS -->
+    <string name="ingame_title">Temporizadores</string>
+    <string name="reset_title">Restablecimientos</string>
+    <string name="night">Noche en</string>
+    <string name="day">Día en</string>
+    <string name="resetDaily">Diario</string>
+    <string name="resetImperial">Imperial</string>
+    <string name="resetImperialTrading">Comercio imperial</string>
+    <string name="resetBSA">Black Spirit Adventure</string>
+
+    <!-- !! BOSSTIMER -->
+    <string name="bosstimer_data">Último: %1$s\nPróximo: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>¡Jefe en intervalo!</b></string>
+    <string name="bosstimer_server_maintenance">El mantenimiento del servidor</string>
+    <string name="bosstimer_region">Selección actual: %s</string>
+    <!-- BOSS NAMES -->
     <string name="karanda">Karanda</string>
     <string name="dimtreespirit">Dim Tree Spirit</string>
     <string name="kzarka">Kzarka</string>
@@ -150,13 +89,92 @@
     <string name="mudster">Mudster Enorme</string>
     <string name="rednose">Nariz Roja</string>
 
-    <!-- INGAME TIMERS -->
-    <string name="ingame_title">Temporizadores</string>
-    <string name="reset_title">Restablecimientos</string>
-    <string name="night">Noche en</string>
-    <string name="day">Día en</string>
-    <string name="resetDaily">Diario</string>
-    <string name="resetImperial">Imperial</string>
-    <string name="resetImperialTrading">Comercio imperial</string>
-    <string name="resetBSA">Black Spirit Adventure</string>
+    <!-- !! CRAFTING -->
+    <!-- CRAFTING LEVEL -->
+    <string name="level_required">Nivel requerido: %1$s</string>
+    <string name="beginner">Nivel Principiante</string>
+    <string name="apprentice">Nivel Aprendiz</string>
+    <string name="skilled">Nivel Hábil</string>
+    <string name="professional">Nivel Profesional</string>
+    <string name="artisan">Nivel Artesano</string>
+    <string name="master">Nivel Maestro</string>
+    <string name="guru">Nivel Gurú</string>
+    <!-- CRAFTING BUTTONS -->
+    <string name="crafting_material">Material</string>
+    <string name="crafting_results">Resultados</string>
+    <string name="crafting_calculator">Calculadora</string>
+    <string name="crafted_amount">Cantidad:</string>
+    <string name="recipes">Recetas</string>
+    <string name="show_all">Mostrar todo</string>
+    <string name="bookmark_title_empty">Lista vacía</string>
+    <string name="bookmark_empty">La lista de marcadores está vacía.</string>
+    <string name="can_substitute">Puede utilizar cualquier elemento de la siguiente lista de elementos:\n\n</string>
+
+    <!-- !! HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Multiplicador seleccionado: %1$d</string>
+    <string name="female_horse"><b>Hembra</b></string>
+    <string name="male_horse"><b>Masculino</b></string>
+    <string name="tier">Grado</string>
+    <string name="level">Nivel</string>
+    <string name="death">Muertes</string>
+    <string name="horse_result">Masculino T%1$d (nvl: %2$d, muertes: %3$d)\nHembra T%4$d (nvl: %5$d, muertes: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">Muertes (opcional)</string>
+
+    <!-- !! MARKET CALCULATOR -->
+    <string name="value_pack"><b>Paquete de Valor</b></string>
+    <string name="value_pack_is_activated">Paquete de Valor está activado</string>
+    <string name="market_sell_price">Precio de venta</string>
+    <string name="market_sell_amount">Cantidad</string>
+    <string name="market_result"><b>Paquete de Valor:</b> %1$s\n<b>Lucro:</b> %2$s</string>
+
+    <!-- !! ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">Probabilidad de base</string>
+    <string name="enhance_optimal_stacks">Optimal Stacks</string>
+    <string name="enhance_success_chance">Probabilidad de éxito</string>
+    <string name="enhancement_weapon">Arma</string>
+    <string name="enhancement_armor">Armadura</string>
+    <string name="enhancement_accessory">Accesorio</string>
+
+    <!-- !! GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Nivel:</b> %2$s\n%3$s millones de plata/hora</string>
+
+    <!-- !! HORSE CHART -->
+    <string name="horse_description">Velocidad/Aceleración: %1$s%%\nVuelta/Freno: %2$s%%</string>
+
+    <!-- !! ERRORS -->
+    <string name="error_generic">Error, intenta volver a cargar la página.</string>
+    <string name="error_bosstimer_nodata">No hay datos guardados disponibles\nActualice los datos usted mismo.</string>
+
+    <!-- !! SETTINGS PAGE (Title + Description) -->
+    <!-- SETTINGS -->
+    <string name="pref_title_language">Idioma</string>
+    <string name="pref_language">Actualmente establecido en: %s</string>
+    <string name="pref_title_24hour">Formato de 24 horas</string>
+    <string name="pref_24hour">Mostrar hora en formato de 24 horas</string>
+    <!-- BOSSTIMER -->
+    <string name="pref_attention">Los cambios en la configuración del temporizador pueden requerir una recarga de página.</string>
+    <string name="pref_title_region">Región</string>
+    <string name="pref_title_screen_awake">Mantenga la pantalla activa</string>
+    <string name="pref_screen_awake">Mantenga la pantalla despierta en los temporizadores</string>
+    <string name="pref_title_bosspriority">Ordenar jefes</string>
+    <string name="pref_bosspriority">Los jefes se ordenan por prioridad</string>
+    <string name="pref_title_bossnotification">Notificación de spawn</string>
+    <string name="pref_bossnotification">Habilitar notificaciones permanentes para jefes (BETA)</string>
+    <string name="pref_title_bossfetchtime">Tiempo de sincronización del jefe en minutos</string>
+    <string name="bosstimer_5min">5 minutos</string>
+    <string name="bosstimer_15min">15 minutos</string>
+    <string name="bosstimer_30min">30 minutos</string>
+    <string name="bosstimer_60min">60 minutos</string>
+    <!-- MISC -->
+    <string name="pref_title_twitter">Twitter</string>
+    <string name="pref_twitter">Sígueme en Twitter para actualizaciones de proyectos</string>
+    <string name="pref_title_translate">Ayuda con traducciones</string>
+    <string name="pref_translate">Sugerir actualizaciones de traducción</string>
+
+    <!-- !! RATE APP -->
+    <string name="rate_dialog_title">Valorar la aplicación</string>
+    <string name="rate_dialog_message">Si te ha gustado la aplicación, ¿te importaría valorar la aplicación? No te llevará más de un minuto. ¡Gracias por tu apoyo!</string>
+    <string name="rate_dialog_ok">Valorar ahora</string>
+    <string name="rate_dialog_cancel">Recuérdamelo más tarde</string>
+    <string name="rate_dialog_no">¡No, gracias!</string>
 </resources>

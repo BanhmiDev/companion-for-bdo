@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- NAVIGATION -->
+    <!--
+        Hello, contributor! Here are some tips and hints on how to modify this file:
+        - Please leave %<number>$s, %<number>$d as it is. They are used as placeholders for e.g. times that do not need to be translated.
+        - If you want to use the  percentage character "%", then you have to encode it as "%%" (without the quotation marks).
+        - Newlines are marked as \n and should also not be removed.
+        EXAMPLE: %1$s%% means that this would display something like this: <PLACEHOLDER>%
+        TL;DR: ignore the weird strings.
+
+        You also give feedback that isn't related to translation on the repository itself.
+        And again, thank you for your contribution!
+    -->
+    <string name="app_name">Companion for BDO</string>
+
+    <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_settings">Settings</string>
 
-    <!-- TITLES -->
+    <!-- !! TITLES -->
     <string name="title_header_timers">Timers</string>
     <string name="title_header_crafting">Crafting</string>
     <string name="title_header_calculators">Calculators</string>
@@ -26,104 +39,17 @@
     <string name="title_share">Share</string>
     <string name="title_rate_app">Rate App</string>
 
-    <!-- INTROS -->
+    <!-- !! INTROS -->
     <string name="intro_market" formatted="false">The base tax in BDO is 35%. Value Packs add 30% of the taxed return value.</string>
     <string name="intro_grinding">Grinding spots are sorted by <b>EXP rating</b> (highest to lowest). The silver output heavily depends on your AP/DP and clear speed.</string>
     <string name="intro_bosstimer">Click <b>here</b> to view boss spawn intervals.</string>
     <string name="intro_bosstimer_offline">You are in <b>offline-mode</b>. Changes won\'t be synchronized with the server.</string>
     <string name="intro_horselist">Each horse has red, black and white color points. The color combinations could be used to calculate the possible offspring.</string>
 
-    <!-- CRAFTING LEVEL -->
-    <string name="beginner">Beginner</string>
-    <string name="apprentice">Apprentice</string>
-    <string name="skilled">Skilled</string>
-    <string name="professional">Professional</string>
-    <string name="artisan">Artisan</string>
-    <string name="master">Master</string>
-    <string name="guru">Guru</string>
-
-    <!-- BOSSTIMER -->
-    <string name="bosstimer_data">Last: %1$s\nNext: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>Boss is in spawn window!</b></string>
-    <string name="bosstimer_server_maintenance">Server Maintenance</string>
-    <string name="bosstimer_region">Current region: %s</string>
-
-    <!-- HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Regions have different Horse Breeding Multipliers: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Selected multiplier: %1$d</string>
-    <string name="female_horse"><b>Female Horse</b></string>
-    <string name="male_horse"><b>Male Horse</b></string>
-    <string name="tier">Tier</string>
-    <string name="level">Level</string>
-    <string name="death">Deaths</string>
-    <string name="horse_result">Male T%1$d (lvl: %2$d, deaths: %3$d)\nFemale T%4$d (lvl: %5$d, deaths: %6$d)\n\n%7$s</string>
-    <string name="horse_hint_deaths">Deaths (optional)</string>
-
-    <!-- MARKET CALCULATOR -->
-    <string name="value_pack"><b>Value Pack</b></string>
-    <string name="value_pack_is_activated">Value Pack is activated</string>
-    <string name="market_sell_price">Market Sell Price</string>
-    <string name="market_sell_amount">Market Sell Amount</string>
-    <string name="market_result"><b>Value Pack:</b> %1$s\n<b>Profit:</b> %2$s</string>
-
-    <!-- ENHANCEMENT CHART -->
-    <string name="enhance_base_chance">Base Chance</string>
-    <string name="enhance_optimal_stacks">Optimal Stacks</string>
-    <string name="enhance_success_chance">Success Chance</string>
-    <string name="enhancement_weapon">Weapon</string>
-    <string name="enhancement_armor">Armor</string>
-    <string name="enhancement_accessory">Accessory</string>
-
-    <!-- GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Level:</b> %2$s\n%3$s million silver/hour</string>
-
-    <!-- HORSE CHART -->
-    <string name="horse_description">Speed/Acceleration: %1$s%%\nTurn/Brake: %2$s%%</string>
-
-    <!-- MISC -->
-    <string name="rate_dialog_title">Rate this app</string>
-    <string name="rate_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
-    <string name="rate_dialog_ok">Rate now</string>
-    <string name="rate_dialog_cancel">Later</string>
-    <string name="rate_dialog_no">No, thanks</string>
-
-    <!-- PREFERENCES -->
-    <string name="pref_notice">Help with translations</string>
-    <string name="pref_language">Currently set to: %s</string>
-    <string name="pref_screen_awake">Keep the screen awake for ingame and boss timers</string>
-    <string name="pref_title_screen_awake">Keep the screen awake</string>
-    <string name="pref_title_language">Language</string>
-    <string name="pref_twitter">Twitter</string>
-    <string name="pref_notice_summary">Suggest translation updates</string>
-    <string name="pref_twitter_summary">Follow me on Twitter for project updates</string>
-    <string name="pref_attention">Changes to boss timer settings might require a page reload.</string>
-    <string name="pref_title_24hour">24-Hour Format</string>
-    <string name="pref_24hour">Display time in 24-hour format</string>
-    <string name="pref_title_bosspriority">Spawnable Boss Priority</string>
-    <string name="pref_bosspriority">Bosses in spawn windows are shown first</string>
-    <string name="pref_title_bossnotification">Spawn Window Notification (Closed Beta)</string>
-    <string name="pref_bossnotification">Enable permanent notification for spawnable bosses</string>
-    <string name="pref_title_region">Region</string>
-
-    <!-- ERRORS -->
-    <string name="error_generic">Error, try to reload the page.</string>
-    <string name="error_bosstimer_nodata">No saved data available\nRefresh last spawn yourself.</string>
-
-    <!-- CRAFTING -->
-    <string name="crafting_material">Crafting Material</string>
-    <string name="crafting_results">Crafting Results</string>
-    <string name="crafting_calculator">Crafting Calculator</string>
-    <string name="crafted_amount">Quantity:</string>
-    <string name="recipes">Recipes</string>
-    <string name="show_all">Show All</string>
-    <string name="bookmark_title_empty">Bookmark list empty!</string>
-    <string name="bookmark_empty">Your bookmark list is currently empty.</string>
-
-    <!-- GENERAL -->
+    <!-- !! GENERAL -->
     <string name="calculate">Calculate</string>
-    <string name="level_required">Required level: %1$s</string>
     <string name="enabled">enabled</string>
     <string name="disabled">disabled</string>
-    <string name="can_substitute">You can substitute with the following materials:\n\n</string>
     <string name="upgrade_to_pro">Remove Ads</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
@@ -131,16 +57,29 @@
     <string name="loading">Loading&#8230;</string>
     <string name="search">Search&#8230;</string>
     <string name="intervals">Intervals</string>
-
-    <!-- ARRAY VALUES (DROPDOWNS ETC) -->
     <string name="today">Today</string>
     <string name="yesterday">Yesterday</string>
-
     <string name="sort_by_name_asc">Sort by name: ascending</string>
     <string name="sort_by_name_desc">Sort by name: descending</string>
     <string name="sort_by_level_asc">Sort by level: ascending</string>
     <string name="sort_by_level_desc">Sort by level: descending</string>
 
+    <!-- !! INGAME TIMERS -->
+    <string name="ingame_title">Ingame Timer</string>
+    <string name="reset_title">Resets</string>
+    <string name="night">Night in</string>
+    <string name="day">Day in</string>
+    <string name="resetDaily">Daily</string>
+    <string name="resetImperial">Imperial</string>
+    <string name="resetImperialTrading">Imperial Trading</string>
+    <string name="resetBSA">Black Spirit Adventure</string>
+
+    <!-- !! BOSSTIMER -->
+    <string name="bosstimer_data">Last: %1$s\nNext: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>Boss is in spawn window!</b></string>
+    <string name="bosstimer_server_maintenance">Server Maintenance</string>
+    <string name="bosstimer_region">Current region: %s</string>
+    <!-- BOSS NAMES -->
     <string name="karanda">Karanda</string>
     <string name="dimtreespirit">Dim Tree Spirit</string>
     <string name="kzarka">Kzarka</string>
@@ -150,13 +89,92 @@
     <string name="mudster">Giant Mudster</string>
     <string name="rednose">Red Nose</string>
 
-    <!-- INGAME TIMERS -->
-    <string name="ingame_title">Ingame Timer</string>
-    <string name="reset_title">Resets</string>
-    <string name="night">Night in</string>
-    <string name="day">Day in</string>
-    <string name="resetDaily">Daily</string>
-    <string name="resetImperial">Imperial</string>
-    <string name="resetImperialTrading">Imperial Trading</string>
-    <string name="resetBSA">Black Spirit Adventure</string>
+    <!-- !! CRAFTING -->
+    <!-- CRAFTING LEVEL -->
+    <string name="level_required">Required level: %1$s</string>
+    <string name="beginner">Beginner</string>
+    <string name="apprentice">Apprentice</string>
+    <string name="skilled">Skilled</string>
+    <string name="professional">Professional</string>
+    <string name="artisan">Artisan</string>
+    <string name="master">Master</string>
+    <string name="guru">Guru</string>
+    <!-- CRAFTING BUTTONS -->
+    <string name="can_substitute">You can substitute with the following materials:\n\n</string>
+    <string name="crafting_material">Crafting Material</string>
+    <string name="crafting_results">Crafting Results</string>
+    <string name="crafting_calculator">Crafting Calculator</string>
+    <string name="crafted_amount">Quantity:</string>
+    <string name="recipes">Recipes</string>
+    <string name="show_all">Show All</string>
+    <string name="bookmark_title_empty">Bookmark list empty!</string>
+    <string name="bookmark_empty">Your bookmark list is currently empty.</string>
+
+    <!-- !! HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">Regions have different Horse Breeding Multipliers: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Selected multiplier: %1$d</string>
+    <string name="female_horse"><b>Female Horse</b></string>
+    <string name="male_horse"><b>Male Horse</b></string>
+    <string name="tier">Tier</string>
+    <string name="level">Level</string>
+    <string name="death">Deaths</string>
+    <string name="horse_result">Male T%1$d (lvl: %2$d, deaths: %3$d)\nFemale T%4$d (lvl: %5$d, deaths: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">Deaths (optional)</string>
+
+    <!-- !! MARKET CALCULATOR -->
+    <string name="value_pack"><b>Value Pack</b></string>
+    <string name="value_pack_is_activated">Value Pack is activated</string>
+    <string name="market_sell_price">Market Sell Price</string>
+    <string name="market_sell_amount">Market Sell Amount</string>
+    <string name="market_result"><b>Value Pack:</b> %1$s\n<b>Profit:</b> %2$s</string>
+
+    <!-- !! ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">Base Chance</string>
+    <string name="enhance_optimal_stacks">Optimal Stacks</string>
+    <string name="enhance_success_chance">Success Chance</string>
+    <string name="enhancement_weapon">Weapon</string>
+    <string name="enhancement_armor">Armor</string>
+    <string name="enhancement_accessory">Accessory</string>
+
+    <!-- !! GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Level:</b> %2$s\n%3$s million silver/hour</string>
+
+    <!-- !! HORSE CHART -->
+    <string name="horse_description">Speed/Acceleration: %1$s%%\nTurn/Brake: %2$s%%</string>
+
+    <!-- !! ERRORS -->
+    <string name="error_generic">Error, try to reload the page.</string>
+    <string name="error_bosstimer_nodata">No saved data available\nRefresh last spawn yourself.</string>
+
+    <!-- !! SETTINGS PAGE (Title + Description) -->
+    <!-- SETTINGS -->
+    <string name="pref_title_language">Language</string>
+    <string name="pref_language">Currently set to: %s</string>
+    <string name="pref_title_24hour">24-Hour Format</string>
+    <string name="pref_24hour">Display time in 24-hour format</string>
+    <!-- BOSSTIMER -->
+    <string name="pref_attention">Changes to boss timer settings might require a page reload.</string>
+    <string name="pref_title_region">Region</string>
+    <string name="pref_screen_awake">Keep the screen awake for ingame and boss timers</string>
+    <string name="pref_title_screen_awake">Keep the screen awake</string>
+    <string name="pref_title_bosspriority">Spawnable Boss Priority</string>
+    <string name="pref_bosspriority">Bosses in spawn windows are shown first</string>
+    <string name="pref_title_bossnotification">Spawn Window Notification</string>
+    <string name="pref_bossnotification">Enable permanent notification for spawnable bosses (BETA)</string>
+    <string name="pref_title_bossfetchtime">Boss synchronization time in minutes</string>
+    <string name="bosstimer_5min">5 Minutes</string>
+    <string name="bosstimer_15min">15 Minutes</string>
+    <string name="bosstimer_30min">30 Minutes</string>
+    <string name="bosstimer_60min">60 Minutes</string>
+    <!-- MISC -->
+    <string name="pref_title_twitter">Twitter</string>
+    <string name="pref_twitter">Follow me on Twitter for project updates</string>
+    <string name="pref_title_translate">Help with translations</string>
+    <string name="pref_translate">Suggest translation updates</string>
+
+    <!-- !! RATE APP -->
+    <string name="rate_dialog_title">Rate this app</string>
+    <string name="rate_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
+    <string name="rate_dialog_ok">Rate now</string>
+    <string name="rate_dialog_cancel">Later</string>
+    <string name="rate_dialog_no">No, thanks</string>
 </resources>

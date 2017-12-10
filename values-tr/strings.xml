@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Hello, contributor! Here are some tips and hints on how to modify this file:
+        - Please leave %<number>$s, %<number>$d as it is. They are used as placeholders for e.g. times that do not need to be translated.
+        - If you want to use the  percentage character "%", then you have to encode it as "%%" (without the quotation marks).
+        - Newlines are marked as \n and should also not be removed.
+        EXAMPLE: %1$s%% means that this would display something like this: <PLACEHOLDER>%
+        TL;DR: ignore the weird strings.
+
+        You also give feedback that isn't related to translation on the repository itself.
+        And again, thank you for your contribution!
+    -->
+    <string name="app_name">Companion for BDO</string>
+
+    <!-- !! NAVIGATION -->
+    <string name="navigation_drawer_open">Gezinme çekmecesini aç</string>
+    <string name="navigation_drawer_close">Gezinme çekmecesini kapat</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <!-- !! TITLES -->
+    <string name="title_header_timers">Zamanlayıcılar</string>
+    <string name="title_header_crafting">Üretmek</string>
+    <string name="title_header_calculators">Hesap makinesi</string>
+    <string name="title_header_charts">Tablo</string>
+    <string name="title_header_misc">Çeşitli</string>
+    <string name="title_main_timer">Oyun Zamanlayıcısı</string>
+    <string name="title_boss_timer">Boss Zamanlayıcı</string> <!-- TODO -->
+    <string name="title_cooking_inspection">Teftiş</string>
+    <string name="title_cooking_db">Aşçılık</string>
+    <string name="title_alchemy_db">Simya</string>
+    <string name="title_materialgroup">Malzeme Grupları</string>
+    <string name="title_horse_calculator">At Hesaplayıcısı</string>
+    <string name="title_market_calculator">Pazar Hesap Makinesi</string>
+    <string name="title_failstack_chart">Failstack Chart</string>
+    <string name="title_grinding_chart">Grinding Chart</string>
+    <string name="title_horse_chart">Atlar</string>
+    <string name="title_about">Hakkında</string>
+    <string name="title_share">Paylaş</string>
+    <string name="title_rate_app">App\'ı Oyla</string>
+
+    <!-- !! INTROS -->
+    <string name="intro_market">BDO\'daki taban vergi %%35\'tir. Değer Paketleri, vergi iade değerinin %%30\'unu ekler.</string>
+    <string name="intro_grinding"><b>EXP puanlaması</b> (en yüksekten en düşüğe) ile sıralanmış yerler. Gümüş çıktı AP/DP ye bağlı.</string>
+    <string name="intro_bosstimer">Aralıkları görüntülemek için <b>burayı</b> tıklayın.</string>
+    <string name="intro_bosstimer_offline"><b>çevrimdışı modda</b>. Değişiklikler sunucu ile senkronize edilmemiştir.</string>
+    <string name="intro_horselist">Her atın kırmızı, siyah ve beyaz renk noktaları vardır. Olası yavruları hesaplamak için renk kombinasyonları kullanılabilir.</string>
+
+    <!-- !! GENERAL -->
+    <string name="calculate">Hesaplamak</string>
+    <string name="enabled">etkin</string>
+    <string name="disabled">engelli</string>
+    <string name="upgrade_to_pro">Rreklamları kaldırmak</string>
+    <string name="ok">OK</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="cooldown_push">Zaten gönderildi, 1 saat sonra tekrar deneyin.</string>
+    <string name="loading">Yükleniyor&#8230;</string>
+    <string name="search">Arama&#8230;</string>
+    <string name="intervals">Aralıklar</string>
+    <string name="today">Bugün</string>
+    <string name="yesterday">Dün</string>
+    <string name="sort_by_name_asc">İsme göre sırala: artan</string>
+    <string name="sort_by_name_desc">İsme göre sırala: azalan</string>
+    <string name="sort_by_level_asc">Seviyeye göre sırala: artan</string>
+    <string name="sort_by_level_desc">Seviyeye göre sırala: azalan</string>
+
+    <!-- !! INGAME TIMERS -->
+    <string name="ingame_title">Oyun içi zamanlayıcı</string>
+    <string name="reset_title">Sıfırlamak</string>
+    <string name="night">Gece</string>
+    <string name="day">Gün</string>
+    <string name="resetDaily">Günlük</string>
+    <string name="resetImperial">İmparatorluk</string>
+    <string name="resetImperialTrading">İmparatorluk ticareti</string>
+    <string name="resetBSA">Black Spirit Adventure</string>
+
+    <!-- !! BOSSTIMER -->
+    <string name="bosstimer_data">Son: %1$s\nSonraki: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>Boss is in spawn window!</b></string>
+    <string name="bosstimer_server_maintenance">Sunucu bakımı</string>
+    <string name="bosstimer_region">Geçerli bölge: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">Karanda</string>
+    <string name="dimtreespirit">Dim Tree Spirit</string>
+    <string name="kzarka">Kzarka</string>
+    <string name="nouver">Nouver</string>
+    <string name="kutum">Kutum</string>
+    <string name="bheg">Dastard Bheg</string>
+    <string name="mudster">Giant Mudster</string>
+    <string name="rednose">Red Nose</string>
+
+    <!-- !! CRAFTING -->
+    <!-- CRAFTING LEVEL -->
+    <string name="level_required">Beceri seviyesi: %1$s</string>
+    <string name="beginner">Acemi</string>
+    <string name="apprentice">Çırak</string>
+    <string name="skilled">Becerikli</string>
+    <string name="professional">Profesyonel</string>
+    <string name="artisan">Zanaatkar</string>
+    <string name="master">Usta</string>
+    <string name="guru">Guru</string>
+    <!-- CRAFTING BUTTONS -->
+    <string name="crafting_material">Malzemesi</string>
+    <string name="crafting_results">Sonuçlar</string>
+    <string name="crafting_calculator">Hesap Makinesi</string>
+    <string name="crafted_amount">Miktar:</string>
+    <string name="recipes">Yemek tarifleri</string>
+    <string name="show_all">Hepsini Göster</string>
+    <string name="bookmark_title_empty">Yer imi listesi boş!</string>
+    <string name="bookmark_empty">Yer imi listeniz şu anda boş.</string>
+    <string name="can_substitute">Aşağıdaki malzemelerle yer değiştirebilirsiniz:\n\n</string>
+
+    <!-- !! HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">Bölgelerde farklı At Yetiştirme Çarpanları var: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Seçilen çarpanı: %1$d</string>
+    <string name="female_horse"><b>Kadın</b></string>
+    <string name="male_horse"><b>Erkek</b></string>
+    <string name="tier">Aşama</string>
+    <string name="level">Seviyesi</string>
+    <string name="death">Ölümler</string>
+    <string name="horse_result">Erkek A%1$d (seviyesi: %2$d, ölümler: %3$d)\nKadın A%4$d (seviyesi: %5$d, ölümler: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">Ölümler (İsteğe bağlı)</string>
+
+    <!-- !! MARKET CALCULATOR -->
+    <string name="value_pack"><b>Değerli Paket</b></string>
+    <string name="value_pack_is_activated">Değerli Paket etkinleştirildi</string>
+    <string name="market_sell_price">Satış fiyatı</string>
+    <string name="market_sell_amount">Miktar sat</string>
+    <string name="market_result"><b>Değerli Paket:</b> %1$s\n<b>Kâr:</b> %2$s</string>
+
+    <!-- !! ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">Temel Şans</string>
+    <string name="enhance_optimal_stacks">Optimum yığınlar</string>
+    <string name="enhance_success_chance">Başarı Şansı</string>
+    <string name="enhancement_weapon">Silah</string>
+    <string name="enhancement_armor">Zırh</string>
+    <string name="enhancement_accessory">Aksesuar</string>
+
+    <!-- !! GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Seviyesi:</b> %2$s\n%3$s milyon gümüş/saat</string>
+
+    <!-- !! HORSE CHART -->
+    <string name="horse_description">Hız/Hızlanma: %%%1$s\nDönme/Ani Durma: %%%2$s</string>
+
+    <!-- !! ERRORS -->
+    <string name="error_generic">Hata, sayfayı yeniden yüklemeyi deneyin.</string>
+    <string name="error_bosstimer_nodata">Kayıtlı veri mevcut değil\nBağlantıyı yenile veya etkinleştir.</string>
+
+    <!-- !! SETTINGS PAGE (Title + Description) -->
+    <!-- SETTINGS -->
+    <string name="pref_title_language">Dil</string>
+    <string name="pref_language">Şuanki ayarlar: %s</string>
+    <string name="pref_title_24hour">24 saat format</string>
+    <string name="pref_24hour">24 saat formatında zamanı göster</string>
+    <!-- BOSSTIMER -->
+    <string name="pref_attention">Boss zamanlayıcı ayarlarındaki değişiklikler bir sayfanın yeniden yüklenmesini gerektirebilir.</string>
+    <string name="pref_title_region">Bölge</string>
+    <string name="pref_title_screen_awake">Ekranı uyanık tutmak</string>
+    <string name="pref_screen_awake">Zamanlayıcılar için ekranı uyanık tutmak</string>
+    <string name="pref_title_bosspriority">Boss sıralama</string>
+    <string name="pref_bosspriority">Boss yumurtlama sırasına göre sıralanırlar</string>
+    <string name="pref_title_bossnotification">Boss bildirimi</string>
+    <string name="pref_bossnotification">Boss için bildirimi etkinleştir (BETA)</string>
+    <string name="pref_title_bossfetchtime">Boss eşitleme süresi dakika olarak</string>
+    <string name="bosstimer_5min">5 dakika</string>
+    <string name="bosstimer_15min">15 dakika</string>
+    <string name="bosstimer_30min">30 dakika</string>
+    <string name="bosstimer_60min">60 dakika</string>
+    <!-- MISC -->
+    <string name="pref_title_twitter">Twitter</string>
+    <string name="pref_twitter">Proje güncellemeleri için beni Twitter\'da takip et</string>
+    <string name="pref_title_translate">Çeviriyle ilgili yardım</string>
+    <string name="pref_translate">Çeviri güncellemelerini öner</string>
+
+    <!-- !! RATE APP -->
+    <string name="rate_dialog_title">Bu uygulamaya puan verin</string>
+    <string name="rate_dialog_message">Eğer bu uygulamayı beğendiyseniz birkaç dakikanızı ayırarak puan verir miydiniz? Bir dakikadan fazla sürmeyecek. Desteğiniz için teşekkür ederiz!</string>
+    <string name="rate_dialog_ok">Puan ver</string>
+    <string name="rate_dialog_cancel">Belki daha sonra</string>
+    <string name="rate_dialog_no">Hayır</string>
+</resources>
