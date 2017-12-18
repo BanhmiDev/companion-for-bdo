@@ -149,10 +149,11 @@
     <!-- SETTINGS -->
     <string name="pref_title_language">言語</string>
     <string name="pref_language">現在の設定: %s</string>
+    <string name="pref_title_timezone">タイムゾーン</string>
+    <string name="system_timezone">システム</string>
     <string name="pref_title_24hour">24時間形式</string>
     <string name="pref_24hour">24時間表示時間</string>
     <!-- BOSSTIMER -->
-    <string name="pref_attention">ボスタイマーを変更するには、ページをリロードする必要があります。</string>
     <string name="pref_title_region">領域</string>
     <string name="pref_title_screen_awake">寝ないで</string>
     <string name="pref_screen_awake">タイマーの画面をオンのままにします</string>

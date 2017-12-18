@@ -149,10 +149,11 @@
     <!-- SETTINGS -->
     <string name="pref_title_language">Idioma</string>
     <string name="pref_language">Actualmente establecido en: %s</string>
+    <string name="pref_title_timezone">Zona horaria</string>
+    <string name="system_timezone">Sistema</string>
     <string name="pref_title_24hour">Formato de 24 horas</string>
     <string name="pref_24hour">Mostrar hora en formato de 24 horas</string>
     <!-- BOSSTIMER -->
-    <string name="pref_attention">Los cambios en la configuración del temporizador pueden requerir una recarga de página.</string>
     <string name="pref_title_region">Región</string>
     <string name="pref_title_screen_awake">Mantenga la pantalla activa</string>
     <string name="pref_screen_awake">Mantenga la pantalla despierta en los temporizadores</string>

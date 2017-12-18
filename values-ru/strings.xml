@@ -154,10 +154,11 @@
     <!-- SETTINGS -->
     <string name="pref_title_language">Язык</string>
     <string name="pref_language">В настоящий момент установлено значение: %s</string>
+    <string name="pref_title_timezone">Часовой пояс</string>
+    <string name="system_timezone">система</string>
     <string name="pref_title_24hour">24-часовой</string>
     <string name="pref_24hour">Время отображения в 24-часовом формате</string>
     <!-- BOSSTIMER -->
-    <string name="pref_attention">Изменения настроек таймера босса могут потребовать перезагрузки страницы.</string>
     <string name="pref_title_region">Область</string>
     <string name="pref_title_screen_awake">Не спи</string>
     <string name="pref_screen_awake">Удерживать экран на таймерах</string>

@@ -149,10 +149,11 @@
     <!-- SETTINGS -->
     <string name="pref_title_language">언어</string>
     <string name="pref_language">현재 설정: %s</string>
+    <string name="pref_title_timezone">타임존</string>
+    <string name="system_timezone">체계</string>
     <string name="pref_title_24hour">24 시간 형식</string>
     <string name="pref_24hour">24 시간 형식의 시간 표시</string>
     <!-- BOSSTIMER -->
-    <string name="pref_attention">보스 타이머 설정을 변경하면 페이지를 다시로드해야 할 수도 있습니다.</string>
     <string name="pref_title_region">부품</string>
     <string name="pref_title_screen_awake">잠들지 말라</string>
     <string name="pref_screen_awake">타이머를 위해 화면을 켜 놓으십시오</string>

@@ -149,10 +149,11 @@
     <!-- SETTINGS -->
     <string name="pref_title_language">Dil</string>
     <string name="pref_language">Şuanki ayarlar: %s</string>
+    <string name="pref_title_timezone">Saat dilimi</string>
+    <string name="system_timezone">Sistem</string>
     <string name="pref_title_24hour">24 saat format</string>
     <string name="pref_24hour">24 saat formatında zamanı göster</string>
     <!-- BOSSTIMER -->
-    <string name="pref_attention">Boss zamanlayıcı ayarlarındaki değişiklikler bir sayfanın yeniden yüklenmesini gerektirebilir.</string>
     <string name="pref_title_region">Bölge</string>
     <string name="pref_title_screen_awake">Ekranı uyanık tutmak</string>
     <string name="pref_screen_awake">Zamanlayıcılar için ekranı uyanık tutmak</string>

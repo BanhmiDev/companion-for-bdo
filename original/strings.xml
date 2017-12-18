@@ -149,10 +149,11 @@
     <!-- SETTINGS -->
     <string name="pref_title_language">Language</string>
     <string name="pref_language">Currently set to: %s</string>
+    <string name="pref_title_timezone">Timezone</string>
+    <string name="system_timezone">System Timezone</string>
     <string name="pref_title_24hour">24-Hour Format</string>
     <string name="pref_24hour">Display time in 24-hour format</string>
     <!-- BOSSTIMER -->
-    <string name="pref_attention">Changes to boss timer settings might require a page reload.</string>
     <string name="pref_title_region">Region</string>
     <string name="pref_screen_awake">Keep the screen awake for ingame and boss timers</string>
     <string name="pref_title_screen_awake">Keep the screen awake</string>
