@@ -11,7 +11,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for BDO</string>
+    <string name="app_name">Companion für BDO</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
@@ -27,8 +27,9 @@
     <string name="title_main_timer">Ingame Timer</string>
     <string name="title_boss_timer">Boss Timer</string>
     <string name="title_cooking_inspection">Inspektion</string>
-    <string name="title_cooking_db">Koch Rezepte</string>
-    <string name="title_alchemy_db">Alchemie Rezepte</string>
+    <string name="title_cooking_db">Koch Datenbank</string>
+    <string name="title_alchemy_db">Alchemie Datenbank</string>
+    <string name="title_processing_db">Verarbeitungs Datenbank</string>
     <string name="title_materialgroup">Materialgruppen</string>
     <string name="title_horse_calculator">Pferdezuchtrechner</string>
     <string name="title_market_calculator">Marktrechner</string>
@@ -179,3 +180,4 @@
     <string name="rate_dialog_cancel">Später</string>
     <string name="rate_dialog_no">Nein, Danke</string>
 </resources>
+

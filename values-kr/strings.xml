@@ -11,7 +11,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for 검은사막</string>
+    <string name="app_name">사막 도우미</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">탐색 모음 열기</string>
@@ -29,6 +29,7 @@
     <string name="title_cooking_inspection">검사</string>
     <string name="title_cooking_db">조리</string>
     <string name="title_alchemy_db">연금술</string>
+    <string name="title_processing_db">가공</string>
     <string name="title_materialgroup">자재 그룹</string>
     <string name="title_horse_calculator">말 계산기</string>
     <string name="title_market_calculator">시장 계산기</string>
@@ -179,3 +180,4 @@
     <string name="rate_dialog_cancel">나중에하는</string>
     <string name="rate_dialog_no">아니, 괜찮아요</string>
 </resources>
+

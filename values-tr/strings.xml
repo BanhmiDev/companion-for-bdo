@@ -29,6 +29,7 @@
     <string name="title_cooking_inspection">Teftiş</string>
     <string name="title_cooking_db">Aşçılık</string>
     <string name="title_alchemy_db">Simya</string>
+    <string name="title_processing_db">İşleme</string>
     <string name="title_materialgroup">Malzeme Grupları</string>
     <string name="title_horse_calculator">At Hesaplayıcısı</string>
     <string name="title_market_calculator">Pazar Hesap Makinesi</string>
@@ -179,3 +180,4 @@
     <string name="rate_dialog_cancel">Belki daha sonra</string>
     <string name="rate_dialog_no">Hayır</string>
 </resources>
+

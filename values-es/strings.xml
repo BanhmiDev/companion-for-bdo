@@ -29,6 +29,7 @@
     <string name="title_cooking_inspection">Inspección</string>
     <string name="title_cooking_db">Cocina</string>
     <string name="title_alchemy_db">Alquimia</string>
+    <string name="title_processing_db">Tratamiento</string>
     <string name="title_materialgroup">Grupos de materiales</string>
     <string name="title_horse_calculator">Criar caballos</string>
     <string name="title_market_calculator">Beneficio del mercado</string>
@@ -179,3 +180,4 @@
     <string name="rate_dialog_cancel">Recuérdamelo más tarde</string>
     <string name="rate_dialog_no">¡No, gracias!</string>
 </resources>
+

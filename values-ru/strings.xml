@@ -29,6 +29,7 @@
     <string name="title_cooking_inspection">Oсмотр</string>
     <string name="title_cooking_db">Кулинария</string>
     <string name="title_alchemy_db">Алхимия</string>
+    <string name="title_processing_db">Oбработка</string>
     <string name="title_materialgroup">Группы материалов</string>
     <string name="title_horse_calculator">Коневодство</string>
     <string name="title_market_calculator">Рынок</string>
@@ -179,3 +180,4 @@
     <string name="rate_dialog_cancel">Напомнить позже</string>
     <string name="rate_dialog_no">Нет, спасибо</string>
 </resources>
+

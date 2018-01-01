@@ -29,6 +29,7 @@
     <string name="title_cooking_inspection">Inspecionar</string>
     <string name="title_cooking_db">Culinária</string>
     <string name="title_alchemy_db">Alquimia</string>
+    <string name="title_processing_db">Em processamento</string>
     <string name="title_materialgroup">Materiais por tipos</string>
     <string name="title_horse_calculator">Criação de cavalos</string>
     <string name="title_market_calculator">Imposto de mercado</string>
@@ -179,3 +180,4 @@
     <string name="rate_dialog_cancel">Mais tarde</string>
     <string name="rate_dialog_no">Não, obrigado</string>
 </resources>
+
