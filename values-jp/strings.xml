@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--
-        Hello, contributor! Here are some tips and hints on how to modify this file:
-        - Please leave %<number>$s, %<number>$d as it is. They are used as placeholders for e.g. times that do not need to be translated.
-        - If you want to use the  percentage character "%", then you have to encode it as "%%" (without the quotation marks).
-        - Newlines are marked as \n and should also not be removed.
-        EXAMPLE: %1$s%% means that this would display something like this: <PLACEHOLDER>%
-        TL;DR: ignore the weird strings.
-
+        Please ignore strings like "%1$s" or "\n", they are used for formatting.
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
@@ -80,6 +74,7 @@
     <string name="bosstimer_spawnable"><b>インターバルで!</b></string>
     <string name="bosstimer_server_maintenance">サーバのメンテナンス</string>
     <string name="bosstimer_region">現在の選択：%s</string>
+    <string name="bosstimer_remaining">残り：%s</string>
     <!-- BOSS NAMES -->
     <string name="karanda">カランダ</string>
     <string name="dimtreespirit">愚鈍な木の精霊</string>
@@ -110,9 +105,11 @@
     <string name="bookmark_title_empty">ブックマークリスト</string>
     <string name="bookmark_empty">ブックマークリストは現在空です。</string>
     <string name="can_substitute">あなたは次の項目リストから任意の項目を使用することができます：\n\n</string>
+    <string name="crafting_byquantity">モード：数量</string>
+    <string name="crafting_byingredient">モード：成分量</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">リージョンには異なる乗数があります: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13。現在の乗数：%1$d</string>
+    <string name="horse_breeding_multiplier">リージョンには異なる乗数があります: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13。現在の乗数：%1$d</string>
     <string name="female_horse"><b>女性の馬</b></string>
     <string name="male_horse"><b>男性馬</b></string>
     <string name="tier">ティア</string>

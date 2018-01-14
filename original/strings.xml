@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--
-        Hello, contributor! Here are some tips and hints on how to modify this file:
-        - Please leave %<number>$s, %<number>$d as it is. They are used as placeholders for e.g. times that do not need to be translated.
-        - If you want to use the  percentage character "%", then you have to encode it as "%%" (without the quotation marks).
-        - Newlines are marked as \n and should also not be removed.
-        EXAMPLE: %1$s%% means that this would display something like this: <PLACEHOLDER>%
-        TL;DR: ignore the weird strings.
-
+        Please ignore strings like "%1$s" or "\n", they are used for formatting.
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
@@ -80,6 +74,7 @@
     <string name="bosstimer_spawnable"><b>Boss is in spawn window!</b></string>
     <string name="bosstimer_server_maintenance">Server Maintenance</string>
     <string name="bosstimer_region">Current region: %s</string>
+    <string name="bosstimer_remaining">Remaining: %s</string>
     <!-- BOSS NAMES -->
     <string name="karanda">Karanda</string>
     <string name="dimtreespirit">Dim Tree Spirit</string>
@@ -110,9 +105,11 @@
     <string name="show_all">Show All</string>
     <string name="bookmark_title_empty">Bookmark list empty!</string>
     <string name="bookmark_empty">Your bookmark list is currently empty.</string>
+    <string name="crafting_byquantity">Mode: by Quantity</string>
+    <string name="crafting_byingredient">Mode: by Ingredient</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Regions have different Horse Breeding Multipliers: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. Selected multiplier: %1$d</string>
+    <string name="horse_breeding_multiplier">Regions have different Horse Breeding Multipliers: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13. Selected multiplier: %1$d</string>
     <string name="female_horse"><b>Female Horse</b></string>
     <string name="male_horse"><b>Male Horse</b></string>
     <string name="tier">Tier</string>

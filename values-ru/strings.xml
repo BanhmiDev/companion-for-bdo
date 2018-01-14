@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--
-        Hello, contributor! Here are some tips and hints on how to modify this file:
-        - Please leave %<number>$s, %<number>$d as it is. They are used as placeholders for e.g. times that do not need to be translated.
-        - If you want to use the  percentage character "%", then you have to encode it as "%%" (without the quotation marks).
-        - Newlines are marked as \n and should also not be removed.
-        EXAMPLE: %1$s%% means that this would display something like this: <PLACEHOLDER>%
-        TL;DR: ignore the weird strings.
-
+        Please ignore strings like "%1$s" or "\n", they are used for formatting.
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
@@ -80,11 +74,7 @@
     <string name="bosstimer_spawnable"><b>идет респ!</b></string>
     <string name="bosstimer_server_maintenance">Обслуживание</string>
     <string name="bosstimer_region">Текущий выбор: %s</string>
-    <string name="bosstimer_5min">5 минут</string>
-    <string name="bosstimer_15min">15 минут</string>
-    <string name="bosstimer_30min">30 минут</string>
-    <string name="bosstimer_60min">60 минут</string>
-    <string name="pref_title_bossfetchtime">босс синхронизации времени в минутах</string>
+    <string name="bosstimer_remaining">Осталось: %s</string>
     <!-- BOSS NAMES -->
     <string name="karanda">Каранда</string>
     <string name="dimtreespirit">Древень</string>
@@ -115,9 +105,11 @@
     <string name="bookmark_title_empty">Список пуст!</string>
     <string name="bookmark_empty">Список закладок пуст.</string>
     <string name="can_substitute">Можно использовать любой предмет из списка:\n\n</string>
+    <string name="crafting_byquantity">Режим: количество</string>
+    <string name="crafting_byingredient">Режим: количество ингредиентов</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">На RU-серверах равен 13: SA = 8, TW = 12, KR/JP/RU/NA/EU = 13. В настоящий момент установлено значение: %1$d</string>
+    <string name="horse_breeding_multiplier">На RU-серверах равен 13: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13. В настоящий момент установлено значение: %1$d</string>
     <string name="female_horse"><b>Мужской</b></string>
     <string name="male_horse"><b>Женский</b></string>
     <string name="tier">Pанг</string>
@@ -167,6 +159,11 @@
     <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
     <string name="pref_title_bossnotification">Уведомления о боссе</string>
     <string name="pref_bossnotification">Включить уведомление о боссе (BETA)</string>
+    <string name="pref_title_bossfetchtime">босс синхронизации времени в минутах</string>
+    <string name="bosstimer_5min">5 минут</string>
+    <string name="bosstimer_15min">15 минут</string>
+    <string name="bosstimer_30min">30 минут</string>
+    <string name="bosstimer_60min">60 минут</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">Следуйте за мной в Twitter для получения обновлений</string>
