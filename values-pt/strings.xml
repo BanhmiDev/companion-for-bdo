@@ -176,5 +176,26 @@
     <string name="rate_dialog_ok">Avaliar agora</string>
     <string name="rate_dialog_cancel">Mais tarde</string>
     <string name="rate_dialog_no">Não, obrigado</string>
+
+    <!-- !! MONSTER NAMES -->
+    <string name="mob_pirates">Pirates</string>
+    <string name="mob_bashims">Bashims</string>
+    <string name="mob_sausans">Sausans</string>
+    <string name="mob_desertfogans">Fogan do Deserto</string>
+    <string name="mob_cadry">Cadry</string>
+    <string name="mob_pilaku">Prisão Pila Kan</string>
+    <string name="mob_desertnagas">Naga do Deserto</string>
+    <string name="mob_gahazbandits">Bandido Gahaz</string>
+    <string name="mob_shultz_sausans">Schultz Sausans</string>
+    <string name="mob_crescents">Lua Crescente</string>
+    <string name="mob_hasrah">Hasrah</string>
+    <string name="mob_basilisks">Covil do Basilisco</string>
+    <string name="mob_sulfurmines">Mina de Enxofre Roud</string>
+    <string name="mob_elrics">Santuário Elric</string>
+    <string name="mob_helms">Acampamento dos Elmos</string>
+    <string name="mob_manesrogues">Manes/Rogues</string>
+    <string name="mob_soldiersgrave">Sepultura de Soldados</string>
+    <string name="mob_catfish">Homem-Bagre</string>
+    <string name="mob_saunils">Saunils</string>
 </resources>
 

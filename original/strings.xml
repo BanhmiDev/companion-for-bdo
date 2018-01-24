@@ -176,5 +176,26 @@
     <string name="rate_dialog_ok">Rate now</string>
     <string name="rate_dialog_cancel">Later</string>
     <string name="rate_dialog_no">No, thanks</string>
+
+    <!-- !! MONSTER NAMES -->
+    <string name="mob_pirates">Pirates</string>
+    <string name="mob_bashims">Bashims</string>
+    <string name="mob_sausans">Sausans</string>
+    <string name="mob_desertfogans">Desert Fogans</string>
+    <string name="mob_cadry">Cadry</string>
+    <string name="mob_pilaku">Pila Ku</string>
+    <string name="mob_desertnagas">Desert Nagas</string>
+    <string name="mob_gahazbandits">Gahaz Bandits</string>
+    <string name="mob_shultz_sausans">Shultz Sausans</string>
+    <string name="mob_crescents">Crescents</string>
+    <string name="mob_hasrah">Hasrah</string>
+    <string name="mob_basilisks">Basilisks</string>
+    <string name="mob_sulfurmines">Sulfur Mines</string>
+    <string name="mob_elrics">Elrics</string>
+    <string name="mob_helms">Helms</string>
+    <string name="mob_manesrogues">Manes/Rogues</string>
+    <string name="mob_soldiersgrave">Soldiers Grave</string>
+    <string name="mob_catfish">Catfish</string>
+    <string name="mob_saunils">Saunils</string>
 </resources>
 

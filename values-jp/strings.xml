@@ -176,5 +176,26 @@
     <string name="rate_dialog_ok">今すぐ評価する</string>
     <string name="rate_dialog_cancel">後でする</string>
     <string name="rate_dialog_no">いえ、結構です</string>
+
+    <!-- !! MONSTER NAMES -->
+    <string name="mob_pirates">海賊</string>
+    <string name="mob_bashims">バシム</string>
+    <string name="mob_sausans">ソサン</string>
+    <string name="mob_desertfogans">砂漠フォガン</string>
+    <string name="mob_cadry">カドリー</string>
+    <string name="mob_pilaku">フィラ・ク監獄</string>
+    <string name="mob_desertnagas">砂漠ナーガ</string>
+    <string name="mob_gahazbandits">ガハーズ盗賊団</string>
+    <string name="mob_shultz_sausans">シュルツ</string>
+    <string name="mob_crescents">三日月神殿</string>
+    <string name="mob_hasrah">ハスラ崖</string>
+    <string name="mob_basilisks">バジリスク</string>
+    <string name="mob_sulfurmines">硫黄鉱山</string>
+    <string name="mob_elrics">エルリック寺院</string>
+    <string name="mob_helms">カブト族駐屯地</string>
+    <string name="mob_manesrogues">メイン/盗賊団</string>
+    <string name="mob_soldiersgrave">兵の墓</string>
+    <string name="mob_catfish">ナマズマン</string>
+    <string name="mob_saunils">サウニール</string>
 </resources>
 

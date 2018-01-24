@@ -176,5 +176,26 @@
     <string name="rate_dialog_ok">지금 평가</string>
     <string name="rate_dialog_cancel">나중에하는</string>
     <string name="rate_dialog_no">아니, 괜찮아요</string>
+
+    <!-- !! MONSTER NAMES -->
+    <string name="mob_pirates">해적</string>
+    <string name="mob_bashims">바심</string>
+    <string name="mob_sausans">소산족</string>
+    <string name="mob_desertfogans">사막 포건</string>
+    <string name="mob_cadry">카드리</string>
+    <string name="mob_pilaku">필라 쿠 감옥</string>
+    <string name="mob_desertnagas">사막 나가</string>
+    <string name="mob_gahazbandits">가하즈 도적단</string>
+    <string name="mob_shultz_sausans">슐츠 </string>
+    <string name="mob_crescents">초승달 신전</string>
+    <string name="mob_hasrah">하스라 절벽</string>
+    <string name="mob_basilisks">바실리스크</string>
+    <string name="mob_sulfurmines">루드 유황 광산</string>
+    <string name="mob_elrics">엘릭 사원</string>
+    <string name="mob_helms">투구족 주둔지</string>
+    <string name="mob_manesrogues">갈기족/방랑도적단</string>
+    <string name="mob_soldiersgrave">병사의 무덤</string>
+    <string name="mob_catfish">메기맨</string>
+    <string name="mob_saunils">사우닐</string>
 </resources>
 

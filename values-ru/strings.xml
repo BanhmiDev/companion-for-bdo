@@ -176,5 +176,26 @@
     <string name="rate_dialog_ok">Оценить сейчас</string>
     <string name="rate_dialog_cancel">Напомнить позже</string>
     <string name="rate_dialog_no">Нет, спасибо</string>
+
+    <!-- !! MONSTER NAMES -->
+    <string name="mob_pirates">Пираты</string>
+    <string name="mob_bashims">Басим</string>
+    <string name="mob_sausans">Саош</string>
+    <string name="mob_desertfogans">Пустынный фоган</string>
+    <string name="mob_cadry">Кадри</string>
+    <string name="mob_pilaku">Тюрьма Пиллапа</string>
+    <string name="mob_desertnagas">Пустынная нага</string>
+    <string name="mob_gahazbandits">Ущелье разбойников</string>
+    <string name="mob_shultz_sausans">Шульц</string>
+    <string name="mob_crescents">Храм Полумесяца</string>
+    <string name="mob_hasrah">Хаас</string>
+    <string name="mob_basilisks">Василиск</string>
+    <string name="mob_sulfurmines">Серный рудник</string>
+    <string name="mob_elrics">Эллик</string>
+    <string name="mob_helms">Тугу</string>
+    <string name="mob_manesrogues">Ташиа/Воры</string>
+    <string name="mob_soldiersgrave">Могил воинов</string>
+    <string name="mob_catfish">Водяной</string>
+    <string name="mob_saunils">Сонил</string>
 </resources>
 

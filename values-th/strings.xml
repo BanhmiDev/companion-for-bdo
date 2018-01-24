@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Please ignore strings like "%1$s" or "\n", they are used for formatting.
+        You also give feedback that isn't related to translation on the repository itself.
+        And again, thank you for your contribution!
+    -->
+    <string name="app_name">คู่มือนักผจญภัยในทะเลทรายทมิฬ</string>
+
+    <!-- !! NAVIGATION -->
+    <string name="navigation_drawer_open">เปิด วาดเส้นนำทาง</string>
+    <string name="navigation_drawer_close">ปิด วาดเส้นนำทาง</string>
+    <string name="action_settings">ตั้งค่า</string>
+
+    <!-- !! TITLES -->
+    <string name="title_header_timers">นับเวลา</string>
+    <string name="title_header_crafting">ระบบคราฟ</string>
+    <string name="title_header_calculators">เครื่องคำนวน</string>
+    <string name="title_header_charts">แผนผัง</string>
+    <string name="title_header_misc">อื่นๆ</string>
+    <string name="title_main_timer">เวลาภายในเกม</string>
+    <string name="title_boss_timer">เวลาบอสเกิด</string>
+    <string name="title_cooking_inspection">Inspection</string>
+    <string name="title_cooking_db">ข้อมูลการทำอาหาร</string>
+    <string name="title_alchemy_db">ข้อมูลการแปลธาตุ</string>
+    <string name="title_processing_db">ข้อมูลการแปรรูป</string>
+    <string name="title_materialgroup">กลุ่มของวัสดุ</string>
+    <string name="title_horse_calculator">การผสมพันธ์ม้า</string>
+    <string name="title_market_calculator">คำนวนราคาตลาด</string>
+    <string name="title_failstack_chart">อัตราการตีบวก</string>
+    <string name="title_grinding_chart">แผนผัง grinding</string>
+    <string name="title_horse_chart">แผนผังม้า</string>
+    <string name="title_about">เกี่ยวกับเรา</string>
+    <string name="title_share">แชร์</string>
+    <string name="title_rate_app">ให้คะแนนแอพ</string>
+
+    <!-- !! INTROS -->
+    <string name="intro_market" formatted="false">อัตราภาษีฐานใน BDO 35% และ เมื่อใช้ห่อสารพัดประโยชน์(VIP) จะเสีย 30%</string>
+    <string name="intro_grinding">จุดบดขยี้จะถูกจัดเรียงตาม <b>ค่าประสบการณ์</b> (สูงสุด ไปต่ำสุด). เงินที่ส่งออกมากขึ้นอยู่กับ AP/DP ของคุณ และความเร็วในการกวาดล้าง</string>
+    <string name="intro_bosstimer">คลิก <b>ที่นี่</b> เพื่อดูช่วงเวลาเกิดของบอส.</string>
+    <string name="intro_bosstimer_offline">คุณอยู่ใน <b>ออฟไลน์โหมด</b>. การเปลี่ยนแปลงไม่ได้รับการซิงโครไนซ์กับเซิร์ฟเวอร์</string>
+    <string name="intro_horselist">ม้าแต่ละตัวมีจุดสีแดง,ขาว และดำ การผสมสีสามารถนำไปคำนวณหาลูกได้.</string>
+
+    <!-- !! GENERAL -->
+    <string name="calculate">คำนวน</string>
+    <string name="enabled">เปิดใช้งาน</string>
+    <string name="disabled">ปิดใช้งาน</string>
+    <string name="upgrade_to_pro">ลบโฆษณา</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="cooldown_push">คุณส่งแล้ว จะส่งได้อีกครั้งภายใน 1 ชั่วโมง</string>
+    <string name="loading">กำลังโหลด&#8230;</string>
+    <string name="search">ค้นหา&#8230;</string>
+    <string name="intervals">ช่วงเวลา</string>
+    <string name="today">วันนี้</string>
+    <string name="yesterday">เมื่อวาน</string>
+    <string name="sort_by_name_asc">เรียงตามชื่อ: จากหน้าไปหลัง</string>
+    <string name="sort_by_name_desc">เรียงตามชื่อ: จากหลังไปหน้า</string>
+    <string name="sort_by_level_asc">เรียงตามเลเวล: จากน้อยไปมาก</string>
+    <string name="sort_by_level_desc">เรียงตามเลเวล: จากมากไปน้อย</string>
+
+    <!-- !! INGAME TIMERS -->
+    <string name="ingame_title">เวลาภายในเกม</string>
+    <string name="reset_title">รีเซ็ต</string>
+    <string name="night">กลางคืนในอีก</string>
+    <string name="day">กลางวันในอีก</string>
+    <string name="resetDaily">ประจำวัน</string>
+    <string name="resetImperial">อาณาจักร</string>
+    <string name="resetImperialTrading">การค้าของอาณาจักร</string>
+    <string name="resetBSA">มินิเกม Black Spirit Adventure</string>
+
+    <!-- !! BOSSTIMER -->
+    <string name="bosstimer_data">ครั้งที่ผ่านมา: %1$s\nครั้งต่อไป: %2$s ~ %3$s</string>
+    <string name="bosstimer_spawnable"><b>หน้าต่างบอสเกิด !</b></string>
+    <string name="bosstimer_server_maintenance">บำรุงรักษาเซิร์ฟเวอร์</string>
+    <string name="bosstimer_region">ภูมิภาคปัจจุบัน: %s</string>
+    <string name="bosstimer_remaining">ภายใน: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">คารานด้า</string>
+    <string name="dimtreespirit">ต้นไม้วิญญาณทึ่ม</string>
+    <string name="kzarka">คจาคาร์</string>
+    <string name="nouver">นูเวอร์</string>
+    <string name="kutum">คูทุมโบราณ</string>
+    <string name="bheg">เบกก์จอมขี้ขลาด</string>
+    <string name="mudster">ปีศาจโคลนยักษ์</string>
+    <string name="rednose">จมูกแดง</string>
+
+    <!-- !! CRAFTING -->
+    <!-- CRAFTING LEVEL -->
+    <string name="level_required">ความต้องการเลเวล: %1$s</string>
+    <string name="beginner">มือใหม่</string>
+    <string name="apprentice">ฝึกฝน</string>
+    <string name="skilled">คล่องแคล่ว</string>
+    <string name="professional">เชี่ยวชาญ</string>
+    <string name="artisan">ช่าง</string>
+    <string name="master">ลือชื่อ</string>
+    <string name="guru">เซียน</string>
+    <!-- CRAFTING BUTTONS -->
+    <string name="can_substitute">คุณสามารถใช้วัสดุดังต่อไปนี้แทนได้:\n\n</string>
+    <string name="crafting_material">วัสดุสำหรับคราฟ</string>
+    <string name="crafting_results">ผลการคราฟ</string>
+    <string name="crafting_calculator">คำนวนการคราฟ</string>
+    <string name="crafted_amount">จำนวน:</string>
+    <string name="recipes">สูตรผสม</string>
+    <string name="show_all">แสดงทั้งหมด</string>
+    <string name="bookmark_title_empty">ไม่มีรายการที่คั่นหน้าไว้!</string>
+    <string name="bookmark_empty">ไม่มีรายการที่คุณคั่นหน้าไว้</string>
+    <string name="crafting_byquantity">โหมด: ตามปริมาณ</string>
+    <string name="crafting_byingredient">โหมด: ตามส่วนผสม</string>
+
+    <!-- !! HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">ภูมิภาคมีคูณพันธุ์ม้าที่แตกต่างกัน: MENA=9, NA/EU/SA/TW/KR/JP/RU = 13. เลือกตัวคูณ: %1$d</string>
+    <string name="female_horse"><b>ม้าตัวเมีย</b></string>
+    <string name="male_horse"><b>ม้าตัวผู้</b></string>
+    <string name="tier">รุ่น</string>
+    <string name="level">เลเวล</string>
+    <string name="death">การตาย</string>
+    <string name="horse_result">ตัวผู้ T%1$d (lvl: %2$d, ตาย: %3$d)\nตัวเมีย T%4$d (lvl: %5$d, ตาย: %6$d)\n\n%7$s</string>
+    <string name="horse_hint_deaths">ตาย (เพิ่มเติม)</string>
+
+    <!-- !! MARKET CALCULATOR -->
+    <string name="value_pack"><b>ห่อสารพัดประโยชน์ (VIP)</b></string>
+    <string name="value_pack_is_activated">ห่อสารพัดประโยชน์ (VIP) เปิดใช้งาน</string>
+    <string name="market_sell_price">ราคาขายในตลาด</string>
+    <string name="market_sell_amount">จำนวนที่ขายในตลาด</string>
+    <string name="market_result"><b>ห่อสารพัดประโยชน์ (VIP):</b> %1$s\n<b>กำไร:</b> %2$s</string>
+
+    <!-- !! ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">โอกาสพื้นฐาน</string>
+    <string name="enhance_optimal_stacks">จำนวนที่เหมาะสมย</string>
+    <string name="enhance_success_chance">โอกาสสำเร็จ</string>
+    <string name="enhancement_weapon">อาวุธ</string>
+    <string name="enhancement_armor">เครื่องป้องกัน</string>
+    <string name="enhancement_accessory">เครื่องประดับ</string>
+
+    <!-- !! GRINDING CHART -->
+    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>เลเวล:</b> %2$s\n%3$s ล้านซิลเวอร์/ชั่วโมง</string>
+
+    <!-- !! HORSE CHART -->
+    <string name="horse_description">ความเร็ว/การเร่งความเร็ว: %1$s%%\nเลี้ยว/เบรก: %2$s%%</string>
+
+    <!-- !! ERRORS -->
+    <string name="error_generic">เกิดข้อผิดพลาดลองโหลดหน้าใหม่</string>
+    <string name="error_bosstimer_nodata">ไม่มีข้อมูลที่บันทึกไว้\n รีเฟรชการเกิดล่าสุดด้วยตัวคุณเอง</string>
+
+    <!-- !! SETTINGS PAGE (Title + Description) -->
+    <!-- SETTINGS -->
+    <string name="pref_title_language">ภาษา</string>
+    <string name="pref_language">ภาษาปัจจุบัน: %s</string>
+    <string name="pref_title_timezone">โซนเวลา</string>
+    <string name="system_timezone">ระบบโซนเวลา</string>
+    <string name="pref_title_24hour">รูปแบบ 24 ชั่วโมง</string>
+    <string name="pref_24hour">แสดงผลรูปแบบเวลา 24 ชั่วโมง</string>
+    <!-- BOSSTIMER -->
+    <string name="pref_title_region">ภูมิภาค</string>
+    <string name="pref_screen_awake">เปิดหน้าจอตลอด เมื่อเปิดดูเวลาในเกม และตัวนับเวลาบอส</string>
+    <string name="pref_title_screen_awake">เปิดหน้าจอตลอด</string>
+    <string name="pref_title_bosspriority">ลำดับการเกิดของบอส</string>
+    <string name="pref_bosspriority">หน้าต่างบอสเกิดจะแสดงก่อน</string>
+    <string name="pref_title_bossnotification">หน้าต่างแจ้งเตือนการเกิด</string>
+    <string name="pref_bossnotification">เปิดใช้การแจ้งเตือนแบบถาวรสำหรับการเกิดของบอส (ทดสอบ)</string>
+    <string name="pref_title_bossfetchtime">ความถี่ในการซิงโครไนซ์เวลาของบอส</string>
+    <string name="bosstimer_5min">5 นาที</string>
+    <string name="bosstimer_15min">15 นาที</string>
+    <string name="bosstimer_30min">30 นาที</string>
+    <string name="bosstimer_60min">60 นาที</string>
+    <!-- MISC -->
+    <string name="pref_title_twitter">Twitter</string>
+    <string name="pref_twitter">ติดตามฉันทาง Twitter สำหรับการอัปเดตโครงการ</string>
+    <string name="pref_title_translate">ช่วยเหลือเกี่ยวกับการแปล</string>
+    <string name="pref_translate">แนะนำการแก้ไขงานแปล</string>
+
+    <!-- !! RATE APP -->
+    <string name="rate_dialog_title">ให้คะแนนแอพนี้</string>
+    <string name="rate_dialog_message">ถ้าคุณสนุกกับการใช้ app นี้คุณจะคิดสักครู่เพื่อให้คะแนนหรือไม่ ไม่ใช้เวลาเกิน 1 นาที ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+    <string name="rate_dialog_ok">ให้คะแนนตอนนี้</string>
+    <string name="rate_dialog_cancel">ภายหลัง</string>
+    <string name="rate_dialog_no">ไม่ ,ขอบคุณ</string>
+
+    <!-- !! MONSTER NAMES -->
+    <string name="mob_pirates">Pirates</string>
+    <string name="mob_bashims">Bashims</string>
+    <string name="mob_sausans">โซซัน</string>
+    <string name="mob_desertfogans">Desert Fogans</string>
+    <string name="mob_cadry">คาดรี</string>
+    <string name="mob_pilaku">คุกฟิลลาคูห์</string>
+    <string name="mob_desertnagas">Desert Nagas</string>
+    <string name="mob_gahazbandits">ซ่องกลุ่มโจรกาฮาซ</string>
+    <string name="mob_shultz_sausans">Shultz Sausans</string>
+    <string name="mob_crescents">วิหารพระจันทร์เสี้ยว</string>
+    <string name="mob_hasrah">หน้าผาฮาสรา</string>
+    <string name="mob_basilisks">ซ่องโจรบาซิลิสก์</string>
+    <string name="mob_sulfurmines">เหมืองแร่กำมะถันลูด</string>
+    <string name="mob_elrics">วิหารแอลริค</string>
+    <string name="mob_helms">ถิ่นฐานชนเผ่าเฮล์ม</string>
+    <string name="mob_manesrogues">ถ้ำชนเผ่าเมนน์/พเนจร</string>
+    <string name="mob_soldiersgrave">สุสานทหาร</string>
+    <string name="mob_catfish">เมกีแมน</string>
+    <string name="mob_saunils">Saunils</string>
+</resources>

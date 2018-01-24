@@ -176,5 +176,26 @@
     <string name="rate_dialog_ok">Puan ver</string>
     <string name="rate_dialog_cancel">Belki daha sonra</string>
     <string name="rate_dialog_no">Hayır</string>
+
+    <!-- !! MONSTER NAMES -->
+    <string name="mob_pirates">Pirates</string>
+    <string name="mob_bashims">Bashims</string>
+    <string name="mob_sausans">Sausanları</string>
+    <string name="mob_desertfogans">Çöl Doğan</string>
+    <string name="mob_cadry">Çağrı</string>
+    <string name="mob_pilaku">Pila Ku Hapishanesi</string>
+    <string name="mob_desertnagas">Çöl Nagaları </string>
+    <string name="mob_gahazbandits">Gahaz Eşkıya </string>
+    <string name="mob_shultz_sausans">Shultz Sausans</string>
+    <string name="mob_crescents">Hilal Dağları</string>
+    <string name="mob_hasrah">Hasrah Kayalığı</string>
+    <string name="mob_basilisks">Şahmeran İni</string>
+    <string name="mob_sulfurmines">Roud Sülfür Madeni</string>
+    <string name="mob_elrics">Elric Tapınağı</string>
+    <string name="mob_helms">Hilekarlar Karakolu</string>
+    <string name="mob_manesrogues">Yeleli Sığınağı/Aylak Serseriler</string>
+    <string name="mob_soldiersgrave">Askerin Mezarı</string>
+    <string name="mob_catfish">Karabalıkçı</string>
+    <string name="mob_saunils">Saunils</string>
 </resources>
 
