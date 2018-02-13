@@ -23,6 +23,7 @@
     <string name="title_cooking_inspection">검사</string>
     <string name="title_cooking_db">조리</string>
     <string name="title_alchemy_db">연금술</string>
+    <string name="title_workshop_db">공장</string>
     <string name="title_processing_db">가공</string>
     <string name="title_materialgroup">자재 그룹</string>
     <string name="title_horse_calculator">말 계산기</string>
@@ -109,7 +110,7 @@
     <string name="crafting_byingredient">모드: 성분량</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">각 영역마다 다른 승수가 있습니다: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13. 현재 선택: %1$d</string>
+    <string name="horse_breeding_multiplier">각 영역마다 다른 승수가 있습니다: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. 현재 선택: %1$d</string>
     <string name="female_horse"><b>여자</b></string>
     <string name="male_horse"><b>남성</b></string>
     <string name="tier">티어</string>

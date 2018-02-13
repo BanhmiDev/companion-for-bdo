@@ -23,6 +23,7 @@
     <string name="title_cooking_inspection">Oсмотр</string>
     <string name="title_cooking_db">Кулинария</string>
     <string name="title_alchemy_db">Алхимия</string>
+    <string name="title_workshop_db">мастерская</string>
     <string name="title_processing_db">Oбработка</string>
     <string name="title_materialgroup">Группы материалов</string>
     <string name="title_horse_calculator">Коневодство</string>
@@ -109,7 +110,7 @@
     <string name="crafting_byingredient">Режим: количество ингредиентов</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">На RU-серверах равен 13: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13. В настоящий момент установлено значение: %1$d</string>
+    <string name="horse_breeding_multiplier">На RU-серверах равен 14: MENA/SEA = 9, NA/EU/SA/TW/KR/JP = 14. В настоящий момент установлено значение: %1$d</string>
     <string name="female_horse"><b>Мужской</b></string>
     <string name="male_horse"><b>Женский</b></string>
     <string name="tier">Pанг</string>

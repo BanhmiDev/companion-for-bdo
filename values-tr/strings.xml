@@ -19,10 +19,11 @@
     <string name="title_header_charts">Tablo</string>
     <string name="title_header_misc">Çeşitli</string>
     <string name="title_main_timer">Oyun Zamanlayıcısı</string>
-    <string name="title_boss_timer">Boss Zamanlayıcı</string> <!-- TODO -->
+    <string name="title_boss_timer">Boss Zamanlayıcı</string>
     <string name="title_cooking_inspection">Teftiş</string>
     <string name="title_cooking_db">Aşçılık</string>
     <string name="title_alchemy_db">Simya</string>
+    <string name="title_workshop_db">Atölye</string>
     <string name="title_processing_db">İşleme</string>
     <string name="title_materialgroup">Malzeme Grupları</string>
     <string name="title_horse_calculator">At Hesaplayıcısı</string>
@@ -109,7 +110,7 @@
     <string name="crafting_byingredient">Mod: madde miktarı</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Bölgelerde farklı At Yetiştirme Çarpanları var: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13. Seçilen çarpanı: %1$d</string>
+    <string name="horse_breeding_multiplier">Bölgelerde farklı At Yetiştirme Çarpanları var: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Seçilen çarpanı: %1$d</string>
     <string name="female_horse"><b>Kadın</b></string>
     <string name="male_horse"><b>Erkek</b></string>
     <string name="tier">Aşama</string>

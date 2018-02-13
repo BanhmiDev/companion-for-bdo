@@ -23,6 +23,7 @@
     <string name="title_cooking_inspection">Inspection</string>
     <string name="title_cooking_db">ข้อมูลการทำอาหาร</string>
     <string name="title_alchemy_db">ข้อมูลการแปลธาตุ</string>
+    <string name="title_workshop_db">โรงงาน</string>
     <string name="title_processing_db">ข้อมูลการแปรรูป</string>
     <string name="title_materialgroup">กลุ่มของวัสดุ</string>
     <string name="title_horse_calculator">การผสมพันธ์ม้า</string>
@@ -109,7 +110,7 @@
     <string name="crafting_byingredient">โหมด: ตามส่วนผสม</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">ภูมิภาคมีคูณพันธุ์ม้าที่แตกต่างกัน: MENA=9, NA/EU/SA/TW/KR/JP/RU = 13. เลือกตัวคูณ: %1$d</string>
+    <string name="horse_breeding_multiplier">ภูมิภาคมีคูณพันธุ์ม้าที่แตกต่างกัน: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. เลือกตัวคูณ: %1$d</string>
     <string name="female_horse"><b>ม้าตัวเมีย</b></string>
     <string name="male_horse"><b>ม้าตัวผู้</b></string>
     <string name="tier">รุ่น</string>

@@ -23,6 +23,7 @@
     <string name="title_cooking_inspection">検査</string>
     <string name="title_cooking_db">料理</string>
     <string name="title_alchemy_db">錬金術</string>
+    <string name="title_workshop_db">工場</string>
     <string name="title_processing_db">処理</string>
     <string name="title_materialgroup">品目グループ</string>
     <string name="title_horse_calculator">馬の繁殖</string>
@@ -109,7 +110,7 @@
     <string name="crafting_byingredient">モード：成分量</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">リージョンには異なる乗数があります: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13。現在の乗数：%1$d</string>
+    <string name="horse_breeding_multiplier">リージョンには異なる乗数があります: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14。現在の乗数：%1$d</string>
     <string name="female_horse"><b>女性の馬</b></string>
     <string name="male_horse"><b>男性馬</b></string>
     <string name="tier">ティア</string>

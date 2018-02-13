@@ -23,6 +23,7 @@
     <string name="title_cooking_inspection">Inspección</string>
     <string name="title_cooking_db">Cocina</string>
     <string name="title_alchemy_db">Alquimia</string>
+    <string name="title_workshop_db">Taller</string>
     <string name="title_processing_db">Tratamiento</string>
     <string name="title_materialgroup">Grupos de materiales</string>
     <string name="title_horse_calculator">Criar caballos</string>
@@ -109,7 +110,7 @@
     <string name="crafting_byingredient">Modo: cand. de ingrediente</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13. Multiplicador seleccionado: %1$d</string>
+    <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Multiplicador seleccionado: %1$d</string>
     <string name="female_horse"><b>Hembra</b></string>
     <string name="male_horse"><b>Masculino</b></string>
     <string name="tier">Grado</string>

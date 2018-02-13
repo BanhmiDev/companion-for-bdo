@@ -23,6 +23,7 @@
     <string name="title_cooking_inspection">Inspektion</string>
     <string name="title_cooking_db">Koch Datenbank</string>
     <string name="title_alchemy_db">Alchemie Datenbank</string>
+    <string name="title_workshop_db">Werkstatt Datenbank</string>
     <string name="title_processing_db">Verarbeitungs Datenbank</string>
     <string name="title_materialgroup">Materialgruppen</string>
     <string name="title_horse_calculator">Pferdezuchtrechner</string>
@@ -109,7 +110,7 @@
     <string name="crafting_byingredient">Modus: nach Zutatenmenge</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Regionen haben unterschliedliche Pferdezuchtmultiplikatoren: MENA = 9, NA/EU/SA/TW/KR/JP/RU = 13. Derzeitige Auswahl: %1$d</string>
+    <string name="horse_breeding_multiplier">Regionen haben unterschliedliche Pferdezuchtmultiplikatoren: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Derzeitige Auswahl: %1$d</string>
     <string name="female_horse"><b>Weibliches Pferd</b></string>
     <string name="male_horse"><b>Männliches Pferd</b></string>
     <string name="tier">Stufe</string>
