@@ -18,7 +18,7 @@
     <string name="title_header_calculators">Калькулятор</string>
     <string name="title_header_charts">Диаграмма</string>
     <string name="title_header_misc">Разное</string>
-    <string name="title_main_timer">внутриигровой</string>
+    <string name="title_main_timer">внутриигровое</string>
     <string name="title_boss_timer">мировых боссов</string>
     <string name="title_cooking_inspection">Oсмотр</string>
     <string name="title_cooking_db">Кулинария</string>
@@ -28,8 +28,8 @@
     <string name="title_materialgroup">Группы материалов</string>
     <string name="title_horse_calculator">Коневодство</string>
     <string name="title_market_calculator">Рынок</string>
-    <string name="title_failstack_chart">Усилить</string>
-    <string name="title_grinding_chart">фарма</string>
+    <string name="title_failstack_chart">Заточка</string>
+    <string name="title_grinding_chart">Фарм</string>
     <string name="title_horse_chart">Лошади</string>
     <string name="title_about">Инфо</string>
     <string name="title_share">Поделиться</string>
@@ -57,15 +57,15 @@
     <string name="yesterday">Вчера</string>
     <string name="sort_by_name_asc">Сортировать по имени: по возрастанию</string>
     <string name="sort_by_name_desc">Сортировать по имени: по убыванию</string>
-    <string name="sort_by_level_asc">Сортировать по Уровень: по возрастанию</string>
-    <string name="sort_by_level_desc">Сортировать по Уровень: по убыванию</string>
+    <string name="sort_by_level_asc">Сортировать по Уровеню: по возрастанию</string>
+    <string name="sort_by_level_desc">Сортировать по Уровеню: по убыванию</string>
 
     <!-- !! INGAME TIMERS -->
-    <string name="ingame_title">Расписание внутриигровой</string>
+    <string name="ingame_title">Внутриигровое расписание</string>
     <string name="reset_title">Сбросить время</string>
-    <string name="night">Ночь за</string>
-    <string name="day">День за</string>
-    <string name="resetDaily">Ежедневно</string>
+    <string name="night">Ночь через</string>
+    <string name="day">День через</string>
+    <string name="resetDaily">Ежедневки</string>
     <string name="resetImperial">имперский</string>
     <string name="resetImperialTrading">Имперская торговля</string>
     <string name="resetBSA">Приключения Черного духа</string>
@@ -106,7 +106,7 @@
     <string name="bookmark_title_empty">Список пуст!</string>
     <string name="bookmark_empty">Список закладок пуст.</string>
     <string name="can_substitute">Можно использовать любой предмет из списка:\n\n</string>
-    <string name="crafting_byquantity">Режим: количество</string>
+    <string name="crafting_byquantity">Режим: количество крафтов</string>
     <string name="crafting_byingredient">Режим: количество ингредиентов</string>
 
     <!-- !! HORSE CALCULATOR -->
@@ -128,39 +128,39 @@
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">базовый шанс</string>
-    <string name="enhance_optimal_stacks">Макс стеки</string>
+    <string name="enhance_optimal_stacks">Макс стаки</string>
     <string name="enhance_success_chance">Шанс успеха</string>
     <string name="enhancement_weapon">Оружие</string>
     <string name="enhancement_armor">Броня</string>
-    <string name="enhancement_accessory">Aксессуар</string>
+    <string name="enhancement_accessory">Aксессуары</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Уровень:</b> %2$s\n%3$s миллионов серебра/час</string>
+    <string name="grinding_description"><b>ДМГ/ДЕФ:</b> %1$s <b>Уровень:</b> %2$s\n%3$s миллионов серебра/час</string>
 
     <!-- !! HORSE CHART -->
-    <string name="horse_description">Скопость/Ускорение: %1$s%%\nПоворот/Тормоз: %2$s%%</string>
+    <string name="horse_description">Скорость/Ускорение: %1$s%%\nПоворот/Тормоз: %2$s%%</string>
 
     <!-- !! ERRORS -->
     <string name="error_generic">Ошибка, попробуйте перезагрузить страницу.</string>
-    <string name="error_bosstimer_nodata">Нет сохраненных данных\nОбновите себя.</string>
+    <string name="error_bosstimer_nodata">Нет сохраненных данных\nОбновите страницу.</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
     <string name="pref_title_language">Язык</string>
-    <string name="pref_language">В настоящий момент установлено значение: %s</string>
+    <string name="pref_language">Сейчас стоит: %s</string>
     <string name="pref_title_timezone">Часовой пояс</string>
-    <string name="system_timezone">система</string>
+    <string name="system_timezone">Время устройства</string>
     <string name="pref_title_24hour">24-часовой</string>
     <string name="pref_24hour">Время отображения в 24-часовом формате</string>
     <!-- BOSSTIMER -->
-    <string name="pref_title_region">Область</string>
+    <string name="pref_title_region">Регион</string>
     <string name="pref_title_screen_awake">Не спи</string>
     <string name="pref_screen_awake">Удерживать экран на таймерах</string>
-    <string name="pref_title_bosspriority">Сортировать боссы</string>
+    <string name="pref_title_bosspriority">Сортировка боссов</string>
     <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
     <string name="pref_title_bossnotification">Уведомления о боссе</string>
     <string name="pref_bossnotification">Включить уведомление о боссе (BETA)</string>
-    <string name="pref_title_bossfetchtime">босс синхронизации времени в минутах</string>
+    <string name="pref_title_bossfetchtime">Скорость обнавления босс-таймера</string>
     <string name="bosstimer_5min">5 минут</string>
     <string name="bosstimer_15min">15 минут</string>
     <string name="bosstimer_30min">30 минут</string>
@@ -168,7 +168,7 @@
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">Следуйте за мной в Twitter для получения обновлений</string>
-    <string name="pref_translate">Предложить обновления для перевода</string>
+    <string name="pref_translate">Предложить перевод</string>
     <string name="pref_title_translate">Помощь с переводом</string>
 
     <!-- !! RATE APP -->
@@ -182,21 +182,21 @@
     <string name="mob_pirates">Пираты</string>
     <string name="mob_bashims">Басим</string>
     <string name="mob_sausans">Саош</string>
-    <string name="mob_desertfogans">Пустынный фоган</string>
-    <string name="mob_cadry">Кадри</string>
+    <string name="mob_desertfogans">Пустынные фоганы</string>
+    <string name="mob_cadry">Забытые руины</string>
     <string name="mob_pilaku">Тюрьма Пиллапа</string>
-    <string name="mob_desertnagas">Пустынная нага</string>
+    <string name="mob_desertnagas">Пустынные наги</string>
     <string name="mob_gahazbandits">Ущелье разбойников</string>
-    <string name="mob_shultz_sausans">Шульц</string>
+    <string name="mob_shultz_sausans">Легион Шульц</string>
     <string name="mob_crescents">Храм Полумесяца</string>
-    <string name="mob_hasrah">Хаас</string>
-    <string name="mob_basilisks">Василиск</string>
+    <string name="mob_hasrah">Ущелье Хаас</string>
+    <string name="mob_basilisks">Василиски</string>
     <string name="mob_sulfurmines">Серный рудник</string>
-    <string name="mob_elrics">Эллик</string>
+    <string name="mob_elrics">Эллики</string>
     <string name="mob_helms">Тугу</string>
     <string name="mob_manesrogues">Ташиа/Воры</string>
-    <string name="mob_soldiersgrave">Могил воинов</string>
-    <string name="mob_catfish">Водяной</string>
-    <string name="mob_saunils">Сонил</string>
+    <string name="mob_soldiersgrave">Умертвие</string>
+    <string name="mob_catfish">Водяные</string>
+    <string name="mob_saunils">Сонилы</string>
 </resources>
 
