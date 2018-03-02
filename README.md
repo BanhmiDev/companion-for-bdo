@@ -19,6 +19,6 @@ Title of the issue could look like: ```Update for X```. You can either attach th
 ## Contributors
 A big thank you to all the contributors.
 
-**Portuguese**: Thiago172
-**Russian**: SeefAlert
-**Thai**: จอมเวท มากิ ผู้บุกเบิก แห่งทะเลทรายทมิฬ
+**Portuguese**: Thiago172                              
+**Russian**: SeefAlert                           
+**Thai**: จอมเวท มากิ ผู้บุกเบิก แห่งทะเลทรายทมิฬ                     
