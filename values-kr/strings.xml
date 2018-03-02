@@ -26,6 +26,7 @@
     <string name="title_workshop_db">공장</string>
     <string name="title_processing_db">가공</string>
     <string name="title_materialgroup">자재 그룹</string>
+    <string name="title_failstack_calculator">실패 계산기</string>
     <string name="title_horse_calculator">말 계산기</string>
     <string name="title_market_calculator">시장 계산기</string>
     <string name="title_failstack_chart">스태킹</string>
@@ -198,5 +199,12 @@
     <string name="mob_soldiersgrave">병사의 무덤</string>
     <string name="mob_catfish">메기맨</string>
     <string name="mob_saunils">사우닐</string>
-</resources>
 
+    <!-- LATEST UPDATE -->
+    <string name="enhancement_info">참고로 사용하십시오!</string>
+    <string name="failstack_result">현재 기회: %1$s%%\n각 스태킹 는 다음과 같이 기회를 증가시킵니다: %2$s%%\n최대 스태킹: %3$s (%4$s%% 기회)</string>
+    <string name="enhancement_lifeclothing">생활 의류</string>
+    <string name="vote_success">투표가 제출되었습니다</string>
+    <string name="desired_level">원하는 수준</string>
+    <string name="current_stacks">현재 스택</string>
+</resources>

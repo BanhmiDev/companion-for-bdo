@@ -26,6 +26,7 @@
     <string name="title_workshop_db">โรงงาน</string>
     <string name="title_processing_db">ข้อมูลการแปรรูป</string>
     <string name="title_materialgroup">กลุ่มของวัสดุ</string>
+    <string name="title_failstack_calculator">เครื่องคิดเลขเสริม</string>
     <string name="title_horse_calculator">การผสมพันธ์ม้า</string>
     <string name="title_market_calculator">คำนวนราคาตลาด</string>
     <string name="title_failstack_chart">อัตราการตีบวก</string>
@@ -198,4 +199,12 @@
     <string name="mob_soldiersgrave">สุสานทหาร</string>
     <string name="mob_catfish">เมกีแมน</string>
     <string name="mob_saunils">Saunils</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="enhancement_info">ไม่ทราบอัตราที่แน่นอนให้ใช้เป็นข้อมูลอ้างอิง!</string>
+    <string name="failstack_result">โอกาสปัจจุบัน: %1$s%%\nแต่ละสแต็คจะเพิ่มโอกาสเป็น: %2$s%%\nสแต็คสูงสุด: %3$s (%4$s%% โอกาส)</string>
+    <string name="enhancement_lifeclothing">เสื้อผ้าเพื่อชีวิต</string>
+    <string name="vote_success">โหวตแล้ว</string>
+    <string name="desired_level">ระดับที่ต้องการ</string>
+    <string name="current_stacks">สแต็คปัจจุบัน</string>
 </resources>

@@ -26,9 +26,10 @@
     <string name="title_workshop_db">Atölye</string>
     <string name="title_processing_db">İşleme</string>
     <string name="title_materialgroup">Malzeme Grupları</string>
+    <string name="title_failstack_calculator">Yığın Hesap Makinesi</string>
     <string name="title_horse_calculator">At Hesaplayıcısı</string>
     <string name="title_market_calculator">Pazar Hesap Makinesi</string>
-    <string name="title_failstack_chart">Failstack Chart</string>
+    <string name="title_failstack_chart">Yığın Tablosu</string>
     <string name="title_grinding_chart">Grinding Chart</string>
     <string name="title_horse_chart">Atlar</string>
     <string name="title_about">Hakkında</string>
@@ -198,5 +199,12 @@
     <string name="mob_soldiersgrave">Askerin Mezarı</string>
     <string name="mob_catfish">Karabalıkçı</string>
     <string name="mob_saunils">Saunils</string>
-</resources>
 
+    <!-- LATEST UPDATE -->
+    <string name="enhancement_info">Tam oranlar bilinmiyor - referans olarak kullanın!</string>
+    <string name="failstack_result">Şu anki şans: %1$s%%\nHer yığının şansı artar:: %2$s%%\nMaksimum yığınlar: %3$s (%4$s%% şans)</string>
+    <string name="enhancement_lifeclothing">Yaşam Giysileri</string>
+    <string name="vote_success">Oy gönderildi</string>
+    <string name="desired_level">Arzu edilen seviye</string>
+    <string name="current_stacks">Mevcut yığınlar</string>
+</resources>

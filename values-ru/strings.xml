@@ -25,6 +25,7 @@
     <string name="title_alchemy_db">Алхимия</string>
     <string name="title_workshop_db">мастерская</string>
     <string name="title_processing_db">Oбработка</string>
+    <string name="title_failstack_calculator">Заточка</string>
     <string name="title_materialgroup">Группы материалов</string>
     <string name="title_horse_calculator">Коневодство</string>
     <string name="title_market_calculator">Рынок</string>
@@ -198,5 +199,13 @@
     <string name="mob_soldiersgrave">Умертвие</string>
     <string name="mob_catfish">Водяные</string>
     <string name="mob_saunils">Сонилы</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="enhancement_info">Точные данные неизвестны.</string>
+    <string name="failstack_result">Текущая вероятность: %1$s%%\nКаждый стек увеличивает шанс на: %2$s%%\nМакс. Стеки: %3$s (%4$s%% вероятность)</string>
+    <string name="enhancement_lifeclothing">Одежда для жизни</string>
+    <string name="vote_success">Голосование отправлено</string>
+    <string name="desired_level">Желаемый уровень</string>
+    <string name="current_stacks">Текущие стеки</string>
 </resources>
 

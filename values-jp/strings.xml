@@ -26,6 +26,7 @@
     <string name="title_workshop_db">工場</string>
     <string name="title_processing_db">処理</string>
     <string name="title_materialgroup">品目グループ</string>
+    <string name="title_failstack_calculator">スタックの計算機</string>
     <string name="title_horse_calculator">馬の繁殖</string>
     <string name="title_market_calculator">市場利益</string>
     <string name="title_failstack_chart">スタックモデル</string>
@@ -198,5 +199,12 @@
     <string name="mob_soldiersgrave">兵の墓</string>
     <string name="mob_catfish">ナマズマン</string>
     <string name="mob_saunils">サウニール</string>
-</resources>
 
+    <!-- LATEST UPDATE -->
+    <string name="enhancement_info">参照としてデータを使用してください！</string>
+    <string name="failstack_result">現在のチャンス：%1$s%%\nスタックあたりのチャンスの増加:%2$s%%\n最大スタック：%3$s (%4$s%% チャンス)</string>
+    <string name="enhancement_lifeclothing">生活服</string>
+    <string name="vote_success">投票を提出した</string>
+    <string name="desired_level">希望レベル</string>
+    <string name="current_stacks">現在のスタック</string>
+</resources>
