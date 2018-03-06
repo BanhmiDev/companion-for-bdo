@@ -200,12 +200,15 @@
     <string name="mob_catfish">Poisson-chat</string>
     <string name="mob_saunils">Saunils</string>
 
-    <!-- LATEST UPDATE -->
     <string name="enhancement_info">Taux exacts inconnus, à utiliser comme référence !</string>
     <string name="failstack_result">Chance actuelle : %1$s%%\nChaque fail stack augmente la chance de : %2$s%%\nFail stack max : %3$s (%4$s%% de chance)</string>
     <string name="enhancement_lifeclothing">Vêtements de vie</string>
     <string name="vote_success">Vote soumis</string>
     <string name="desired_level">Niveau désiré</string>
     <string name="current_stacks">Stacks actuels</string>
-</resources>
 
+    <!-- LATEST UPDATE -->
+    <string name="furniture">Meubles</string>
+    <string name="crates">Caisses</string>
+    <string name="wearables">Armure</string>
+</resources>

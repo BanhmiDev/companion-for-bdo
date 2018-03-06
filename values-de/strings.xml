@@ -200,11 +200,16 @@
     <string name="mob_catfish">Welsmenschen</string>
     <string name="mob_saunils">Saunils</string>
 
-    <!-- LATEST UPDATE -->
     <string name="enhancement_info">Exakte Zufallsraten sind unbekannt - benutze dies als Referenz!</string>
     <string name="failstack_result">Aktuelle Chance: %1$s%%\nJeder FS erhöht die Chance um: %2$s%%\nMax. failstack: %3$s (%4$s%% Chance)</string>
     <string name="enhancement_lifeclothing">Funktion. Kleidung</string>
     <string name="vote_success">Abstimmung eingereicht</string>
     <string name="desired_level">Gewünschte Stufe</string>
     <string name="current_stacks">Aktuelle Stacks</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="furniture">Mueble</string>
+    <string name="crates">Kisten</string>
+    <string name="wearables">Anziehsachen</string>
 </resources>
+

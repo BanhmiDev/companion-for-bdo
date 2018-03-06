@@ -200,11 +200,16 @@
     <string name="mob_catfish">ナマズマン</string>
     <string name="mob_saunils">サウニール</string>
 
-    <!-- LATEST UPDATE -->
     <string name="enhancement_info">参照としてデータを使用してください！</string>
     <string name="failstack_result">現在のチャンス：%1$s%%\nスタックあたりのチャンスの増加:%2$s%%\n最大スタック：%3$s (%4$s%% チャンス)</string>
     <string name="enhancement_lifeclothing">生活服</string>
     <string name="vote_success">投票を提出した</string>
     <string name="desired_level">希望レベル</string>
     <string name="current_stacks">現在のスタック</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="furniture">家具</string>
+    <string name="crates">クレート</string>
+    <string name="wearables">ウェアラブル</string>
 </resources>
+

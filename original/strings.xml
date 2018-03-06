@@ -200,12 +200,16 @@
     <string name="mob_catfish">Catfish</string>
     <string name="mob_saunils">Saunils</string>
 
-    <!-- LATEST UPDATE -->
     <string name="enhancement_info">Exact rates are not known - use it as reference!</string>
     <string name="failstack_result">Current chance: %1$s%%\nEach FS increases chance by: %2$s%%\nMax failstack: %3$s (%4$s%% Chance)</string>
     <string name="enhancement_lifeclothing">Life Clothing</string>
     <string name="vote_success">Vote submitted</string>
     <string name="desired_level">Desired Level</string>
     <string name="current_stacks">Current Stacks</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="furniture">Furniture</string>
+    <string name="crates">Crates</string>
+    <string name="wearables">Wearables</string>
 </resources>
 

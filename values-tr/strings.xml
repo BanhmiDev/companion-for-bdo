@@ -200,11 +200,16 @@
     <string name="mob_catfish">Karabalıkçı</string>
     <string name="mob_saunils">Saunils</string>
 
-    <!-- LATEST UPDATE -->
     <string name="enhancement_info">Tam oranlar bilinmiyor - referans olarak kullanın!</string>
     <string name="failstack_result">Şu anki şans: %1$s%%\nHer yığının şansı artar:: %2$s%%\nMaksimum yığınlar: %3$s (%4$s%% şans)</string>
     <string name="enhancement_lifeclothing">Yaşam Giysileri</string>
     <string name="vote_success">Oy gönderildi</string>
     <string name="desired_level">Arzu edilen seviye</string>
     <string name="current_stacks">Mevcut yığınlar</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="furniture">Mobilya</string>
+    <string name="crates">Sandıklar</string>
+    <string name="wearables">Giyilebilir</string>
 </resources>
+

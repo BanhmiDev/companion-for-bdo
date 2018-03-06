@@ -200,11 +200,16 @@
     <string name="mob_catfish">Hombre Bagre</string>
     <string name="mob_saunils">Saunils</string>
 
-    <!-- LATEST UPDATE -->
     <string name="enhancement_info">No se conocen las tasas exactas. Úselo como referencia.</string>
     <string name="failstack_result">Oportunidad actual: %1$s%%\nCada FS aumenta la posibilidad: %2$s%%\nMáx. FS: %3$s (%4$s%% oportunidad)</string>
     <string name="enhancement_lifeclothing">Ropa de vida</string>
     <string name="vote_success">Voto enviado</string>
     <string name="desired_level">Nivel deseado</string>
     <string name="current_stacks">Actual FS</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="furniture">Mueble</string>
+    <string name="crates">Cajones</string>
+    <string name="wearables">Usable</string>
 </resources>
+
