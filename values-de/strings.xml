@@ -90,6 +90,7 @@
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">Benötigtes Level: %1$s</string>
+    <string name="workshoplevel_required">Benötigtes Werkstattlevel: %1$s</string>
     <string name="beginner">Anfänger</string>
     <string name="apprentice">Lehrling</string>
     <string name="skilled">Geselle</string>
@@ -136,7 +137,7 @@
     <string name="enhancement_accessory">Schmuck</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Level:</b> %2$s\n%3$s Millionen Silber/Stunde</string>
+    <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Level:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
     <string name="horse_description">Geschwindigkeit/Beschleunigung: %1$s%%\nTurn/Brake: %2$s%%</string>
@@ -179,37 +180,41 @@
     <string name="rate_dialog_cancel">Später</string>
     <string name="rate_dialog_no">Nein, Danke</string>
 
-    <!-- !! MONSTER NAMES -->
-    <string name="mob_pirates">Piraten</string>
-    <string name="mob_bashims">Bashims</string>
-    <string name="mob_sausans">Sausans</string>
-    <string name="mob_desertfogans">Wüstenfogans</string>
-    <string name="mob_cadry">Cadry</string>
-    <string name="mob_pilaku">Pila Ku</string>
-    <string name="mob_desertnagas">Wüstennagas</string>
-    <string name="mob_gahazbandits">Gahaz Banditen</string>
-    <string name="mob_shultz_sausans">Shultz Sausans</string>
-    <string name="mob_crescents">Halbmondschrein</string>
-    <string name="mob_hasrah">Hasrah</string>
-    <string name="mob_basilisks">Basilisks</string>
-    <string name="mob_sulfurmines">Schwefelmine</string>
-    <string name="mob_elrics">Elrics</string>
-    <string name="mob_helms">Helms</string>
-    <string name="mob_manesrogues">Mähnen/Schurken</string>
-    <string name="mob_soldiersgrave">Soldatengrab</string>
-    <string name="mob_catfish">Welsmenschen</string>
-    <string name="mob_saunils">Saunils</string>
-
     <string name="enhancement_info">Exakte Zufallsraten sind unbekannt - benutze dies als Referenz!</string>
     <string name="failstack_result">Aktuelle Chance: %1$s%%\nJeder FS erhöht die Chance um: %2$s%%\nMax. failstack: %3$s (%4$s%% Chance)</string>
     <string name="enhancement_lifeclothing">Funktion. Kleidung</string>
     <string name="vote_success">Abstimmung eingereicht</string>
     <string name="desired_level">Gewünschte Stufe</string>
     <string name="current_stacks">Aktuelle Stacks</string>
-
-    <!-- LATEST UPDATE -->
-    <string name="furniture">Mueble</string>
+    <string name="furniture">Möbel</string>
     <string name="crates">Kisten</string>
     <string name="wearables">Anziehsachen</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="mob_helms">Helms</string>
+    <string name="mob_elrics">Elrics</string>
+    <string name="mob_pollyforest">Polly\'s Pilz</string>
+    <string name="mob_sausans">Sausans</string>
+    <string name="mob_fadus">Fadus</string>
+    <string name="mob_pirates">Piraten</string>
+    <string name="mob_bashims">Bashims</string>
+    <string name="mob_desertnagas">Wüstennagas</string>
+    <string name="mob_desertfogans">Wüstenfogans</string>
+    <string name="mob_cadry">Cadry</string>
+    <string name="mob_gahazbandits">Gahaz Banditen</string>
+    <string name="mob_crescents">Halbmondschrein</string>
+    <string name="mob_basilisks">Basilisks</string>
+    <string name="mob_taptharplain">Centaur</string>
+    <string name="mob_navarnsteppe">Steppe</string>
+    <string name="mob_sulfurmines">Schwefelmine</string>
+    <string name="mob_pilaku">Pila Ku</string>
+    <string name="mob_manshaum">Manshaum</string>
+    <string name="mob_forestronaros">Wald-Ranaros</string>
+    <string name="mob_aakmanhystria">Aakman/Hystria</string>
+    <string name="mob_mirumokruins">Ruinen des Miruwaldes</string>
+    <string name="mob_gyfinrhasia">Gyfin Rhasia</string>
+    <string name="exp_rate">EXP Rate:</string>
+    <string name="difficulty">Schwierigkeit:</string>
+    <string name="mob_density">Monsterdichte:</string>
 </resources>
 

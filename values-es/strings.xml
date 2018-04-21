@@ -90,6 +90,7 @@
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">Nivel requerido: %1$s</string>
+    <string name="workshoplevel_required">Nivel de taller requerido: %1$s</string>
     <string name="beginner">Nivel Principiante</string>
     <string name="apprentice">Nivel Aprendiz</string>
     <string name="skilled">Nivel Hábil</string>
@@ -136,7 +137,7 @@
     <string name="enhancement_accessory">Accesorio</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Nivel:</b> %2$s\n%3$s millones de plata/hora</string>
+    <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Nivel:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
     <string name="horse_description">Velocidad/Aceleración: %1$s%%\nVuelta/Freno: %2$s%%</string>
@@ -179,37 +180,41 @@
     <string name="rate_dialog_cancel">Recuérdamelo más tarde</string>
     <string name="rate_dialog_no">¡No, gracias!</string>
 
-    <!-- !! MONSTER NAMES -->
-    <string name="mob_pirates">Piratas</string>
-    <string name="mob_bashims">Bashims</string>
-    <string name="mob_sausans">Sausans</string>
-    <string name="mob_desertfogans">Fogans del desierto</string>
-    <string name="mob_cadry">Cadry</string>
-    <string name="mob_pilaku">Cárcel de Pila Ku</string>
-    <string name="mob_desertnagas">Nagas del desierto</string>
-    <string name="mob_gahazbandits">Bandidos Gahaz</string>
-    <string name="mob_shultz_sausans">Shultz Sausans</string>
-    <string name="mob_crescents">Luna Creciente</string>
-    <string name="mob_hasrah">Hasrah</string>
-    <string name="mob_basilisks">Guarida de Basiliscos</string>
-    <string name="mob_sulfurmines">Mina de Azufre de Roud</string>
-    <string name="mob_elrics">Templo de Elric</string>
-    <string name="mob_helms">Puesto Militar de los Yelmos</string>
-    <string name="mob_manesrogues">Manes/Rogues</string>
-    <string name="mob_soldiersgrave">Tumba del Soldado</string>
-    <string name="mob_catfish">Hombre Bagre</string>
-    <string name="mob_saunils">Saunils</string>
-
     <string name="enhancement_info">No se conocen las tasas exactas. Úselo como referencia.</string>
     <string name="failstack_result">Oportunidad actual: %1$s%%\nCada FS aumenta la posibilidad: %2$s%%\nMáx. FS: %3$s (%4$s%% oportunidad)</string>
     <string name="enhancement_lifeclothing">Ropa de vida</string>
     <string name="vote_success">Voto enviado</string>
     <string name="desired_level">Nivel deseado</string>
     <string name="current_stacks">Actual FS</string>
-
-    <!-- LATEST UPDATE -->
     <string name="furniture">Mueble</string>
     <string name="crates">Cajones</string>
     <string name="wearables">Usable</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="mob_helms">Puesto Militar de los Yelmos</string>
+    <string name="mob_elrics">Templo de Elric</string>
+    <string name="mob_pollyforest">Setas de Polly</string>
+    <string name="mob_sausans">Sausans</string>
+    <string name="mob_fadus">Fadus Garrison</string>
+    <string name="mob_pirates">Piratas</string>
+    <string name="mob_bashims">Bashims</string>
+    <string name="mob_desertnagas">Nagas del desierto</string>
+    <string name="mob_desertfogans">Fogans del desierto</string>
+    <string name="mob_cadry">Cadry</string>
+    <string name="mob_gahazbandits">Bandidos Gahaz</string>
+    <string name="mob_crescents">Luna Creciente</string>
+    <string name="mob_basilisks">Guarida de Basiliscos</string>
+    <string name="mob_taptharplain">Centaur</string>
+    <string name="mob_navarnsteppe">Estapa</string>
+    <string name="mob_sulfurmines">Mina de Azufre de Roud</string>
+    <string name="mob_pilaku">Cárcel de Pila Ku</string>
+    <string name="mob_manshaum">Manshaum</string>
+    <string name="mob_forestronaros">Ronaros</string>
+    <string name="mob_aakmanhystria">Aakman/Hystria</string>
+    <string name="mob_mirumokruins">Ruinas de poplar</string>
+    <string name="mob_gyfinrhasia">Gyfin Rhasia</string>
+    <string name="exp_rate">Tasa de EXP:</string>
+    <string name="difficulty">Dificultad:</string>
+    <string name="mob_density">Densidad:</string>
 </resources>
 

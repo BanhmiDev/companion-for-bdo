@@ -90,6 +90,7 @@
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">必要レベル: %1$s</string>
+    <string name="workshoplevel_required">必要なワークショップレベル: %1$s</string>
     <string name="beginner">初心者 Lv.</string>
     <string name="apprentice">見習い Lv.</string>
     <string name="skilled">熟練 Lv.</string>
@@ -136,7 +137,7 @@
     <string name="enhancement_accessory">アクセサリー</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>レベル:</b> %2$s\n%3$s百万銀/時</string>
+    <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>レベル:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
     <string name="horse_description">速度/加速度: %1$s%%\n回転力/ブレーキ: %2$s%%</string>
@@ -179,37 +180,41 @@
     <string name="rate_dialog_cancel">後でする</string>
     <string name="rate_dialog_no">いえ、結構です</string>
 
-    <!-- !! MONSTER NAMES -->
-    <string name="mob_pirates">海賊</string>
-    <string name="mob_bashims">バシム</string>
-    <string name="mob_sausans">ソサン</string>
-    <string name="mob_desertfogans">砂漠フォガン</string>
-    <string name="mob_cadry">カドリー</string>
-    <string name="mob_pilaku">フィラ・ク監獄</string>
-    <string name="mob_desertnagas">砂漠ナーガ</string>
-    <string name="mob_gahazbandits">ガハーズ盗賊団</string>
-    <string name="mob_shultz_sausans">シュルツ</string>
-    <string name="mob_crescents">三日月神殿</string>
-    <string name="mob_hasrah">ハスラ崖</string>
-    <string name="mob_basilisks">バジリスク</string>
-    <string name="mob_sulfurmines">硫黄鉱山</string>
-    <string name="mob_elrics">エルリック寺院</string>
-    <string name="mob_helms">カブト族駐屯地</string>
-    <string name="mob_manesrogues">メイン/盗賊団</string>
-    <string name="mob_soldiersgrave">兵の墓</string>
-    <string name="mob_catfish">ナマズマン</string>
-    <string name="mob_saunils">サウニール</string>
-
     <string name="enhancement_info">参照としてデータを使用してください！</string>
     <string name="failstack_result">現在のチャンス：%1$s%%\nスタックあたりのチャンスの増加:%2$s%%\n最大スタック：%3$s (%4$s%% チャンス)</string>
     <string name="enhancement_lifeclothing">生活服</string>
     <string name="vote_success">投票を提出した</string>
     <string name="desired_level">希望レベル</string>
     <string name="current_stacks">現在のスタック</string>
-
-    <!-- LATEST UPDATE -->
     <string name="furniture">家具</string>
     <string name="crates">クレート</string>
     <string name="wearables">ウェアラブル</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="mob_helms">カブト族駐屯地</string>
+    <string name="mob_elrics">エルリック寺院</string>
+    <string name="mob_pollyforest">ポリのキノコたち</string>
+    <string name="mob_sausans">ソサン</string>
+    <string name="mob_fadus">パデュス族</string>
+    <string name="mob_pirates">海賊</string>
+    <string name="mob_bashims">バシム</string>
+    <string name="mob_desertnagas">砂漠ナーガ</string>
+    <string name="mob_desertfogans">砂漠フォガン</string>
+    <string name="mob_cadry">カドリー</string>
+    <string name="mob_gahazbandits">ガハーズ盗賊団</string>
+    <string name="mob_crescents">三日月神殿</string>
+    <string name="mob_basilisks">バジリスク</string>
+    <string name="mob_taptharplain">ケンタウロス</string>
+    <string name="mob_navarnsteppe">草原</string>
+    <string name="mob_sulfurmines">硫黄鉱山</string>
+    <string name="mob_pilaku">フィラ・ク監獄</string>
+    <string name="mob_manshaum">マンシャウム</string>
+    <string name="mob_forestronaros">森の番人ロナロス</string>
+    <string name="mob_aakmanhystria">アクマン/ヒストリア</string>
+    <string name="mob_mirumokruins">ミルの木遺跡</string>
+    <string name="mob_gyfinrhasia">ガイピンラーシア</string>
+    <string name="exp_rate">経験率：</string>
+    <string name="difficulty">難易度：</string>
+    <string name="mob_density">密度</string>
 </resources>
 

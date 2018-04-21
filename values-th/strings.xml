@@ -90,6 +90,7 @@
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">ความต้องการเลเวล: %1$s</string>
+    <string name="workshoplevel_required">ต้องมี Workshop เลเวล: %1$s</string>
     <string name="beginner">มือใหม่</string>
     <string name="apprentice">ฝึกฝน</string>
     <string name="skilled">คล่องแคล่ว</string>
@@ -136,7 +137,7 @@
     <string name="enhancement_accessory">เครื่องประดับ</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>เลเวล:</b> %2$s\n%3$s ล้านซิลเวอร์/ชั่วโมง</string>
+    <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>เลเวล:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
     <string name="horse_description">ความเร็ว/การเร่งความเร็ว: %1$s%%\nเลี้ยว/เบรก: %2$s%%</string>
@@ -179,36 +180,40 @@
     <string name="rate_dialog_cancel">ภายหลัง</string>
     <string name="rate_dialog_no">ไม่ ,ขอบคุณ</string>
 
-    <!-- !! MONSTER NAMES -->
-    <string name="mob_pirates">Pirates</string>
-    <string name="mob_bashims">Bashims</string>
-    <string name="mob_sausans">โซซัน</string>
-    <string name="mob_desertfogans">Desert Fogans</string>
-    <string name="mob_cadry">คาดรี</string>
-    <string name="mob_pilaku">คุกฟิลลาคูห์</string>
-    <string name="mob_desertnagas">Desert Nagas</string>
-    <string name="mob_gahazbandits">ซ่องกลุ่มโจรกาฮาซ</string>
-    <string name="mob_shultz_sausans">Shultz Sausans</string>
-    <string name="mob_crescents">วิหารพระจันทร์เสี้ยว</string>
-    <string name="mob_hasrah">หน้าผาฮาสรา</string>
-    <string name="mob_basilisks">ซ่องโจรบาซิลิสก์</string>
-    <string name="mob_sulfurmines">เหมืองแร่กำมะถันลูด</string>
-    <string name="mob_elrics">วิหารแอลริค</string>
-    <string name="mob_helms">ถิ่นฐานชนเผ่าเฮล์ม</string>
-    <string name="mob_manesrogues">ถ้ำชนเผ่าเมนน์/พเนจร</string>
-    <string name="mob_soldiersgrave">สุสานทหาร</string>
-    <string name="mob_catfish">เมกีแมน</string>
-    <string name="mob_saunils">Saunils</string>
-
     <string name="enhancement_info">ไม่ทราบอัตราที่แน่นอนให้ใช้เป็นข้อมูลอ้างอิง!</string>
     <string name="failstack_result">โอกาสปัจจุบัน: %1$s%%\nแต่ละสแต็คจะเพิ่มโอกาสเป็น: %2$s%%\nสแต็คสูงสุด: %3$s (%4$s%% โอกาส)</string>
     <string name="enhancement_lifeclothing">เสื้อผ้าเพื่อชีวิต</string>
     <string name="vote_success">โหวตแล้ว</string>
     <string name="desired_level">ระดับที่ต้องการ</string>
     <string name="current_stacks">สแต็คปัจจุบัน</string>
-
-    <!-- LATEST UPDATE -->
     <string name="furniture">เฟอร์นิเจอร์</string>
     <string name="crates">ลัง</string>
     <string name="wearables">เครื่องป้องกัน</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="mob_elrics">วิหารแอลริค</string>
+    <string name="mob_helms">ถิ่นฐานชนเผ่าเฮล์ม</string>
+    <string name="mob_pollyforest">เห็ดโพลี่</string>
+    <string name="mob_sausans">โซซัน</string>
+    <string name="mob_fadus">เผ่าพาดิวส์</string>
+    <string name="mob_pirates">Pirates</string>
+    <string name="mob_bashims">เขตปีศาจไฮบริด</string>
+    <string name="mob_desertnagas">Desert Nagas</string>
+    <string name="mob_desertfogans">Desert Fogans</string>
+    <string name="mob_cadry">คาดรี</string>
+    <string name="mob_gahazbandits">ซ่องกลุ่มโจรกาฮาซ</string>
+    <string name="mob_crescents">วิหารพระจันทร์เสี้ยว</string>
+    <string name="mob_basilisks">ซ่องโจรบาซิลิสก์</string>
+    <string name="mob_taptharplain">เซนทอรอส</string>
+    <string name="mob_navarnsteppe">ทุ่งหญ้า</string>
+    <string name="mob_sulfurmines">เหมืองแร่กำมะถันลูด</string>
+    <string name="mob_pilaku">คุกฟิลลาคูห์</string>
+    <string name="mob_manshaum">มานชาวม์</string>
+    <string name="mob_forestronaros">ผู้พิทักษ์ป่าโลนารอส</string>
+    <string name="mob_aakmanhystria">อาร์คมาน/ซากหักปลักพังฮิสเตรีย</string>
+    <string name="mob_mirumokruins">ซากปรักหักพังมีลม็อก</string>
+    <string name="mob_gyfinrhasia">ไกฟินลาห์เซีย</string>
+    <string name="exp_rate">อัตรา EXP:</string>
+    <string name="difficulty">ความยาก:</string>
+    <string name="mob_density">ความหนาแน่น:</string>
 </resources>

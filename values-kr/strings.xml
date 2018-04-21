@@ -90,6 +90,7 @@
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">필수 레벨: %1$s</string>
+    <string name="workshoplevel_required">필요한 워크샵 수준: %1$s</string>
     <string name="beginner">초급 Lv.</string>
     <string name="apprentice">견습 Lv.</string>
     <string name="skilled">숙련 Lv.</string>
@@ -136,7 +137,7 @@
     <string name="enhancement_accessory">종범</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>레벨:</b> %2$s\n%3$s 백만 실버/시간</string>
+    <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>레벨:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
     <string name="horse_description">속도/가속도: %1$s%%\n회전/제동: %2$s%%</string>
@@ -179,37 +180,41 @@
     <string name="rate_dialog_cancel">나중에하는</string>
     <string name="rate_dialog_no">아니, 괜찮아요</string>
 
-    <!-- !! MONSTER NAMES -->
-    <string name="mob_pirates">해적</string>
-    <string name="mob_bashims">바심</string>
-    <string name="mob_sausans">소산족</string>
-    <string name="mob_desertfogans">사막 포건</string>
-    <string name="mob_cadry">카드리</string>
-    <string name="mob_pilaku">필라 쿠 감옥</string>
-    <string name="mob_desertnagas">사막 나가</string>
-    <string name="mob_gahazbandits">가하즈 도적단</string>
-    <string name="mob_shultz_sausans">슐츠 </string>
-    <string name="mob_crescents">초승달 신전</string>
-    <string name="mob_hasrah">하스라 절벽</string>
-    <string name="mob_basilisks">바실리스크</string>
-    <string name="mob_sulfurmines">루드 유황 광산</string>
-    <string name="mob_elrics">엘릭 사원</string>
-    <string name="mob_helms">투구족 주둔지</string>
-    <string name="mob_manesrogues">갈기족/방랑도적단</string>
-    <string name="mob_soldiersgrave">병사의 무덤</string>
-    <string name="mob_catfish">메기맨</string>
-    <string name="mob_saunils">사우닐</string>
-
     <string name="enhancement_info">참고로 사용하십시오!</string>
     <string name="failstack_result">현재 기회: %1$s%%\n각 스태킹 는 다음과 같이 기회를 증가시킵니다: %2$s%%\n최대 스태킹: %3$s (%4$s%% 기회)</string>
     <string name="enhancement_lifeclothing">생활 의류</string>
     <string name="vote_success">투표가 제출되었습니다</string>
     <string name="desired_level">원하는 수준</string>
     <string name="current_stacks">현재 스택</string>
-
-    <!-- LATEST UPDATE -->
     <string name="furniture">가구</string>
     <string name="crates">상자</string>
     <string name="wearables">웨어러블</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="mob_helms">투구족 주둔지</string>
+    <string name="mob_elrics">엘릭 사원</string>
+    <string name="mob_pollyforest">폴리의 버섯들</string>
+    <string name="mob_sausans">소산족</string>
+    <string name="mob_fadus">파두스 일족</string>
+    <string name="mob_pirates">해적</string>
+    <string name="mob_bashims">바심</string>
+    <string name="mob_desertnagas">사막 나가</string>
+    <string name="mob_desertfogans">사막 포건</string>
+    <string name="mob_cadry">카드리</string>
+    <string name="mob_gahazbandits">가하즈 도적단</string>
+    <string name="mob_crescents">초승달 신전</string>
+    <string name="mob_basilisks">바실리스크</string>
+    <string name="mob_taptharplain">켄타우로스</string>
+    <string name="mob_navarnsteppe">초원</string>
+    <string name="mob_sulfurmines">루드 유황 광산</string>
+    <string name="mob_pilaku">필라 쿠 감옥</string>
+    <string name="mob_manshaum">만샤움</string>
+    <string name="mob_forestronaros">숲의 파수꾼 로나로스</string>
+    <string name="mob_aakmanhystria">아크만/히스트리아 폐허</string>
+    <string name="mob_mirumokruins">미루목 유적지</string>
+    <string name="mob_gyfinrhasia">가이핀라시아</string>
+    <string name="exp_rate">경험률:</string>
+    <string name="difficulty">어려움:</string>
+    <string name="mob_density">밀도:</string>
 </resources>
 

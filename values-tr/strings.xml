@@ -37,7 +37,7 @@
     <string name="title_rate_app">App\'ı Oyla</string>
 
     <!-- !! INTROS -->
-    <string name="intro_market">BDO\'daki taban vergi %%35\'tir. Değer Paketleri, vergi iade değerinin %%30\'unu ekler.</string>
+    <string name="intro_market">BDO\'daki taban vergi \%35\'tir. Değer Paketleri, vergi iade değerinin \%30\'unu ekler.</string>
     <string name="intro_grinding"><b>EXP puanlaması</b> (en yüksekten en düşüğe) ile sıralanmış yerler. Gümüş çıktı AP/DP ye bağlı.</string>
     <string name="intro_bosstimer">Aralıkları görüntülemek için <b>burayı</b> tıklayın.</string>
     <string name="intro_bosstimer_offline"><b>çevrimdışı modda</b>. Değişiklikler sunucu ile senkronize edilmemiştir.</string>
@@ -90,6 +90,7 @@
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">Beceri seviyesi: %1$s</string>
+    <string name="workshoplevel_required">Gerekli atölye seviyesi: %1$s</string>
     <string name="beginner">Acemi</string>
     <string name="apprentice">Çırak</string>
     <string name="skilled">Becerikli</string>
@@ -136,7 +137,7 @@
     <string name="enhancement_accessory">Aksesuar</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description"><b>AP/DP:</b> %1$s <b>Seviyesi:</b> %2$s\n%3$s milyon gümüş/saat</string>
+    <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Seviyesi:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
     <string name="horse_description">Hız/Hızlanma: %%%1$s\nDönme/Ani Durma: %%%2$s</string>
@@ -179,37 +180,41 @@
     <string name="rate_dialog_cancel">Belki daha sonra</string>
     <string name="rate_dialog_no">Hayır</string>
 
-    <!-- !! MONSTER NAMES -->
-    <string name="mob_pirates">Pirates</string>
-    <string name="mob_bashims">Bashims</string>
-    <string name="mob_sausans">Sausanları</string>
-    <string name="mob_desertfogans">Çöl Doğan</string>
-    <string name="mob_cadry">Çağrı</string>
-    <string name="mob_pilaku">Pila Ku Hapishanesi</string>
-    <string name="mob_desertnagas">Çöl Nagaları </string>
-    <string name="mob_gahazbandits">Gahaz Eşkıya </string>
-    <string name="mob_shultz_sausans">Shultz Sausans</string>
-    <string name="mob_crescents">Hilal Dağları</string>
-    <string name="mob_hasrah">Hasrah Kayalığı</string>
-    <string name="mob_basilisks">Şahmeran İni</string>
-    <string name="mob_sulfurmines">Roud Sülfür Madeni</string>
-    <string name="mob_elrics">Elric Tapınağı</string>
-    <string name="mob_helms">Hilekarlar Karakolu</string>
-    <string name="mob_manesrogues">Yeleli Sığınağı/Aylak Serseriler</string>
-    <string name="mob_soldiersgrave">Askerin Mezarı</string>
-    <string name="mob_catfish">Karabalıkçı</string>
-    <string name="mob_saunils">Saunils</string>
-
     <string name="enhancement_info">Tam oranlar bilinmiyor - referans olarak kullanın!</string>
     <string name="failstack_result">Şu anki şans: %1$s%%\nHer yığının şansı artar:: %2$s%%\nMaksimum yığınlar: %3$s (%4$s%% şans)</string>
     <string name="enhancement_lifeclothing">Yaşam Giysileri</string>
     <string name="vote_success">Oy gönderildi</string>
     <string name="desired_level">Arzu edilen seviye</string>
     <string name="current_stacks">Mevcut yığınlar</string>
-
-    <!-- LATEST UPDATE -->
     <string name="furniture">Mobilya</string>
     <string name="crates">Sandıklar</string>
     <string name="wearables">Giyilebilir</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="mob_helms">Hilekarlar Karakolu</string>
+    <string name="mob_elrics">Elric Tapınağı</string>
+    <string name="mob_pollyforest">Polly’nin Mantarı</string>
+    <string name="mob_sausans">Sausanları</string>
+    <string name="mob_fadus">Fadus Türü</string>
+    <string name="mob_pirates">Pirates</string>
+    <string name="mob_bashims">Bashims</string>
+    <string name="mob_desertnagas">Çöl Nagaları</string>
+    <string name="mob_desertfogans">Çöl Doğan</string>
+    <string name="mob_cadry">Çağrı</string>
+    <string name="mob_gahazbandits">Gahaz Eşkıya</string>
+    <string name="mob_crescents">Hilal Dağları</string>
+    <string name="mob_basilisks">Şahmeran İni</string>
+    <string name="mob_taptharplain">Sentor</string>
+    <string name="mob_navarnsteppe">Bozkır</string>
+    <string name="mob_sulfurmines">Roud Sülfür Madeni</string>
+    <string name="mob_pilaku">Pila Ku Hapishanesi</string>
+    <string name="mob_manshaum">Manşaum</string>
+    <string name="mob_forestronaros">Ronaros Ormanı Nöbetçisi</string>
+    <string name="mob_aakmanhystria">Aakman/Hystria Harabeleri</string>
+    <string name="mob_mirumokruins">Mirumok Ruins</string>
+    <string name="mob_gyfinrhasia">Gyfin Rhasia</string>
+    <string name="exp_rate">EXP oranı:</string>
+    <string name="difficulty">Zorluk:</string>
+    <string name="mob_density">Yoğunluk:</string>
 </resources>
 
