@@ -29,8 +29,8 @@
     <string name="title_failstack_calculator">Calculadora de Failstacks</string>
     <string name="title_horse_calculator">Criar caballos</string>
     <string name="title_market_calculator">Beneficio del mercado</string>
-    <string name="title_failstack_chart">Failstacks</string>
-    <string name="title_grinding_chart">Campos de batalla</string>
+    <string name="title_failstack_chart">Tabla de Failstacks</string>
+    <string name="title_grinding_chart">Zonas de grindeo</string>
     <string name="title_horse_chart">Lista de caballos</string>
     <string name="title_about">Información</string>
     <string name="title_share">Compartir</string>
@@ -39,7 +39,7 @@
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">El impuesto base es del 35%. El Macuto con útiles devuelve el 30% del valor.</string>
     <string name="intro_grinding">Ordenado por <b>tasas de EXP</b> (de mayor a menor). El beneficio depende en gran medida de tu AP/DP y tu velocidad despejando.</string>
-    <string name="intro_bosstimer">Haga clic en <b>aquí</b> para ver los intervalos.</string>
+    <string name="intro_bosstimer">Haga clic <b>aquí</b> para ver los intervalos de aparición.</string>
     <string name="intro_bosstimer_offline">Estás en <b>modo fuera de línea</b>. Los cambios no se sincronizarán con el servidor.</string>
     <string name="intro_horselist">Cada caballo tiene números rojos, negros y blancos. Las combinaciones de colores podrían usarse para calcular posibles descendientes.</string>
 
@@ -108,8 +108,8 @@
     <string name="bookmark_title_empty">Lista vacía</string>
     <string name="bookmark_empty">La lista de marcadores está vacía.</string>
     <string name="can_substitute">Puedes utilizar cualquier elemento de la siguiente lista de elementos:\n\n</string>
-    <string name="crafting_byquantity">Modo: cantidad</string>
-    <string name="crafting_byingredient">Modo: cand. de ingrediente</string>
+    <string name="crafting_byquantity">Modo: por cantidad</string>
+    <string name="crafting_byingredient">Modo: por ingrediente</string>
 
     <!-- !! HORSE CALCULATOR -->
     <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Multiplicador seleccionado: %1$d</string>
