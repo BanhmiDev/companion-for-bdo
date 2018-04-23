@@ -14,17 +14,17 @@
 
     <!-- !! TITLES -->
     <string name="title_header_timers">Temporizadores</string>
-    <string name="title_header_crafting">Produção</string>
+    <string name="title_header_crafting">Producción</string>
     <string name="title_header_calculators">Calculadoras</string>
     <string name="title_header_charts">Listas</string>
-    <string name="title_header_misc">Diversos</string>
+    <string name="title_header_misc">Otros</string>
     <string name="title_main_timer">En el juego</string>
     <string name="title_boss_timer">Jefes</string>
     <string name="title_cooking_inspection">Inspección</string>
     <string name="title_cooking_db">Cocina</string>
     <string name="title_alchemy_db">Alquimia</string>
     <string name="title_workshop_db">Taller</string>
-    <string name="title_processing_db">Tratamiento</string>
+    <string name="title_processing_db">Elaboración</string>
     <string name="title_materialgroup">Grupos de materiales</string>
     <string name="title_failstack_calculator">Calculadora de Failstacks</string>
     <string name="title_horse_calculator">Criar caballos</string>
@@ -34,23 +34,23 @@
     <string name="title_horse_chart">Lista de caballos</string>
     <string name="title_about">Información</string>
     <string name="title_share">Compartir</string>
-    <string name="title_rate_app">Calificar aplicacion</string>
+    <string name="title_rate_app">Calificar aplicación</string>
 
     <!-- !! INTROS -->
-    <string name="intro_market" formatted="false">Hay un 35% de impuesto base. Paquete de Valor agrega el 30% del valor de devolución gravado.</string>
-    <string name="intro_grinding">Ordenado por <b>tasas de EXP</b> (de mayor a menor). El beneficio depende en gran medida de AP/DP y velocidad clara.</string>
+    <string name="intro_market" formatted="false">El impuesto base es del 35%. El Macuto con útiles devuelve el 30% del valor.</string>
+    <string name="intro_grinding">Ordenado por <b>tasas de EXP</b> (de mayor a menor). El beneficio depende en gran medida de tu AP/DP y tu velocidad despejando.</string>
     <string name="intro_bosstimer">Haga clic en <b>aquí</b> para ver los intervalos.</string>
     <string name="intro_bosstimer_offline">Estás en <b>modo fuera de línea</b>. Los cambios no se sincronizarán con el servidor.</string>
     <string name="intro_horselist">Cada caballo tiene números rojos, negros y blancos. Las combinaciones de colores podrían usarse para calcular posibles descendientes.</string>
 
     <!-- !! GENERAL -->
     <string name="calculate">Calcular</string>
-    <string name="enabled">habilitado</string>
-    <string name="disabled">discapacitado</string>
+    <string name="enabled">activado</string>
+    <string name="disabled">desactivado</string>
     <string name="upgrade_to_pro">Quitar anuncios</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancelar</string>
-    <string name="cooldown_push">Por favor intente de nuevo en 1 hora.</string>
+    <string name="cooldown_push">Por favor inténtalo de nuevo en 1 hora.</string>
     <string name="loading">Cargando&#8230;</string>
     <string name="search">Buscar&#8230;</string>
     <string name="intervals">Intervalos</string>
@@ -76,16 +76,16 @@
     <string name="bosstimer_spawnable"><b>¡Jefe en intervalo!</b></string>
     <string name="bosstimer_server_maintenance">El mantenimiento del servidor</string>
     <string name="bosstimer_region">Selección actual: %s</string>
-    <string name="bosstimer_remaining">Restante:: %s</string>
+    <string name="bosstimer_remaining">Restante: %s</string>
     <!-- BOSS NAMES -->
     <string name="karanda">Karanda</string>
-    <string name="dimtreespirit">Dim Tree Spirit</string>
+    <string name="dimtreespirit">Espíritu Arbóreo Sombrío</string>
     <string name="kzarka">Kzarka</string>
     <string name="nouver">Nouver</string>
     <string name="kutum">Kutum</string>
-    <string name="bheg">Bheg Tramposo</string>
-    <string name="mudster">Mudster Enorme</string>
-    <string name="rednose">Nariz Roja</string>
+    <string name="bheg">Bheg</string>
+    <string name="mudster">Cienutrio gigante</string>
+    <string name="rednose">Granariz</string>
 
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
@@ -107,30 +107,30 @@
     <string name="show_all">Mostrar todo</string>
     <string name="bookmark_title_empty">Lista vacía</string>
     <string name="bookmark_empty">La lista de marcadores está vacía.</string>
-    <string name="can_substitute">Puede utilizar cualquier elemento de la siguiente lista de elementos:\n\n</string>
+    <string name="can_substitute">Puedes utilizar cualquier elemento de la siguiente lista de elementos:\n\n</string>
     <string name="crafting_byquantity">Modo: cantidad</string>
     <string name="crafting_byingredient">Modo: cand. de ingrediente</string>
 
     <!-- !! HORSE CALCULATOR -->
     <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Multiplicador seleccionado: %1$d</string>
     <string name="female_horse"><b>Hembra</b></string>
-    <string name="male_horse"><b>Masculino</b></string>
+    <string name="male_horse"><b>Macho</b></string>
     <string name="tier">Grado</string>
     <string name="level">Nivel</string>
     <string name="death">Muertes</string>
-    <string name="horse_result">Masculino T%1$d (nvl: %2$d, muertes: %3$d)\nHembra T%4$d (nvl: %5$d, muertes: %6$d)\n\n%7$s</string>
+    <string name="horse_result">Macho T%1$d (nvl: %2$d, muertes: %3$d)\nHembra T%4$d (nvl: %5$d, muertes: %6$d)\n\n%7$s</string>
     <string name="horse_hint_deaths">Muertes (opcional)</string>
 
     <!-- !! MARKET CALCULATOR -->
-    <string name="value_pack"><b>Paquete de Valor</b></string>
-    <string name="value_pack_is_activated">Paquete de Valor está activado</string>
+    <string name="value_pack"><b>Macuto con útiles</b></string>
+    <string name="value_pack_is_activated">Macuto con útiles está activo</string>
     <string name="market_sell_price">Precio de venta</string>
     <string name="market_sell_amount">Cantidad</string>
-    <string name="market_result"><b>Paquete de Valor:</b> %1$s\n<b>Lucro:</b> %2$s</string>
+    <string name="market_result"><b>Macuto con útiles:</b> %1$s\n<b>Ganancias:</b> %2$s</string>
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">Probabilidad de base</string>
-    <string name="enhance_optimal_stacks">Optimal Stacks</string>
+    <string name="enhance_optimal_stacks">Failstacks óptimos</string>
     <string name="enhance_success_chance">Probabilidad de éxito</string>
     <string name="enhancement_weapon">Arma</string>
     <string name="enhancement_armor">Armadura</string>
@@ -140,11 +140,11 @@
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Nivel:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
-    <string name="horse_description">Velocidad/Aceleración: %1$s%%\nVuelta/Freno: %2$s%%</string>
+    <string name="horse_description">Velocidad/Aceleración: %1$s%%\nGirar/Frenar: %2$s%%</string>
 
     <!-- !! ERRORS -->
     <string name="error_generic">Error, intenta volver a cargar la página.</string>
-    <string name="error_bosstimer_nodata">No hay datos guardados disponibles\nActualice los datos usted mismo.</string>
+    <string name="error_bosstimer_nodata">No hay datos guardados disponibles\nActualiza los datos.</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
@@ -156,11 +156,11 @@
     <string name="pref_24hour">Mostrar hora en formato de 24 horas</string>
     <!-- BOSSTIMER -->
     <string name="pref_title_region">Región</string>
-    <string name="pref_title_screen_awake">Mantenga la pantalla activa</string>
-    <string name="pref_screen_awake">Mantenga la pantalla despierta en los temporizadores</string>
+    <string name="pref_title_screen_awake">Mantener la pantalla activa</string>
+    <string name="pref_screen_awake">Mantener la pantalla despierta en los temporizadores</string>
     <string name="pref_title_bosspriority">Ordenar jefes</string>
-    <string name="pref_bosspriority">Los jefes se ordenan por prioridad</string>
-    <string name="pref_title_bossnotification">Notificación de spawn</string>
+    <string name="pref_bosspriority">Los jefes que han aparecido se muestran primero</string>
+    <string name="pref_title_bossnotification">Notificación de aparición</string>
     <string name="pref_bossnotification">Habilitar notificaciones permanentes para jefes (BETA)</string>
     <string name="pref_title_bossfetchtime">Tiempo de sincronización del jefe en minutos</string>
     <string name="bosstimer_5min">5 minutos</string>
@@ -180,9 +180,9 @@
     <string name="rate_dialog_cancel">Recuérdamelo más tarde</string>
     <string name="rate_dialog_no">¡No, gracias!</string>
 
-    <string name="enhancement_info">No se conocen las tasas exactas. Úselo como referencia.</string>
+    <string name="enhancement_info">No se conocen las probabilidades exactas. Usar como referencia.</string>
     <string name="failstack_result">Oportunidad actual: %1$s%%\nCada FS aumenta la posibilidad: %2$s%%\nMáx. FS: %3$s (%4$s%% oportunidad)</string>
-    <string name="enhancement_lifeclothing">Ropa de vida</string>
+    <string name="enhancement_lifeclothing">Ropa funcional</string>
     <string name="vote_success">Voto enviado</string>
     <string name="desired_level">Nivel deseado</string>
     <string name="current_stacks">Actual FS</string>
@@ -191,22 +191,22 @@
     <string name="wearables">Usable</string>
 
     <!-- LATEST UPDATE -->
-    <string name="mob_helms">Puesto Militar de los Yelmos</string>
-    <string name="mob_elrics">Templo de Elric</string>
+    <string name="mob_helms">Puesto de los Helm</string>
+    <string name="mob_elrics">Santuario de Elric</string>
     <string name="mob_pollyforest">Setas de Polly</string>
-    <string name="mob_sausans">Sausans</string>
+    <string name="mob_sausans">Sausan</string>
     <string name="mob_fadus">Fadus Garrison</string>
     <string name="mob_pirates">Piratas</string>
     <string name="mob_bashims">Bashims</string>
     <string name="mob_desertnagas">Nagas del desierto</string>
     <string name="mob_desertfogans">Fogans del desierto</string>
     <string name="mob_cadry">Cadry</string>
-    <string name="mob_gahazbandits">Bandidos Gahaz</string>
-    <string name="mob_crescents">Luna Creciente</string>
-    <string name="mob_basilisks">Guarida de Basiliscos</string>
-    <string name="mob_taptharplain">Centaur</string>
-    <string name="mob_navarnsteppe">Estapa</string>
-    <string name="mob_sulfurmines">Mina de Azufre de Roud</string>
+    <string name="mob_gahazbandits">Bandidos de Gahaz</string>
+    <string name="mob_crescents">Media luna</string>
+    <string name="mob_basilisks">Guarida de basiliscos</string>
+    <string name="mob_taptharplain">Manada de centauros</string>
+    <string name="mob_navarnsteppe">Estepa de Navarn</string>
+    <string name="mob_sulfurmines">Mina de azufre de Roud</string>
     <string name="mob_pilaku">Cárcel de Pila Ku</string>
     <string name="mob_manshaum">Manshaum</string>
     <string name="mob_forestronaros">Ronaros</string>
