@@ -21,16 +21,16 @@
     <string name="title_main_timer">Horloges en jeu</string>
     <string name="title_boss_timer">Horaires des boss</string>
     <string name="title_cooking_inspection">Détails</string>
-    <string name="title_cooking_db">Base de données de cuisine</string>
-    <string name="title_alchemy_db">Base de données d\'alchimie</string>
-    <string name="title_workshop_db">Base de données d\'atelier</string>
-    <string name="title_processing_db">Base de données de transformations</string>
+    <string name="title_cooking_db">BDD : Recettes de cuisine</string>
+    <string name="title_alchemy_db">BDD : Alchimie</string>
+    <string name="title_workshop_db">BDD : Atelier</string>
+    <string name="title_processing_db">BDD : Transformations</string>
     <string name="title_materialgroup">Groupes de matériaux</string>
     <string name="title_failstack_calculator">Calculateur de fail stacks</string>
     <string name="title_horse_calculator">Calculateur d\'élevage</string>
     <string name="title_market_calculator">Calculateur de Marché</string>
     <string name="title_failstack_chart">Tableau des fail stacks</string>
-    <string name="title_grinding_chart">Tableau de farm</string>
+    <string name="title_grinding_chart">Zones de farm</string>
     <string name="title_horse_chart">Tableau d\'élevage</string>
     <string name="title_about">À propos</string>
     <string name="title_share">Partager</string>
@@ -56,10 +56,10 @@
     <string name="intervals">Intervales</string>
     <string name="today">Aujourd\'hui</string>
     <string name="yesterday">Hier</string>
-    <string name="sort_by_name_asc">Trier par nom: ascendant</string>
-    <string name="sort_by_name_desc">Trier par nom: descendant</string>
-    <string name="sort_by_level_asc">Trier par niveau: ascendant</string>
-    <string name="sort_by_level_desc">Trier par niveau: descendant</string>
+    <string name="sort_by_name_asc">Trier par nom : ascendant</string>
+    <string name="sort_by_name_desc">Trier par nom : descendant</string>
+    <string name="sort_by_level_asc">Trier par niveau : ascendant</string>
+    <string name="sort_by_level_desc">Trier par niveau : descendant</string>
 
     <!-- !! INGAME TIMERS -->
     <string name="ingame_title">Heure du jeu</string>
@@ -72,11 +72,11 @@
     <string name="resetBSA">Adventure de l\'Esprit Occulte</string>
 
     <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">Dernier: %1$s\nSuivant: %2$s ~ %3$s</string>
+    <string name="bosstimer_data">Dernier : %1$s\nSuivant : %2$s ~ %3$s</string>
     <string name="bosstimer_spawnable"><b>La fenêtre d\'apparition du boss a débuté !</b></string>
     <string name="bosstimer_server_maintenance">Maintenance serveur</string>
-    <string name="bosstimer_region">Région séléctionnée: %s</string>
-    <string name="bosstimer_remaining">Restant: %s</string>
+    <string name="bosstimer_region">Région séléctionnée : %s</string>
+    <string name="bosstimer_remaining">Restant : %s</string>
     <!-- BOSS NAMES -->
     <string name="karanda">Karanda</string>
     <string name="dimtreespirit">Esprit des arbres d'Hebetate</string>
@@ -89,8 +89,8 @@
 
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
-    <string name="level_required">Niveau requis: %1$s</string>
-    <string name="workshoplevel_required">Niveau d\'atelier requis: %1$s</string>
+    <string name="level_required">Niveau requis : %1$s</string>
+    <string name="workshoplevel_required">Niveau d\'atelier requis : %1$s</string>
     <string name="beginner">Néophyte</string>
     <string name="apprentice">Apprenti</string>
     <string name="skilled">Qualifié</string>
@@ -99,26 +99,26 @@
     <string name="master">Maître</string>
     <string name="guru">Gourou</string>
     <!-- CRAFTING BUTTONS -->
-    <string name="can_substitute">Remplaçable par les matériaux suivants:\n\n</string>
+    <string name="can_substitute">Remplaçable par les matériaux suivants :\n\n</string>
     <string name="crafting_material">Matériau de production</string>
     <string name="crafting_results">Résultats</string>
     <string name="crafting_calculator">Calculateur de production</string>
-    <string name="crafted_amount">Quantité:</string>
+    <string name="crafted_amount">Quantité :</string>
     <string name="recipes">Recettes</string>
     <string name="show_all">Tout afficher</string>
     <string name="bookmark_title_empty">Aucun favori !</string>
     <string name="bookmark_empty">Vous n\'avez aucun favori.</string>
-    <string name="crafting_byquantity">Mode: par quantité</string>
-    <string name="crafting_byingredient">Mode: par ingrédient</string>
+    <string name="crafting_byquantity">Mode : par quantité</string>
+    <string name="crafting_byingredient">Mode : par ingrédient</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Chaque région a un différent multiplicateur d\'entrainement de chevaux: SEA/MENA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Multiplicateur sélectionné: %1$d</string>
+    <string name="horse_breeding_multiplier">Chaque région a un différent multiplicateur d\'entrainement de chevaux : SEA/MENA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Multiplicateur sélectionné : %1$d</string>
     <string name="female_horse"><b>Jument (femelle)</b></string>
     <string name="male_horse"><b>Cheval (mâle)</b></string>
     <string name="tier">Tier</string>
     <string name="level">Niveau</string>
     <string name="death">Morts</string>
-    <string name="horse_result">Mâle T%1$d (niv: %2$d, morts: %3$d)\nJument T%4$d (niv: %5$d, morts: %6$d)\n\n%7$s</string>
+    <string name="horse_result">Mâle T%1$d (niv : %2$d, morts : %3$d)\nJument T%4$d (niv : %5$d, morts : %6$d)\n\n%7$s</string>
     <string name="horse_hint_deaths">Morts (optionnel)</string>
 
     <!-- !! MARKET CALCULATOR -->
@@ -126,7 +126,7 @@
     <string name="value_pack_is_activated">Pack de Valeur activé</string>
     <string name="market_sell_price">Prix de vente sur le Marché</string>
     <string name="market_sell_amount">Quantité en vente sur le Marché</string>
-    <string name="market_result"><b>Pack de Valeur:</b> %1$s\n<b>Profit:</b> %2$s</string>
+    <string name="market_result"><b>Pack de Valeur :</b> %1$s\n<b>Profit :</b> %2$s</string>
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">Chance de base</string>
@@ -137,10 +137,10 @@
     <string name="enhancement_accessory">Accessoire</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="grinding_description">&lt;b>PA:&lt;/b> %1$d &lt;b>PD:&lt;/b> %2$d &lt;b>Niveau:&lt;/b> %3$d</string>
+    <string name="grinding_description">&lt;b>PA :&lt;/b> %1$d &lt;b>PD :&lt;/b> %2$d &lt;b>Niveau :&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
-    <string name="horse_description">Vitesse/Accelération: %1$s%%\nRotation/Frein: %2$s%%</string>
+    <string name="horse_description">Vitesse/Accelération : %1$s%%\nRotation/Frein : %2$s%%</string>
 
     <!-- !! ERRORS -->
     <string name="error_generic">Erreur, veuillez essayer de recharger la page.</string>
@@ -149,7 +149,7 @@
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
     <string name="pref_title_language">Langue</string>
-    <string name="pref_language">Langue selectionnée: %s</string>
+    <string name="pref_language">Langue selectionnée : %s</string>
     <string name="pref_title_timezone">Fuseau horaire</string>
     <string name="system_timezone">Fuseau horaire système</string>
     <string name="pref_title_24hour">Format 24h</string>
@@ -181,7 +181,7 @@
     <string name="rate_dialog_no">Non merci</string>
 
     <string name="enhancement_info">Taux exacts inconnus, à utiliser comme référence !</string>
-    <string name="failstack_result">Chance actuelle: %1$s%%\nChaque fail stack augmente la chance de: %2$s%%\nFail stack max: %3$s (%4$s%% de chance)</string>
+    <string name="failstack_result">Chance actuelle : %1$s%%\nChaque fail stack augmente la chance de : %2$s%%\nFail stack max : %3$s (%4$s%% de chance)</string>
     <string name="enhancement_lifeclothing">Vêtements de vie</string>
     <string name="vote_success">Vote soumis</string>
     <string name="desired_level">Niveau désiré</string>
@@ -213,7 +213,7 @@
     <string name="mob_aakmanhystria">Aakman/Hystria</string>
     <string name="mob_mirumokruins">Ruines Mirumoks</string>
     <string name="mob_gyfinrhasia">Gyfin Rhasia</string>
-    <string name="exp_rate">Taux d\'EXP:</string>
-    <string name="difficulty">Difficulté:</string>
-    <string name="mob_density">Densité:</string>
+    <string name="exp_rate">Taux d\'EXP :</string>
+    <string name="difficulty">Difficulté :</string>
+    <string name="mob_density">Densité :</string>
 </resources>
