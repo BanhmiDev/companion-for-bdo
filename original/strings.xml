@@ -118,7 +118,7 @@
     <string name="tier">Tier</string>
     <string name="level">Level</string>
     <string name="death">Deaths</string>
-    <string name="horse_result">Male T%1$d (lvl: %2$d, deaths: %3$d)\nFemale T%4$d (lvl: %5$d, deaths: %6$d)\n\n%7$s</string>
+    <string name="horse_result">Male T%1$d (lvl: %2$d)\nFemale T%3$d (lvl: %4$d)\n\n%5$s</string>
     <string name="horse_hint_deaths">Deaths (optional)</string>
 
     <!-- !! MARKET CALCULATOR -->

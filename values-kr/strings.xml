@@ -118,7 +118,7 @@
     <string name="tier">티어</string>
     <string name="level">레벨</string>
     <string name="death">죽음</string>
-    <string name="horse_result">남성 T%1$d (레벨: %2$d, 죽음: %3$d)\n여자 T%4$d (레벨: %5$d, 죽음: %6$d)\n\n%7$s</string>
+    <string name="horse_result">남성 T%1$d (레벨: %2$d)\n여자 T%3$d (레벨: %4$d)\n\n%5$s</string>
     <string name="horse_hint_deaths">죽음 (선택 과목)</string>
 
     <!-- !! MARKET CALCULATOR -->

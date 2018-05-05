@@ -118,7 +118,7 @@
     <string name="tier">Pанг</string>
     <string name="level">Уровень</string>
     <string name="death">смертей</string>
-    <string name="horse_result">Мужской T%1$d (lvl: %2$d, смертей: %3$d)\nЖенский T%4$d (lvl: %5$d, смертей: %6$d)\n\n%7$s</string>
+    <string name="horse_result">Мужской T%1$d (lvl: %2$d)\nЖенский T%3$d (lvl: %4$d)\n\n%5$s</string>
     <string name="horse_hint_deaths">смертей (необязательный)</string>
 
     <!-- !! MARKET CALCULATOR -->

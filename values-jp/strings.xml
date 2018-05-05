@@ -118,7 +118,7 @@
     <string name="tier">ティア</string>
     <string name="level">レベル</string>
     <string name="death">死亡額</string>
-    <string name="horse_result">男性 ティア%1$d (レベル: %2$d, 死亡額: %3$d)\n女性 ティア%4$d (レベル: %5$d, 死亡額: %6$d)\n\n%7$s</string>
+    <string name="horse_result">男性 ティア%1$d (レベル: %2$d)\n女性 ティア%3$d (レベル: %4$d)\n\n%5$s</string>
     <string name="horse_hint_deaths">死亡額 (オプショナル)</string>
 
     <!-- !! MARKET CALCULATOR -->

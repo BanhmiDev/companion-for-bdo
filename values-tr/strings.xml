@@ -118,7 +118,7 @@
     <string name="tier">Aşama</string>
     <string name="level">Seviyesi</string>
     <string name="death">Ölümler</string>
-    <string name="horse_result">Erkek A%1$d (seviyesi: %2$d, ölümler: %3$d)\nKadın A%4$d (seviyesi: %5$d, ölümler: %6$d)\n\n%7$s</string>
+    <string name="horse_result">Erkek A%1$d (seviyesi: %2$d)\nKadın A%3$d (seviyesi: %4$d)\n\n%5$s</string>
     <string name="horse_hint_deaths">Ölümler (İsteğe bağlı)</string>
 
     <!-- !! MARKET CALCULATOR -->
