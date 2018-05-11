@@ -190,7 +190,6 @@
     <string name="crates">クレート</string>
     <string name="wearables">ウェアラブル</string>
 
-    <!-- LATEST UPDATE -->
     <string name="mob_helms">カブト族駐屯地</string>
     <string name="mob_elrics">エルリック寺院</string>
     <string name="mob_pollyforest">ポリのキノコたち</string>
@@ -216,5 +215,10 @@
     <string name="exp_rate">経験率：</string>
     <string name="difficulty">難易度：</string>
     <string name="mob_density">密度</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_nightmode">ナイト・モード</string>
+    <string name="pref_nightmode">ダークモードを有効にする</string>
+    <string name="title_news_feed">News Feed</string>
 </resources>
 

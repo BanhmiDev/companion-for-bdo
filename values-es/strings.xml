@@ -190,7 +190,6 @@
     <string name="crates">Cajones</string>
     <string name="wearables">Usable</string>
 
-    <!-- LATEST UPDATE -->
     <string name="mob_helms">Puesto de los Helm</string>
     <string name="mob_elrics">Santuario de Elric</string>
     <string name="mob_pollyforest">Setas de Polly</string>
@@ -216,5 +215,10 @@
     <string name="exp_rate">Tasa de EXP:</string>
     <string name="difficulty">Dificultad:</string>
     <string name="mob_density">Densidad:</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_nightmode">Modo nocturno</string>
+    <string name="pref_nightmode">Habilita el tema oscuro</string>
+    <string name="title_news_feed">News Feed</string>
 </resources>
 

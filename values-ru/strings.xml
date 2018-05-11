@@ -190,7 +190,6 @@
     <string name="crates">Коллекция</string>
     <string name="wearables">Броня</string>
 
-    <!-- LATEST UPDATE -->
     <string name="mob_helms">Тугу</string>
     <string name="mob_elrics">Эллики</string>
     <string name="mob_pollyforest">Грибы Полли</string>
@@ -216,6 +215,11 @@
     <string name="exp_rate">EXP:</string>
     <string name="difficulty">Трудность:</string>
     <string name="mob_density">Плотность:</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_nightmode">Ночной режим</string>
+    <string name="pref_nightmode">Включить темную тему</string>
+    <string name="title_news_feed">News Feed</string>
 </resources>
 
 

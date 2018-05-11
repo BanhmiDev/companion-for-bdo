@@ -216,4 +216,9 @@
     <string name="exp_rate">อัตรา EXP:</string>
     <string name="difficulty">ความยาก:</string>
     <string name="mob_density">ความหนาแน่น:</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_nightmode">โหมดกลางคืน</string>
+    <string name="pref_nightmode">เปิดใช้โหมดมืด</string>
+    <string name="title_news_feed">News Feed</string>
 </resources>

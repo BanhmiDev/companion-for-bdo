@@ -190,7 +190,6 @@
     <string name="crates">Caixas</string>
     <string name="wearables">Armadura</string>
 
-    <!-- LATEST UPDATE -->
     <string name="mob_helms">Acampamento dos Elmos</string>
     <string name="mob_elrics">Santuário Elric</string>
     <string name="mob_pollyforest">Cogumelos de Poli</string>
@@ -216,5 +215,10 @@
     <string name="exp_rate">Taxa de EXP:</string>
     <string name="difficulty">Dificuldade:</string>
     <string name="mob_density">Densidade:</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_nightmode">Modo noturno</string>
+    <string name="pref_nightmode">Ativar tema escuro</string>
+    <string name="title_news_feed">News Feed</string>
 </resources>
 

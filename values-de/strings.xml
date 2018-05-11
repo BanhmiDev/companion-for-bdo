@@ -190,7 +190,6 @@
     <string name="crates">Kisten</string>
     <string name="wearables">Anziehsachen</string>
 
-    <!-- LATEST UPDATE -->
     <string name="mob_helms">Helms</string>
     <string name="mob_elrics">Elrics</string>
     <string name="mob_pollyforest">Polly\'s Pilz</string>
@@ -216,5 +215,10 @@
     <string name="exp_rate">EXP Rate:</string>
     <string name="difficulty">Schwierigkeit:</string>
     <string name="mob_density">Monsterdichte:</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_nightmode">Nacht Modus</string>
+    <string name="pref_nightmode">Aktiviert das dunkle Design</string>
+    <string name="title_news_feed">News Feed</string>
 </resources>
 

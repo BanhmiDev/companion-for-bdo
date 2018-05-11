@@ -190,7 +190,6 @@
     <string name="crates">상자</string>
     <string name="wearables">웨어러블</string>
 
-    <!-- LATEST UPDATE -->
     <string name="mob_helms">투구족 주둔지</string>
     <string name="mob_elrics">엘릭 사원</string>
     <string name="mob_pollyforest">폴리의 버섯들</string>
@@ -216,5 +215,10 @@
     <string name="exp_rate">경험률:</string>
     <string name="difficulty">어려움:</string>
     <string name="mob_density">밀도:</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_nightmode">야간 모드</string>
+    <string name="pref_nightmode">어두운 모드 사용</string>
+    <string name="title_news_feed">News Feed</string>
 </resources>
 
