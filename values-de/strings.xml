@@ -219,6 +219,7 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_nightmode">Nacht Modus</string>
     <string name="pref_nightmode">Aktiviert das dunkle Design</string>
-    <string name="title_news_feed">News Feed</string>
+    <string name="title_news_feed">BDO Neuigkeiten</string>
+    <string name="title_map">Karte</string>
 </resources>
 

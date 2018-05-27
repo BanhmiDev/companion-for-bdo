@@ -219,6 +219,7 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_nightmode">Gece modu</string>
     <string name="pref_nightmode">Karanlık modu etkinleştir</string>
-    <string name="title_news_feed">News Feed</string>
+    <string name="title_news_feed">BDO Yeni</string>
+    <string name="title_map">Harita</string>
 </resources>
 

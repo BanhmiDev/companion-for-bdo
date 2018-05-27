@@ -219,5 +219,6 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_nightmode">Mode nuit</string>
     <string name="pref_nightmode">Activer le thème sombre</string>
-    <string name="title_news_feed">News Feed</string>
+    <string name="title_news_feed">BDO News</string>
+    <string name="title_map">Carte</string>
 </resources>

@@ -219,6 +219,7 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_nightmode">ナイト・モード</string>
     <string name="pref_nightmode">ダークモードを有効にする</string>
-    <string name="title_news_feed">News Feed</string>
+    <string name="title_news_feed">黒い砂漠のニュース</string>
+    <string name="title_map">地図</string>
 </resources>
 
