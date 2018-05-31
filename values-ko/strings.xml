@@ -221,5 +221,5 @@
     <string name="pref_nightmode">어두운 모드 사용</string>
     <string name="title_news_feed">사막 뉴스</string>
     <string name="title_map">지도</string>
+    <string name="tap_for_description">설명 표시</string>
 </resources>
-

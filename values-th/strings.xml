@@ -222,4 +222,5 @@
     <string name="pref_nightmode">เปิดใช้โหมดมืด</string>
     <string name="title_news_feed">ข่าว BDO</string>
     <string name="title_map">แผนที่</string>
+    <string name="tap_for_description">แสดงคำอธิบาย</string>
 </resources>

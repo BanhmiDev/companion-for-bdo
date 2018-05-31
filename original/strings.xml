@@ -221,5 +221,6 @@
     <string name="pref_nightmode">Enables dark theme</string>
     <string name="title_news_feed">BDO News</string>
     <string name="title_map">Map</string>
+    <string name="tap_for_description">View description</string>
 </resources>
 

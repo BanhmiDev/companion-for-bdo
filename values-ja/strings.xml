@@ -221,5 +221,5 @@
     <string name="pref_nightmode">ダークモードを有効にする</string>
     <string name="title_news_feed">黒い砂漠のニュース</string>
     <string name="title_map">地図</string>
+    <string name="tap_for_description">説明を表示</string>
 </resources>
-

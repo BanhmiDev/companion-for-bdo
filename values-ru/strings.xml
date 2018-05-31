@@ -221,6 +221,6 @@
     <string name="pref_nightmode">Включить темную тему</string>
     <string name="title_news_feed">Новости BDO</string>
     <string name="title_map">Карта</string>
+    <string name="tap_for_description">Показать описание</string>
 </resources>
-
 

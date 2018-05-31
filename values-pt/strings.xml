@@ -219,8 +219,7 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_nightmode">Modo noturno</string>
     <string name="pref_nightmode">Ativar tema escuro</string>
-    <string name="title_news_feed">News Feed</string>
     <string name="title_news_feed">Notícias BDO</string>
     <string name="title_map">Mapa</string>
+    <string name="tap_for_description">Mostrar descrição</string>
 </resources>
-
