@@ -221,5 +221,11 @@
     <string name="pref_nightmode">Ativar tema escuro</string>
     <string name="title_news_feed">Notícias BDO</string>
     <string name="title_map">Mapa</string>
-    <string name="tap_for_description">Mostrar descrição</string>
+    <string name="description">Descrição</string>
+    
+    <string name="offin">Offin</string>
+    <string anme="quint">Quint</string>
+    <string name="muraka">Muraka</string>
+    <string name="vell">Vell</string>
 </resources>
+

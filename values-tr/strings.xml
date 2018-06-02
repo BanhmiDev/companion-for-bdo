@@ -221,6 +221,11 @@
     <string name="pref_nightmode">Karanlık modu etkinleştir</string>
     <string name="title_news_feed">BDO Yeni</string>
     <string name="title_map">Harita</string>
-    <string name="tap_for_description">Açıklamayı göster</string>
+    <string name="description">Açıklama</string>
+    
+    <string name="offin">Offin</string>
+    <string anme="quint">Quint</string>
+    <string name="muraka">Muraka</string>
+    <string name="vell">Vell</string>
 </resources>
 

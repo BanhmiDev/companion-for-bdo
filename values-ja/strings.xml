@@ -102,7 +102,7 @@
     <string name="crafting_material">材料</string>
     <string name="crafting_results">製作の結果</string>
     <string name="crafting_calculator">カルキュレーター</string>
-    <string name="crafted_amount">量:</string>
+    <string name="crafted_amount">製作数量：</string>
     <string name="recipes">レシピ</string>
     <string name="show_all">すべて表示する</string>
     <string name="bookmark_title_empty">ブックマークリスト</string>
@@ -221,5 +221,11 @@
     <string name="pref_nightmode">ダークモードを有効にする</string>
     <string name="title_news_feed">黒い砂漠のニュース</string>
     <string name="title_map">地図</string>
-    <string name="tap_for_description">説明を表示</string>
+    <string name="description">説明</string>
+    
+    <string name="offin">Offin</string>
+    <string anme="quint">Quint</string>
+    <string name="muraka">Muraka</string>
+    <string name="vell">Vell</string>
 </resources>
+

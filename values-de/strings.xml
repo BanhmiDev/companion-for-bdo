@@ -219,7 +219,13 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_nightmode">Nacht Modus</string>
     <string name="pref_nightmode">Aktiviert das dunkle Design</string>
-    <string name="title_news_feed">BDO Neuigkeiten</string>
+    <string name="title_news_feed">BDO News</string>
     <string name="title_map">Karte</string>
+    <string name="description">Beschreibung</string>
+
+    <string name="offin">Offin</string>
+    <string anme="quint">Quint</string>
+    <string name="muraka">Muraka</string>
+    <string name="vell">Vell</string>
 </resources>
 

@@ -190,7 +190,6 @@
     <string name="crates">ลัง</string>
     <string name="wearables">เครื่องป้องกัน</string>
 
-    <!-- LATEST UPDATE -->
     <string name="mob_elrics">วิหารแอลริค</string>
     <string name="mob_helms">ถิ่นฐานชนเผ่าเฮล์ม</string>
     <string name="mob_pollyforest">เห็ดโพลี่</string>
@@ -222,5 +221,11 @@
     <string name="pref_nightmode">เปิดใช้โหมดมืด</string>
     <string name="title_news_feed">ข่าว BDO</string>
     <string name="title_map">แผนที่</string>
-    <string name="tap_for_description">แสดงคำอธิบาย</string>
+    <string name="description">ลักษณะ</string>
+    
+    <string name="offin">Offin</string>
+    <string anme="quint">Quint</string>
+    <string name="muraka">Muraka</string>
+    <string name="vell">Vell</string>
 </resources>
+
