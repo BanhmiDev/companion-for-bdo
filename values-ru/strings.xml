@@ -13,17 +13,17 @@
     <string name="action_settings">Параметры</string>
 
     <!-- !! TITLES -->
-    <string name="title_header_timers">Расписание</string>
+    <string name="title_header_timers">Расписания</string>
     <string name="title_header_crafting">Крафт</string>
     <string name="title_header_calculators">Калькулятор</string>
-    <string name="title_header_charts">Диаграмма</string>
+    <string name="title_header_charts">Таблицы</string>
     <string name="title_header_misc">Разное</string>
-    <string name="title_main_timer">внутриигровое</string>
-    <string name="title_boss_timer">мировых боссов</string>
+    <string name="title_main_timer">Таймеры игры</string>
+    <string name="title_boss_timer">Респ боссов</string>
     <string name="title_cooking_inspection">Oсмотр</string>
     <string name="title_cooking_db">Кулинария</string>
     <string name="title_alchemy_db">Алхимия</string>
-    <string name="title_workshop_db">мастерская</string>
+    <string name="title_workshop_db">Мастерская</string>
     <string name="title_processing_db">Oбработка</string>
     <string name="title_failstack_calculator">Заточка</string>
     <string name="title_materialgroup">Группы материалов</string>
@@ -34,24 +34,24 @@
     <string name="title_horse_chart">Лошади</string>
     <string name="title_about">Инфо</string>
     <string name="title_share">Поделиться</string>
-    <string name="title_rate_app">Оцените приложение</string>
+    <string name="title_rate_app">Оцените приложение, пожалуйста!</string>
 
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">Как работает набор “Комфорт” для аукциона: из суммы, полученной за продажу предмета, по-прежнему снимается 35% налога, однако вместе с тем к ней добавляется 30% от действия набора;</string>
-    <string name="intro_grinding">Местоположение сортируется по <b>рейтингу EXP</b> (от самого высокого до самого низкого). Вывод серебра зависит от AP/DP и скорости очистки.</string>
+    <string name="intro_grinding">Местоположение сортируется по <b>рейтингу EXP</b> (от самого высокого до самого низкого). Вывод серебра зависит от ДМГ/ДЕФ и скорости зачистки.</string>
     <string name="intro_bosstimer">Нажмите <b>здесь</b>, чтобы просмотреть интервалы.</string>
     <string name="intro_bosstimer_offline"><b>Автономный режим</b>. Изменения не будут синхронизированы с сервером.</string>
     <string name="intro_horselist">Для увеличения шансов на получение детеныша с высоким показателем конкретного гена необходимо сводить родителей с высоким показателем этого гена.</string>
 
     <!-- !! GENERAL -->
     <string name="calculate">Вычислить</string>
-    <string name="enabled">активный</string>
+    <string name="enabled">активнен</string>
     <string name="disabled">не активен</string>
     <string name="upgrade_to_pro">Премиум</string>
     <string name="ok">OK</string>
     <string name="cancel">Отмена</string>
     <string name="cooldown_push">Повторите попытку позже.</string>
-    <string name="loading">Loading&#8230;</string>
+    <string name="loading">Загрузка&#8230;</string>
     <string name="search">Поиск&#8230;</string>
     <string name="intervals">Интервалы</string>
     <string name="today">Cегодня</string>
@@ -62,12 +62,12 @@
     <string name="sort_by_level_desc">Сортировать по Уровеню: по убыванию</string>
 
     <!-- !! INGAME TIMERS -->
-    <string name="ingame_title">Внутриигровое расписание</string>
+    <string name="ingame_title">Время в игре</string>
     <string name="reset_title">Сбросить время</string>
     <string name="night">Ночь через</string>
     <string name="day">День через</string>
     <string name="resetDaily">Ежедневки</string>
-    <string name="resetImperial">имперский</string>
+    <string name="resetImperial">Имперская рыбалка</string>
     <string name="resetImperialTrading">Имперская торговля</string>
     <string name="resetBSA">Приключения Черного духа</string>
 
@@ -123,7 +123,7 @@
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>Набор Комфорт</b></string>
-    <string name="value_pack_is_activated">Набор Комфорт</string>
+    <string name="value_pack_is_activated">Набор Комфорт активен</string>
     <string name="market_sell_price">Цена продажи</string>
     <string name="market_sell_amount">Количество</string>
     <string name="market_result"><b>Набор Комфорт:</b> %1$s\n<b>Прибыль:</b> %2$s</string>
@@ -161,15 +161,15 @@
     <string name="pref_title_bosspriority">Сортировка боссов</string>
     <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
     <string name="pref_title_bossnotification">Уведомления о боссе</string>
-    <string name="pref_bossnotification">Включить уведомление о боссе (BETA)</string>
-    <string name="pref_title_bossfetchtime">Скорость обнавления босс-таймера</string>
+    <string name="pref_bossnotification">Включить уведомления о боссах (BETA)</string>
+    <string name="pref_title_bossfetchtime">Скорость обновления босс-таймера</string>
     <string name="bosstimer_5min">5 минут</string>
     <string name="bosstimer_15min">15 минут</string>
     <string name="bosstimer_30min">30 минут</string>
     <string name="bosstimer_60min">60 минут</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
-    <string name="pref_twitter">Следуйте за мной в Twitter для получения обновлений</string>
+    <string name="pref_twitter">Следуйте за мной в Twitter для получения новостей</string>
     <string name="pref_translate">Предложить перевод</string>
     <string name="pref_title_translate">Помощь с переводом</string>
 
