@@ -114,6 +114,7 @@
     <string name="enhancement_accessory">附件</string>
 
     <!-- !! GRINDING CHART -->
+    <string name="intro_grinding">建议遵循主要故事。</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Lv:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
@@ -151,6 +152,7 @@
     <string name="rate_dialog_ok">现在评分</string>
     <string name="rate_dialog_cancel">稍后</string>
     <string name="rate_dialog_no">不，谢谢</string>
+
     <string name="enhancement_info">确切的费率是未知的 - 将其用作参考！</string>
     <string name="failstack_result">当前机会：%1$s%%\n每个FS都会增加以下机率：%2$s%%最大失败堆栈：%3$s（%4$s%% 机会）</string>
     <string name="enhancement_lifeclothing">生活服装</string>
@@ -189,7 +191,7 @@
     <string name="description">描述</string>
 
     <!-- !! BOSSTIMER -->
-    <string name="intro_bosstimer">点击闹钟以分别设置通知。\n在设置中更改地区/时区。 </string>
+    <string name="intro_bosstimer">点击闹钟以分别设置通知。\n在设置中更改地区/时区。</string>
     <string name="bosstimer_notification_title">老大即将产卵！</string>
     <string name="bosstimer_notification_text">产卵提醒：%1$s在%2$s</string>
     <string name="bosstimer_next_spawn">下一个产卵：</string>
@@ -204,10 +206,9 @@
     <string name="mudster">Giant Mudster</string>
     <string name="rednose">Red Nose</string>
     <string name="offin">Offin</string>
-    <string name="quint">Quint</string>
-    <string name="muraka">Muraka</string>
-    <string name="vell">Vell</string>
+    <string name="quint">肯恩特</string>
+    <string name="muraka">木拉卡</string>
+    <string name="vell">鐘</string>
 
-    <!-- DO NOT TRANSLATE FOR THIS LANGUAGE -->
     <string name="error_bosstimer_nodata">地区没有数据！\n\n请将此区域的产卵时间提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
 </resources>

@@ -13,6 +13,8 @@
     <string name="action_settings">Configuraciones</string>
 
     <!-- !! TITLES -->
+    <string name="title_news_feed">BDO Noticias</string>
+    <string name="title_map">Mapa</string>
     <string name="title_header_timers">Temporizadores</string>
     <string name="title_header_crafting">Producción</string>
     <string name="title_header_calculators">Calculadoras</string>
@@ -39,8 +41,6 @@
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">El impuesto base es del 35%. El Macuto con útiles devuelve el 30% del valor.</string>
     <string name="intro_grinding">Ordenado por <b>tasas de EXP</b> (de mayor a menor). El beneficio depende en gran medida de tu AP/DP y tu velocidad despejando.</string>
-    <string name="intro_bosstimer">Haga clic <b>aquí</b> para ver los intervalos de aparición.</string>
-    <string name="intro_bosstimer_offline">Estás en <b>modo fuera de línea</b>. Los cambios no se sincronizarán con el servidor.</string>
     <string name="intro_horselist">Cada caballo tiene números rojos, negros y blancos. Las combinaciones de colores podrían usarse para calcular posibles descendientes.</string>
 
     <!-- !! GENERAL -->
@@ -50,12 +50,8 @@
     <string name="upgrade_to_pro">Quitar anuncios</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancelar</string>
-    <string name="cooldown_push">Por favor inténtalo de nuevo en 1 hora.</string>
     <string name="loading">Cargando&#8230;</string>
     <string name="search">Buscar&#8230;</string>
-    <string name="intervals">Intervalos</string>
-    <string name="today">Hoy</string>
-    <string name="yesterday">Ayer</string>
     <string name="sort_by_name_asc">Ordenar por nombre: ascendente</string>
     <string name="sort_by_name_desc">Ordenar por nombre: descendente</string>
     <string name="sort_by_level_asc">Ordenar por nivel: ascendente</string>
@@ -71,22 +67,6 @@
     <string name="resetImperialTrading">Comercio imperial</string>
     <string name="resetBSA">Black Spirit Adventure</string>
 
-    <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">Último: %1$s\nPróximo: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>¡Jefe en intervalo!</b></string>
-    <string name="bosstimer_server_maintenance">El mantenimiento del servidor</string>
-    <string name="bosstimer_region">Selección actual: %s</string>
-    <string name="bosstimer_remaining">Restante: %s</string>
-    <!-- BOSS NAMES -->
-    <string name="karanda">Karanda</string>
-    <string name="dimtreespirit">Espíritu Arbóreo Sombrío</string>
-    <string name="kzarka">Kzarka</string>
-    <string name="nouver">Nouver</string>
-    <string name="kutum">Kutum</string>
-    <string name="bheg">Bheg</string>
-    <string name="mudster">Cienutrio gigante</string>
-    <string name="rednose">Granariz</string>
-
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">Nivel requerido: %1$s</string>
@@ -101,7 +81,6 @@
     <!-- CRAFTING BUTTONS -->
     <string name="crafting_material">Material</string>
     <string name="crafting_results">Resultados</string>
-    <string name="crafting_calculator">Calculadora</string>
     <string name="crafted_amount">Cantidad:</string>
     <string name="recipes">Recetas</string>
     <string name="show_all">Mostrar todo</string>
@@ -119,7 +98,6 @@
     <string name="level">Nivel</string>
     <string name="death">Muertes</string>
     <string name="horse_result">Macho T%1$d (nvl: %2$d)\nHembra T%3$d (nvl: %4$d)\n\n%5$s</string>
-    <string name="horse_hint_deaths">Muertes (opcional)</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>Macuto con útiles</b></string>
@@ -144,10 +122,11 @@
 
     <!-- !! ERRORS -->
     <string name="error_generic">Error, intenta volver a cargar la página.</string>
-    <string name="error_bosstimer_nodata">No hay datos guardados disponibles\nActualiza los datos.</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
+    <string name="pref_title_nightmode">Modo nocturno</string>
+    <string name="pref_nightmode">Habilita el tema oscuro</string>
     <string name="pref_title_language">Idioma</string>
     <string name="pref_language">Actualmente establecido en: %s</string>
     <string name="pref_title_timezone">Zona horaria</string>
@@ -161,12 +140,6 @@
     <string name="pref_title_bosspriority">Ordenar jefes</string>
     <string name="pref_bosspriority">Los jefes que han aparecido se muestran primero</string>
     <string name="pref_title_bossnotification">Notificación de aparición</string>
-    <string name="pref_bossnotification">Habilitar notificaciones permanentes para jefes (BETA)</string>
-    <string name="pref_title_bossfetchtime">Tiempo de sincronización del jefe en minutos</string>
-    <string name="bosstimer_5min">5 minutos</string>
-    <string name="bosstimer_15min">15 minutos</string>
-    <string name="bosstimer_30min">30 minutos</string>
-    <string name="bosstimer_60min">60 minutos</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">Sígueme en Twitter para actualizaciones de proyectos</string>
@@ -215,17 +188,27 @@
     <string name="exp_rate">Tasa de EXP:</string>
     <string name="difficulty">Dificultad:</string>
     <string name="mob_density">Densidad:</string>
-
-    <!-- LATEST UPDATE -->
-    <string name="pref_title_nightmode">Modo nocturno</string>
-    <string name="pref_nightmode">Habilita el tema oscuro</string>
-    <string name="title_news_feed">BDO Noticias</string>
-    <string name="title_map">Mapa</string>
     <string name="description">Descripción</string>
 
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">Toque el reloj para configurar las notificaciones individuales.\nCambie la región/zona horaria en la configuración.</string>
+    <string name="bosstimer_notification_title">¡Jefe en intervalo!</string>
+    <string name="bosstimer_notification_text">%1$s a %2$s</string>
+    <string name="bosstimer_next_spawn">Siguiente aparición:</string>
+    <string name="bosstimer_region">Selección actual: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">Karanda</string>
+    <string name="dimtreespirit">Espíritu Arbóreo Sombrío</string>
+    <string name="kzarka">Kzarka</string>
+    <string name="nouver">Nouver</string>
+    <string name="kutum">Kutum</string>
+    <string name="bheg">Bheg</string>
+    <string name="mudster">Cienutrio gigante</string>
+    <string name="rednose">Granariz</string>
     <string name="offin">Offin</string>
-    <string anme="quint">Quint</string>
+    <string name="quint">Quint</string>
     <string name="muraka">Muraka</string>
     <string name="vell">Vell</string>
-</resources>
 
+    <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+</resources>

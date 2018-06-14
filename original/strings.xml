@@ -13,6 +13,8 @@
     <string name="action_settings">Settings</string>
 
     <!-- !! TITLES -->
+    <string name="title_news_feed">BDO News</string>
+    <string name="title_map">Map</string>
     <string name="title_header_timers">Timers</string>
     <string name="title_header_crafting">Crafting</string>
     <string name="title_header_calculators">Calculators</string>
@@ -38,9 +40,6 @@
 
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">The base tax in BDO is 35%. Value Packs add 30% of the taxed return value.</string>
-    <string name="intro_grinding">Grinding spots are sorted by <b>EXP rating</b> (highest to lowest). The silver output heavily depends on your AP/DP and clear speed.</string>
-    <string name="intro_bosstimer">Click <b>here</b> to view boss spawn intervals.</string>
-    <string name="intro_bosstimer_offline">You are in <b>offline-mode</b>. Changes won\'t be synchronized with the server.</string>
     <string name="intro_horselist">Each horse has red, black and white color points. The color combinations could be used to calculate the possible offspring.</string>
 
     <!-- !! GENERAL -->
@@ -50,12 +49,8 @@
     <string name="upgrade_to_pro">Remove Ads</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
-    <string name="cooldown_push">You already submitted, try again in 1 hour.</string>
     <string name="loading">Loading&#8230;</string>
     <string name="search">Search&#8230;</string>
-    <string name="intervals">Intervals</string>
-    <string name="today">Today</string>
-    <string name="yesterday">Yesterday</string>
     <string name="sort_by_name_asc">Sort by name: ascending</string>
     <string name="sort_by_name_desc">Sort by name: descending</string>
     <string name="sort_by_level_asc">Sort by level: ascending</string>
@@ -70,22 +65,6 @@
     <string name="resetImperial">Imperial</string>
     <string name="resetImperialTrading">Imperial Trading</string>
     <string name="resetBSA">Black Spirit Adventure</string>
-
-    <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">Last: %1$s\nNext: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>Boss is in spawn window!</b></string>
-    <string name="bosstimer_server_maintenance">Server Maintenance</string>
-    <string name="bosstimer_region">Current region: %s</string>
-    <string name="bosstimer_remaining">Remaining: %s</string>
-    <!-- BOSS NAMES -->
-    <string name="karanda">Karanda</string>
-    <string name="dimtreespirit">Dim Tree Spirit</string>
-    <string name="kzarka">Kzarka</string>
-    <string name="nouver">Nouver</string>
-    <string name="kutum">Kutum</string>
-    <string name="bheg">Dastard Bheg</string>
-    <string name="mudster">Giant Mudster</string>
-    <string name="rednose">Red Nose</string>
 
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
@@ -102,7 +81,6 @@
     <string name="can_substitute">You can substitute with the following materials:\n\n</string>
     <string name="crafting_material">Crafting Material</string>
     <string name="crafting_results">Crafting Results</string>
-    <string name="crafting_calculator">Crafting Calculator</string>
     <string name="crafted_amount">Quantity:</string>
     <string name="recipes">Recipes</string>
     <string name="show_all">Show All</string>
@@ -119,7 +97,6 @@
     <string name="level">Level</string>
     <string name="death">Deaths</string>
     <string name="horse_result">Male T%1$d (lvl: %2$d)\nFemale T%3$d (lvl: %4$d)\n\n%5$s</string>
-    <string name="horse_hint_deaths">Deaths (optional)</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>Value Pack</b></string>
@@ -137,6 +114,7 @@
     <string name="enhancement_accessory">Accessory</string>
 
     <!-- !! GRINDING CHART -->
+    <string name="intro_grinding">It is recommended to follow the Main Story Questline.</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Level:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
@@ -144,29 +122,24 @@
 
     <!-- !! ERRORS -->
     <string name="error_generic">Error, try to reload the page.</string>
-    <string name="error_bosstimer_nodata">No saved data available\nRefresh last spawn yourself.</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
+    <string name="pref_title_nightmode">Night Mode</string>
+    <string name="pref_nightmode">Enables dark theme</string>
     <string name="pref_title_language">Language</string>
     <string name="pref_language">Currently set to: %s</string>
     <string name="pref_title_timezone">Timezone</string>
     <string name="system_timezone">System Timezone</string>
     <string name="pref_title_24hour">24-Hour Format</string>
     <string name="pref_24hour">Display time in 24-hour format</string>
-    <!-- BOSSTIMER -->
     <string name="pref_title_region">Region</string>
     <string name="pref_screen_awake">Keep the screen awake for ingame and boss timers</string>
     <string name="pref_title_screen_awake">Keep the screen awake</string>
     <string name="pref_title_bosspriority">Spawnable Boss Priority</string>
-    <string name="pref_bosspriority">Bosses in spawn windows are shown first</string>
-    <string name="pref_title_bossnotification">Spawn Window Notification</string>
-    <string name="pref_bossnotification">Enable permanent notification for spawnable bosses (BETA)</string>
-    <string name="pref_title_bossfetchtime">Boss synchronization time in minutes</string>
-    <string name="bosstimer_5min">5 Minutes</string>
-    <string name="bosstimer_15min">15 Minutes</string>
-    <string name="bosstimer_30min">30 Minutes</string>
-    <string name="bosstimer_60min">60 Minutes</string>
+    <string name="pref_bosspriority">Bosses are sorted by their spawn time</string>
+    <string name="pref_title_bossnotification">Spawn Notification</string>
+
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">Follow me on Twitter for project updates</string>
@@ -215,17 +188,27 @@
     <string name="exp_rate">EXP Rate:</string>
     <string name="difficulty">Difficulty:</string>
     <string name="mob_density">Mob density:</string>
-
-    <!-- LATEST UPDATE -->
-    <string name="pref_title_nightmode">Night Mode</string>
-    <string name="pref_nightmode">Enables dark theme</string>
-    <string name="title_news_feed">BDO News</string>
-    <string name="title_map">Map</string>
     <string name="description">Description</string>
 
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">Tap on a clock to set notifications individually.\nChange region/timezone in the settings.</string>
+    <string name="bosstimer_notification_title">Boss about to spawn!</string>
+    <string name="bosstimer_notification_text">%1$s at %2$s</string>
+    <string name="bosstimer_next_spawn">Next Spawn:</string>
+    <string name="bosstimer_region">Current region: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">Karanda</string>
+    <string name="dimtreespirit">Dim Tree Spirit</string>
+    <string name="kzarka">Kzarka</string>
+    <string name="nouver">Nouver</string>
+    <string name="kutum">Kutum</string>
+    <string name="bheg">Dastard Bheg</string>
+    <string name="mudster">Giant Mudster</string>
+    <string name="rednose">Red Nose</string>
     <string name="offin">Offin</string>
-    <string anme="quint">Quint</string>
+    <string name="quint">Quint</string>
     <string name="muraka">Muraka</string>
     <string name="vell">Vell</string>
-</resources>
 
+    <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+</resources>

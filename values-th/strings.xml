@@ -13,6 +13,8 @@
     <string name="action_settings">ตั้งค่า</string>
 
     <!-- !! TITLES -->
+    <string name="title_news_feed">ข่าว BDO</string>
+    <string name="title_map">แผนที่</string>
     <string name="title_header_timers">นับเวลา</string>
     <string name="title_header_crafting">ระบบคราฟ</string>
     <string name="title_header_calculators">เครื่องคำนวน</string>
@@ -38,9 +40,6 @@
 
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">อัตราภาษีฐานใน BDO 35% และ เมื่อใช้ห่อสารพัดประโยชน์(VIP) จะเสีย 30%</string>
-    <string name="intro_grinding">จุดบดขยี้จะถูกจัดเรียงตาม <b>ค่าประสบการณ์</b> (สูงสุด ไปต่ำสุด). เงินที่ส่งออกมากขึ้นอยู่กับ AP/DP ของคุณ และความเร็วในการกวาดล้าง</string>
-    <string name="intro_bosstimer">คลิก <b>ที่นี่</b> เพื่อดูช่วงเวลาเกิดของบอส.</string>
-    <string name="intro_bosstimer_offline">คุณอยู่ใน <b>ออฟไลน์โหมด</b>. การเปลี่ยนแปลงไม่ได้รับการซิงโครไนซ์กับเซิร์ฟเวอร์</string>
     <string name="intro_horselist">ม้าแต่ละตัวมีจุดสีแดง,ขาว และดำ การผสมสีสามารถนำไปคำนวณหาลูกได้.</string>
 
     <!-- !! GENERAL -->
@@ -50,12 +49,8 @@
     <string name="upgrade_to_pro">ลบโฆษณา</string>
     <string name="ok">ตกลง</string>
     <string name="cancel">ยกเลิก</string>
-    <string name="cooldown_push">คุณส่งแล้ว จะส่งได้อีกครั้งภายใน 1 ชั่วโมง</string>
     <string name="loading">กำลังโหลด&#8230;</string>
     <string name="search">ค้นหา&#8230;</string>
-    <string name="intervals">ช่วงเวลา</string>
-    <string name="today">วันนี้</string>
-    <string name="yesterday">เมื่อวาน</string>
     <string name="sort_by_name_asc">เรียงตามชื่อ: จากหน้าไปหลัง</string>
     <string name="sort_by_name_desc">เรียงตามชื่อ: จากหลังไปหน้า</string>
     <string name="sort_by_level_asc">เรียงตามเลเวล: จากน้อยไปมาก</string>
@@ -70,22 +65,6 @@
     <string name="resetImperial">อาณาจักร</string>
     <string name="resetImperialTrading">การค้าของอาณาจักร</string>
     <string name="resetBSA">มินิเกม Black Spirit Adventure</string>
-
-    <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">ครั้งที่ผ่านมา: %1$s\nครั้งต่อไป: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>หน้าต่างบอสเกิด !</b></string>
-    <string name="bosstimer_server_maintenance">บำรุงรักษาเซิร์ฟเวอร์</string>
-    <string name="bosstimer_region">ภูมิภาคปัจจุบัน: %s</string>
-    <string name="bosstimer_remaining">ภายใน: %s</string>
-    <!-- BOSS NAMES -->
-    <string name="karanda">คารานด้า</string>
-    <string name="dimtreespirit">ต้นไม้วิญญาณทึ่ม</string>
-    <string name="kzarka">คจาคาร์</string>
-    <string name="nouver">นูเวอร์</string>
-    <string name="kutum">คูทุมโบราณ</string>
-    <string name="bheg">เบกก์จอมขี้ขลาด</string>
-    <string name="mudster">ปีศาจโคลนยักษ์</string>
-    <string name="rednose">จมูกแดง</string>
 
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
@@ -102,7 +81,6 @@
     <string name="can_substitute">คุณสามารถใช้วัสดุดังต่อไปนี้แทนได้:\n\n</string>
     <string name="crafting_material">วัสดุสำหรับคราฟ</string>
     <string name="crafting_results">ผลการคราฟ</string>
-    <string name="crafting_calculator">คำนวนการคราฟ</string>
     <string name="crafted_amount">จำนวน:</string>
     <string name="recipes">สูตรผสม</string>
     <string name="show_all">แสดงทั้งหมด</string>
@@ -119,7 +97,6 @@
     <string name="level">เลเวล</string>
     <string name="death">การตาย</string>
     <string name="horse_result">ตัวผู้ T%1$d (lvl: %2$d)\nตัวเมีย T%3$d (lvl: %4$d)\n\n%5$s</string>
-    <string name="horse_hint_deaths">ตาย (เพิ่มเติม)</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>ห่อสารพัดประโยชน์ (VIP)</b></string>
@@ -137,6 +114,7 @@
     <string name="enhancement_accessory">เครื่องประดับ</string>
 
     <!-- !! GRINDING CHART -->
+    <string name="intro_grinding">จุดบดขยี้จะถูกจัดเรียงตาม <b>ค่าประสบการณ์</b> (สูงสุด ไปต่ำสุด). เงินที่ส่งออกมากขึ้นอยู่กับ AP/DP ของคุณ และความเร็วในการกวาดล้าง</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>เลเวล:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
@@ -144,10 +122,11 @@
 
     <!-- !! ERRORS -->
     <string name="error_generic">เกิดข้อผิดพลาดลองโหลดหน้าใหม่</string>
-    <string name="error_bosstimer_nodata">ไม่มีข้อมูลที่บันทึกไว้\n รีเฟรชการเกิดล่าสุดด้วยตัวคุณเอง</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
+    <string name="pref_title_nightmode">โหมดกลางคืน</string>
+    <string name="pref_nightmode">เปิดใช้โหมดมืด</string>
     <string name="pref_title_language">ภาษา</string>
     <string name="pref_language">ภาษาปัจจุบัน: %s</string>
     <string name="pref_title_timezone">โซนเวลา</string>
@@ -161,12 +140,6 @@
     <string name="pref_title_bosspriority">ลำดับการเกิดของบอส</string>
     <string name="pref_bosspriority">หน้าต่างบอสเกิดจะแสดงก่อน</string>
     <string name="pref_title_bossnotification">หน้าต่างแจ้งเตือนการเกิด</string>
-    <string name="pref_bossnotification">เปิดใช้การแจ้งเตือนแบบถาวรสำหรับการเกิดของบอส (ทดสอบ)</string>
-    <string name="pref_title_bossfetchtime">ความถี่ในการซิงโครไนซ์เวลาของบอส</string>
-    <string name="bosstimer_5min">5 นาที</string>
-    <string name="bosstimer_15min">15 นาที</string>
-    <string name="bosstimer_30min">30 นาที</string>
-    <string name="bosstimer_60min">60 นาที</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">ติดตามฉันทาง Twitter สำหรับการอัปเดตโครงการ</string>
@@ -190,6 +163,7 @@
     <string name="crates">ลัง</string>
     <string name="wearables">เครื่องป้องกัน</string>
 
+    <!-- LATEST UPDATE -->
     <string name="mob_elrics">วิหารแอลริค</string>
     <string name="mob_helms">ถิ่นฐานชนเผ่าเฮล์ม</string>
     <string name="mob_pollyforest">เห็ดโพลี่</string>
@@ -215,17 +189,27 @@
     <string name="exp_rate">อัตรา EXP:</string>
     <string name="difficulty">ความยาก:</string>
     <string name="mob_density">ความหนาแน่น:</string>
-
-    <!-- LATEST UPDATE -->
-    <string name="pref_title_nightmode">โหมดกลางคืน</string>
-    <string name="pref_nightmode">เปิดใช้โหมดมืด</string>
-    <string name="title_news_feed">ข่าว BDO</string>
-    <string name="title_map">แผนที่</string>
     <string name="description">ลักษณะ</string>
-    
+
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">แตะที่การเตือนภัยเพื่อตั้งค่าการแจ้งเตือนทีละรายการ\nเปลี่ยนภูมิภาค/เขตเวลาในการตั้งค่า</string>
+    <string name="bosstimer_notification_title">บอสมาเร็ว ๆ นี้!</string>
+    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_next_spawn">ลักษณะถัดไป:</string>
+    <string name="bosstimer_region">ภูมิภาคปัจจุบัน: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">คารานด้า</string>
+    <string name="dimtreespirit">ต้นไม้วิญญาณทึ่ม</string>
+    <string name="kzarka">คจาคาร์</string>
+    <string name="nouver">นูเวอร์</string>
+    <string name="kutum">คูทุมโบราณ</string>
+    <string name="bheg">เบกก์จอมขี้ขลาด</string>
+    <string name="mudster">ปีศาจโคลนยักษ์</string>
+    <string name="rednose">จมูกแดง</string>
     <string name="offin">Offin</string>
-    <string anme="quint">Quint</string>
+    <string name="quint">Quint</string>
     <string name="muraka">Muraka</string>
     <string name="vell">Vell</string>
-</resources>
 
+    <string name="error_bosstimer_nodata">ต้องการข้อมูลสำหรับภูมิภาคนี้!\n\nโปรดส่งตารางวางไข่ในระดับภูมิภาคไปที่ me@gimu.org\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+</resources>

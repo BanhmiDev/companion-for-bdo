@@ -114,6 +114,7 @@
     <string name="enhancement_accessory">附件</string>
 
     <!-- !! GRINDING CHART -->
+    <string name="intro_grinding">建議遵循主要故事。</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Lv:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
@@ -205,10 +206,9 @@
     <string name="mudster">Giant Mudster</string>
     <string name="rednose">Red Nose</string>
     <string name="offin">Offin</string>
-    <string name="quint">Quint</string>
-    <string name="muraka">Muraka</string>
-    <string name="vell">Vell</string>
+    <string name="quint">肯恩特</string>
+    <string name="muraka">木拉卡</string>
+    <string name="vell">鐘</string>
 
-    <!-- DO NOT TRANSLATE FOR THIS LANGUAGE -->
     <string name="error_bosstimer_nodata">地區沒有數據！\n\n請將此區域的產卵時間提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
 </resources>

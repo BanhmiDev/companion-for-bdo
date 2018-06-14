@@ -8,8 +8,8 @@
     <string name="app_name">Companion for BDO</string>
 
     <!-- !! NAVIGATION -->
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Открыть навигационный ящик</string>
+    <string name="navigation_drawer_close">Закрыть навигационный ящик</string>
     <string name="action_settings">Параметры</string>
 
     <!-- !! TITLES -->
@@ -39,8 +39,6 @@
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">Как работает набор “Комфорт” для аукциона: из суммы, полученной за продажу предмета, по-прежнему снимается 35% налога, однако вместе с тем к ней добавляется 30% от действия набора;</string>
     <string name="intro_grinding">Местоположение сортируется по <b>рейтингу EXP</b> (от самого высокого до самого низкого). Вывод серебра зависит от ДМГ/ДЕФ и скорости зачистки.</string>
-    <string name="intro_bosstimer">Нажмите <b>здесь</b>, чтобы просмотреть интервалы.</string>
-    <string name="intro_bosstimer_offline"><b>Автономный режим</b>. Изменения не будут синхронизированы с сервером.</string>
     <string name="intro_horselist">Для увеличения шансов на получение детеныша с высоким показателем конкретного гена необходимо сводить родителей с высоким показателем этого гена.</string>
 
     <!-- !! GENERAL -->
@@ -50,12 +48,8 @@
     <string name="upgrade_to_pro">Премиум</string>
     <string name="ok">OK</string>
     <string name="cancel">Отмена</string>
-    <string name="cooldown_push">Повторите попытку позже.</string>
     <string name="loading">Загрузка&#8230;</string>
     <string name="search">Поиск&#8230;</string>
-    <string name="intervals">Интервалы</string>
-    <string name="today">Cегодня</string>
-    <string name="yesterday">Вчера</string>
     <string name="sort_by_name_asc">Сортировать по имени: по возрастанию</string>
     <string name="sort_by_name_desc">Сортировать по имени: по убыванию</string>
     <string name="sort_by_level_asc">Сортировать по Уровеню: по возрастанию</string>
@@ -71,22 +65,6 @@
     <string name="resetImperialTrading">Имперская торговля</string>
     <string name="resetBSA">Приключения Черного духа</string>
 
-    <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">Время смерти: %1$s\nреспа: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>идет респ!</b></string>
-    <string name="bosstimer_server_maintenance">Обслуживание</string>
-    <string name="bosstimer_region">Текущий выбор: %s</string>
-    <string name="bosstimer_remaining">Осталось: %s</string>
-    <!-- BOSS NAMES -->
-    <string name="karanda">Каранда</string>
-    <string name="dimtreespirit">Древень</string>
-    <string name="kzarka">Кзарка</string>
-    <string name="nouver">Нубэр</string>
-    <string name="kutum">Кутум</string>
-    <string name="bheg">трусливый бхег</string>
-    <string name="mudster">Грязь</string>
-    <string name="rednose">Красный нос</string>
-
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">Уровень ремесла: %1$s</string>
@@ -101,7 +79,6 @@
     <!-- CRAFTING BUTTONS -->
     <string name="crafting_material">Mатериал</string>
     <string name="crafting_results">Результат</string>
-    <string name="crafting_calculator">Расчёт крафта</string>
     <string name="crafted_amount">Количество:</string>
     <string name="show_all">Показать все</string>
     <string name="recipes">Рецепт</string>
@@ -119,7 +96,6 @@
     <string name="level">Уровень</string>
     <string name="death">смертей</string>
     <string name="horse_result">Мужской T%1$d (lvl: %2$d)\nЖенский T%3$d (lvl: %4$d)\n\n%5$s</string>
-    <string name="horse_hint_deaths">смертей (необязательный)</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>Набор Комфорт</b></string>
@@ -144,7 +120,6 @@
 
     <!-- !! ERRORS -->
     <string name="error_generic">Ошибка, попробуйте перезагрузить страницу.</string>
-    <string name="error_bosstimer_nodata">Нет сохраненных данных\nОбновите страницу.</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
@@ -161,12 +136,6 @@
     <string name="pref_title_bosspriority">Сортировка боссов</string>
     <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
     <string name="pref_title_bossnotification">Уведомления о боссе</string>
-    <string name="pref_bossnotification">Включить уведомления о боссах (BETA)</string>
-    <string name="pref_title_bossfetchtime">Скорость обновления босс-таймера</string>
-    <string name="bosstimer_5min">5 минут</string>
-    <string name="bosstimer_15min">15 минут</string>
-    <string name="bosstimer_30min">30 минут</string>
-    <string name="bosstimer_60min">60 минут</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">Следуйте за мной в Twitter для получения новостей</string>
@@ -222,10 +191,27 @@
     <string name="title_news_feed">Новости BDO</string>
     <string name="title_map">Карта</string>
     <string name="description">Описание</string>
-    
-    <string name="offin">Offin</string>
-    <string anme="quint">Quint</string>
-    <string name="muraka">Muraka</string>
-    <string name="vell">Vell</string>
-</resources>
 
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">Нажмите на часы для индивидуального уведомления.\nИзменить регион/часовой пояс в настройках.</string>
+    <string name="bosstimer_notification_title">идет респ!</string>
+    <string name="bosstimer_notification_text">Порождать: %1$s в %2$s</string>
+    <string name="bosstimer_next_spawn">nреспа:</string>
+    <string name="bosstimer_region">Текущий выбор: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">Каранда</string>
+    <string name="dimtreespirit">Древень</string>
+    <string name="kzarka">Кзарка</string>
+    <string name="nouver">Нубэр</string>
+    <string name="kutum">Кутум</string>
+    <string name="bheg">трусливый бхег</string>
+    <string name="mudster">Грязь</string>
+    <string name="rednose">Красный нос</string>
+    <string name="offin">Офина</string>
+    <string name="quint">Квинт</string>
+    <string name="muraka">Мурака</string>
+    <string name="vell">Велл</string>
+
+    <!-- DO NOT TRANSLATE FOR THIS LANGUAGE -->
+    <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
+</resources>

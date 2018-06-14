@@ -13,6 +13,8 @@
     <string name="action_settings">設定</string>
 
     <!-- !! TITLES -->
+    <string name="title_news_feed">黒い砂漠のニュース</string>
+    <string name="title_map">地図</string>
     <string name="title_header_timers">タイマー</string>
     <string name="title_header_crafting">製作</string>
     <string name="title_header_calculators">カルキュレーター</string>
@@ -39,8 +41,6 @@
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">黒い砂漠の基本税率は35％です。バリューパックは課税された戻り値の30％を追加します。</string>
     <string name="intro_grinding">スポットは<b>戦闘経歴値</b>でソートされます。</string>
-    <string name="intro_bosstimer">スポーン間隔を表示するには、<b>ここ</b>をクリックしてください。</string>
-    <string name="intro_bosstimer_offline"><b>オフラインモード</b>。 変更はサーバーと同期されません。</string>
     <string name="intro_horselist">色は繁殖を計算するために使用されます。</string>
 
     <!-- !! GENERAL -->
@@ -50,12 +50,8 @@
     <string name="upgrade_to_pro">広告を削除</string>
     <string name="ok">OK</string>
     <string name="cancel">キャンセル</string>
-    <string name="cooldown_push">1時間後にもう一度お試しください。</string>
     <string name="loading">読み込み中&#8230;</string>
     <string name="search">探索&#8230;</string>
-    <string name="intervals">インターバル</string>
-    <string name="today">今日</string>
-    <string name="yesterday">昨日</string>
     <string name="sort_by_name_asc">名前で並べ替え：昇順</string>
     <string name="sort_by_name_desc">名前順：降順</string>
     <string name="sort_by_level_asc">レベルで並べ替え：昇順</string>
@@ -71,22 +67,6 @@
     <string name="resetImperialTrading">インペリアル・トレーディング</string>
     <string name="resetBSA">ボードゲーム</string>
 
-    <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">最後: %1$s\n次: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>インターバルで!</b></string>
-    <string name="bosstimer_server_maintenance">サーバのメンテナンス</string>
-    <string name="bosstimer_region">現在の選択：%s</string>
-    <string name="bosstimer_remaining">残り：%s</string>
-    <!-- BOSS NAMES -->
-    <string name="karanda">カランダ</string>
-    <string name="dimtreespirit">愚鈍な木の精霊</string>
-    <string name="kzarka">クザカ</string>
-    <string name="nouver">ヌーベル</string>
-    <string name="kutum">クツム</string>
-    <string name="bheg">臆病なベグ</string>
-    <string name="mudster">巨大マッドマン</string>
-    <string name="rednose">レッドノーズ</string>
-
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">必要レベル: %1$s</string>
@@ -101,7 +81,6 @@
     <!-- CRAFTING BUTTONS -->
     <string name="crafting_material">材料</string>
     <string name="crafting_results">製作の結果</string>
-    <string name="crafting_calculator">カルキュレーター</string>
     <string name="crafted_amount">製作数量：</string>
     <string name="recipes">レシピ</string>
     <string name="show_all">すべて表示する</string>
@@ -119,7 +98,6 @@
     <string name="level">レベル</string>
     <string name="death">死亡額</string>
     <string name="horse_result">男性 ティア%1$d (レベル: %2$d)\n女性 ティア%3$d (レベル: %4$d)\n\n%5$s</string>
-    <string name="horse_hint_deaths">死亡額 (オプショナル)</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>バリューパッケージ</b></string>
@@ -144,10 +122,11 @@
 
     <!-- !! ERRORS -->
     <string name="error_generic">エラー。 ページをリロードしてください。</string>
-    <string name="error_bosstimer_nodata">保存されたデータはありません。</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
+    <string name="pref_title_nightmode">ナイト・モード</string>
+    <string name="pref_nightmode">ダークモードを有効にする</string>
     <string name="pref_title_language">言語</string>
     <string name="pref_language">現在の設定: %s</string>
     <string name="pref_title_timezone">タイムゾーン</string>
@@ -161,12 +140,6 @@
     <string name="pref_title_bosspriority">ボスの優先順位</string>
     <string name="pref_bosspriority">ボスは優先順位でソートされます</string>
     <string name="pref_title_bossnotification">スポーンウィンドウの通知</string>
-    <string name="pref_bossnotification">スポーン可能なボスに対して永久通知を有効にする (BETA)</string>
-    <string name="pref_title_bossfetchtime">ボス同期時間（分）</string>
-    <string name="bosstimer_5min">5分</string>
-    <string name="bosstimer_15min">15分</string>
-    <string name="bosstimer_30min">30分</string>
-    <string name="bosstimer_60min">60分</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">プロジェクトの更新はTwitter上にある</string>
@@ -214,18 +187,28 @@
     <string name="mob_gyfinrhasia">ガイピンラーシア</string>
     <string name="exp_rate">経験率：</string>
     <string name="difficulty">難易度：</string>
-    <string name="mob_density">密度</string>
-
-    <!-- LATEST UPDATE -->
-    <string name="pref_title_nightmode">ナイト・モード</string>
-    <string name="pref_nightmode">ダークモードを有効にする</string>
-    <string name="title_news_feed">黒い砂漠のニュース</string>
-    <string name="title_map">地図</string>
+    <string name="mob_density">密度：</string>
     <string name="description">説明</string>
-    
-    <string name="offin">Offin</string>
-    <string anme="quint">Quint</string>
-    <string name="muraka">Muraka</string>
-    <string name="vell">Vell</string>
-</resources>
 
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">時計をタップして通知を設定します。\n設定の地域/タイムゾーンを変更します。</string>
+    <string name="bosstimer_notification_title">ボスはすぐに現れている！</string>
+    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_next_spawn">次のスポーン：</string>
+    <string name="bosstimer_region">現在の選択：%s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">カランダ</string>
+    <string name="dimtreespirit">愚鈍な木の精霊</string>
+    <string name="kzarka">クザカ</string>
+    <string name="nouver">ヌーベル</string>
+    <string name="kutum">クツム</string>
+    <string name="bheg">臆病なベグ</string>
+    <string name="mudster">巨大マッドマン</string>
+    <string name="rednose">レッドノーズ</string>
+    <string name="offin">オピン</string>
+    <string name="quint">ギュント</string>
+    <string name="muraka">ムラカ</string>
+    <string name="vell">ベル</string>
+
+    <string name="error_bosstimer_nodata">地域にはデータがありません！\n\nこの地域の産卵時間をme@gimu.orgに提出してください。\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+</resources>

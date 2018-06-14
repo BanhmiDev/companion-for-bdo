@@ -13,6 +13,8 @@
     <string name="action_settings">Ayarlar</string>
 
     <!-- !! TITLES -->
+    <string name="title_news_feed">BDO Yeni</string>
+    <string name="title_map">Harita</string>
     <string name="title_header_timers">Zamanlayıcılar</string>
     <string name="title_header_crafting">Üretmek</string>
     <string name="title_header_calculators">Hesap makinesi</string>
@@ -38,9 +40,6 @@
 
     <!-- !! INTROS -->
     <string name="intro_market">BDO\'daki taban vergi \%35\'tir. Değer Paketleri, vergi iade değerinin \%30\'unu ekler.</string>
-    <string name="intro_grinding"><b>EXP puanlaması</b> (en yüksekten en düşüğe) ile sıralanmış yerler. Gümüş çıktı AP/DP ye bağlı.</string>
-    <string name="intro_bosstimer">Aralıkları görüntülemek için <b>burayı</b> tıklayın.</string>
-    <string name="intro_bosstimer_offline"><b>çevrimdışı modda</b>. Değişiklikler sunucu ile senkronize edilmemiştir.</string>
     <string name="intro_horselist">Her atın kırmızı, siyah ve beyaz renk noktaları vardır. Olası yavruları hesaplamak için renk kombinasyonları kullanılabilir.</string>
 
     <!-- !! GENERAL -->
@@ -50,12 +49,8 @@
     <string name="upgrade_to_pro">Rreklamları kaldırmak</string>
     <string name="ok">OK</string>
     <string name="cancel">İptal etmek</string>
-    <string name="cooldown_push">Zaten gönderildi, 1 saat sonra tekrar deneyin.</string>
     <string name="loading">Yükleniyor&#8230;</string>
     <string name="search">Arama&#8230;</string>
-    <string name="intervals">Aralıklar</string>
-    <string name="today">Bugün</string>
-    <string name="yesterday">Dün</string>
     <string name="sort_by_name_asc">İsme göre sırala: artan</string>
     <string name="sort_by_name_desc">İsme göre sırala: azalan</string>
     <string name="sort_by_level_asc">Seviyeye göre sırala: artan</string>
@@ -71,22 +66,6 @@
     <string name="resetImperialTrading">İmparatorluk ticareti</string>
     <string name="resetBSA">Black Spirit Adventure</string>
 
-    <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">Son: %1$s\nSonraki: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>Boss is in spawn window!</b></string>
-    <string name="bosstimer_server_maintenance">Sunucu bakımı</string>
-    <string name="bosstimer_region">Geçerli bölge: %s</string>
-    <string name="bosstimer_remaining">Kalan: %s</string>
-    <!-- BOSS NAMES -->
-    <string name="karanda">Karanda</string>
-    <string name="dimtreespirit">Dim Tree Spirit</string>
-    <string name="kzarka">Kzarka</string>
-    <string name="nouver">Nouver</string>
-    <string name="kutum">Kutum</string>
-    <string name="bheg">Dastard Bheg</string>
-    <string name="mudster">Giant Mudster</string>
-    <string name="rednose">Red Nose</string>
-
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">Beceri seviyesi: %1$s</string>
@@ -101,7 +80,6 @@
     <!-- CRAFTING BUTTONS -->
     <string name="crafting_material">Malzemesi</string>
     <string name="crafting_results">Sonuçlar</string>
-    <string name="crafting_calculator">Hesap Makinesi</string>
     <string name="crafted_amount">Miktar:</string>
     <string name="recipes">Yemek tarifleri</string>
     <string name="show_all">Hepsini Göster</string>
@@ -119,7 +97,6 @@
     <string name="level">Seviyesi</string>
     <string name="death">Ölümler</string>
     <string name="horse_result">Erkek A%1$d (seviyesi: %2$d)\nKadın A%3$d (seviyesi: %4$d)\n\n%5$s</string>
-    <string name="horse_hint_deaths">Ölümler (İsteğe bağlı)</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>Değerli Paket</b></string>
@@ -137,6 +114,7 @@
     <string name="enhancement_accessory">Aksesuar</string>
 
     <!-- !! GRINDING CHART -->
+    <string name="intro_grinding"><b>EXP puanlaması</b> (en yüksekten en düşüğe) ile sıralanmış yerler. Gümüş çıktı AP/DP ye bağlı.</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Seviyesi:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
@@ -144,10 +122,11 @@
 
     <!-- !! ERRORS -->
     <string name="error_generic">Hata, sayfayı yeniden yüklemeyi deneyin.</string>
-    <string name="error_bosstimer_nodata">Kayıtlı veri mevcut değil\nBağlantıyı yenile veya etkinleştir.</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
+    <string name="pref_title_nightmode">Gece modu</string>
+    <string name="pref_nightmode">Karanlık modu etkinleştir</string>
     <string name="pref_title_language">Dil</string>
     <string name="pref_language">Şuanki ayarlar: %s</string>
     <string name="pref_title_timezone">Saat dilimi</string>
@@ -161,12 +140,6 @@
     <string name="pref_title_bosspriority">Boss sıralama</string>
     <string name="pref_bosspriority">Boss yumurtlama sırasına göre sıralanırlar</string>
     <string name="pref_title_bossnotification">Boss bildirimi</string>
-    <string name="pref_bossnotification">Boss için bildirimi etkinleştir (BETA)</string>
-    <string name="pref_title_bossfetchtime">Boss eşitleme süresi dakika olarak</string>
-    <string name="bosstimer_5min">5 dakika</string>
-    <string name="bosstimer_15min">15 dakika</string>
-    <string name="bosstimer_30min">30 dakika</string>
-    <string name="bosstimer_60min">60 dakika</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">Proje güncellemeleri için beni Twitter\'da takip et</string>
@@ -215,17 +188,28 @@
     <string name="exp_rate">EXP oranı:</string>
     <string name="difficulty">Zorluk:</string>
     <string name="mob_density">Yoğunluk:</string>
-
-    <!-- LATEST UPDATE -->
-    <string name="pref_title_nightmode">Gece modu</string>
-    <string name="pref_nightmode">Karanlık modu etkinleştir</string>
-    <string name="title_news_feed">BDO Yeni</string>
-    <string name="title_map">Harita</string>
     <string name="description">Açıklama</string>
-    
+
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">Bildirimleri ayrı ayrı ayarlamak için alarmların üzerine dokunun.\nAyarları bölge/saat dilimi değiştirin.</string>
+    <string name="bosstimer_notification_title">Patron yakında belirecek!</string>
+    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_next_spawn">Sonraki görünüm:</string>
+    <string name="bosstimer_region">Geçerli bölge: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">Karanda</string>
+    <string name="dimtreespirit">Dim Tree Spirit</string>
+    <string name="kzarka">Kzarka</string>
+    <string name="nouver">Nouver</string>
+    <string name="kutum">Kutum</string>
+    <string name="bheg">Dastard Bheg</string>
+    <string name="mudster">Giant Mudster</string>
+    <string name="rednose">Red Nose</string>
     <string name="offin">Offin</string>
-    <string anme="quint">Quint</string>
+    <string name="quint">Quint</string>
     <string name="muraka">Muraka</string>
-    <string name="vell">Vell</string>
+    <string name="vell">Belle</string>
+
+    <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
 </resources>
 

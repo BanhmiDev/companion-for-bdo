@@ -13,6 +13,8 @@
     <string name="action_settings">설정</string>
 
     <!-- !! TITLES -->
+    <string name="title_news_feed">사막 뉴스</string>
+    <string name="title_map">지도</string>
     <string name="title_header_timers">타이머</string>
     <string name="title_header_crafting">제작</string>
     <string name="title_header_calculators">계산기</string>
@@ -39,8 +41,6 @@
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">검은 사막의 기본 세율은 35% 입니다. 밸류 패키지 은 세금 반환 값의 30 %를 추가합니다.</string>
     <string name="intro_grinding">연삭 반점은 <b>EXP 등급</b> (최고 ~ 최저) 으로 정렬됩니다.</string>
-    <string name="intro_bosstimer">보스 스폰주기를 보려면 <b>여기</b>를 클릭하십시오.</string>
-    <string name="intro_bosstimer_offline"><b>오프라인 모드</b>. 변경 사항은 서버와 동기화되지 않습니다.</string>
     <string name="intro_horselist">색상 조합은 가능한 자손을 계산하는 데 사용할 수 있습니다.</string>
 
     <!-- !! GENERAL -->
@@ -50,12 +50,8 @@
     <string name="upgrade_to_pro">광고를 제거하다</string>
     <string name="ok">OK</string>
     <string name="cancel">취소</string>
-    <string name="cooldown_push">1 시간 후에 다시 시도하십시오.</string>
     <string name="loading">로드 중&#8230;</string>
     <string name="search">검색&#8230;</string>
-    <string name="intervals">간격</string>
-    <string name="today">오늘</string>
-    <string name="yesterday">어제</string>
     <string name="sort_by_name_asc">이름순으로 정렬 : 오름차순</string>
     <string name="sort_by_name_desc">이름순으로 정렬 : 내림차순</string>
     <string name="sort_by_level_asc">수준별 정렬 : 오름차순</string>
@@ -71,22 +67,6 @@
     <string name="resetImperialTrading">황실 무역</string>
     <string name="resetBSA">흑정령의 모험</string>
 
-    <!-- !! BOSSTIMER -->
-    <string name="bosstimer_data">마지막: %1$s\n다음 것: %2$s ~ %3$s</string>
-    <string name="bosstimer_spawnable"><b>사장님이 산란 창에 있습니다!</b></string>
-    <string name="bosstimer_server_maintenance">서버 유지 보수</string>
-    <string name="bosstimer_region">현재 선택: %s</string>
-    <string name="bosstimer_remaining">남은 시간: %s</string>
-    <!-- BOSS NAMES -->
-    <string name="karanda">카란다</string>
-    <string name="dimtreespirit">우둔한 나무 정령</string>
-    <string name="kzarka">크자카</string>
-    <string name="nouver">누베르</string>
-    <string name="kutum">쿠툼</string>
-    <string name="bheg">비겁한 베그</string>
-    <string name="mudster">거대한 진흙 괴물</string>
-    <string name="rednose">빨간코</string>
-
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">필수 레벨: %1$s</string>
@@ -101,7 +81,6 @@
     <!-- CRAFTING BUTTONS -->
     <string name="crafting_material">자료</string>
     <string name="crafting_results">결과</string>
-    <string name="crafting_calculator">계산자</string>
     <string name="crafted_amount">수량:</string>
     <string name="recipes">레시피</string>
     <string name="show_all">모두 보이기</string>
@@ -119,7 +98,6 @@
     <string name="level">레벨</string>
     <string name="death">죽음</string>
     <string name="horse_result">남성 T%1$d (레벨: %2$d)\n여자 T%3$d (레벨: %4$d)\n\n%5$s</string>
-    <string name="horse_hint_deaths">죽음 (선택 과목)</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>밸류 패키지</b></string>
@@ -144,10 +122,11 @@
 
     <!-- !! ERRORS -->
     <string name="error_generic">오류, 페이지를 새로 고침하십시오.</string>
-    <string name="error_bosstimer_nodata">저장된 데이터가 없습니다.\n자신을 새로 고침하십시오..</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
+    <string name="pref_title_nightmode">야간 모드</string>
+    <string name="pref_nightmode">어두운 모드 사용</string>
     <string name="pref_title_language">언어</string>
     <string name="pref_language">현재 설정: %s</string>
     <string name="pref_title_timezone">타임존</string>
@@ -161,12 +140,6 @@
     <string name="pref_title_bosspriority">산란 보스 우선 순위</string>
     <string name="pref_bosspriority">보스가 우선 순위에 따라 분류됩니다.</string>
     <string name="pref_title_bossnotification">보스 알림</string>
-    <string name="pref_bossnotification">영구 보스 알림 사용 (BETA)</string>
-    <string name="pref_title_bossfetchtime">보스 동기화 시간 (분)</string>
-    <string name="bosstimer_5min">5 분</string>
-    <string name="bosstimer_15min">15 분</string>
-    <string name="bosstimer_30min">30 분</string>
-    <string name="bosstimer_60min">60 분</string>
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">프로젝트 업데이트는 Twitter 있습니다</string>
@@ -215,17 +188,27 @@
     <string name="exp_rate">경험률:</string>
     <string name="difficulty">어려움:</string>
     <string name="mob_density">밀도:</string>
-
-    <!-- LATEST UPDATE -->
-    <string name="pref_title_nightmode">야간 모드</string>
-    <string name="pref_nightmode">어두운 모드 사용</string>
-    <string name="title_news_feed">사막 뉴스</string>
-    <string name="title_map">지도</string>
     <string name="description">기술</string>
-    
-    <string name="offin">Offin</string>
-    <string anme="quint">Quint</string>
-    <string name="muraka">Muraka</string>
-    <string name="vell">Vell</string>
-</resources>
 
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">알림을 설정하려면 알람을 누릅니다.\n설정에서 지역/시간대를 변경하십시오.</string>
+    <string name="bosstimer_notification_title">보스가 곧 등장합니다!</string>
+    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_next_spawn">다음 것:</string>
+    <string name="bosstimer_region">현재 선택: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">카란다</string>
+    <string name="dimtreespirit">우둔한 나무 정령</string>
+    <string name="kzarka">크자카</string>
+    <string name="nouver">누베르</string>
+    <string name="kutum">쿠툼</string>
+    <string name="bheg">비겁한 베그</string>
+    <string name="mudster">거대한 진흙 괴물</string>
+    <string name="rednose">빨간코</string>
+    <string name="offin">오핀의</string>
+    <string name="quint">귄트</string>
+    <string name="muraka">무라카</string>
+    <string name="vell">벨</string>
+
+    <string name="error_bosstimer_nodata">지역에 데이터가 없습니다!\n\n이 지역의 스폰 시간을 me@gimu.org에 제출하십시오.\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+</resources>
