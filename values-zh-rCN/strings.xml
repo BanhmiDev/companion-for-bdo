@@ -193,7 +193,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">点击闹钟以分别设置通知。\n在设置中更改地区/时区。</string>
     <string name="bosstimer_notification_title">老大即将产卵！</string>
-    <string name="bosstimer_notification_text">产卵提醒：%1$s在%2$s</string>
+    <string name="bosstimer_notification_text">%1$s:%2$s</string>
     <string name="bosstimer_next_spawn">下一个产卵：</string>
     <string name="bosstimer_region">当前地区：%s</string>
     <!-- BOSS NAMES -->

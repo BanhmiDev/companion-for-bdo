@@ -193,7 +193,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">Toque el reloj para configurar las notificaciones individuales.\nCambie la región/zona horaria en la configuración.</string>
     <string name="bosstimer_notification_title">¡Jefe en intervalo!</string>
-    <string name="bosstimer_notification_text">%1$s a %2$s</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">Siguiente aparición:</string>
     <string name="bosstimer_region">Selección actual: %s</string>
     <!-- BOSS NAMES -->

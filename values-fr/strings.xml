@@ -193,7 +193,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">Appuyez sur les horloges pour régler les notifications.\nChangez la région/le fuseau horaire dans les paramètres.</string>
     <string name="bosstimer_notification_title">Boss est sur le point d\'apparaître !</string>
-    <string name="bosstimer_notification_text">%1$s à %2$s</string>
+    <string name="bosstimer_notification_text">%1$s : %2$s</string>
     <string name="bosstimer_next_spawn">Suivant :</string>
     <string name="bosstimer_region">Région séléctionnée : %s</string>
     <!-- BOSS NAMES -->

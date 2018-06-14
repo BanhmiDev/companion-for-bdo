@@ -193,7 +193,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">Tap on a clock to set notifications individually.\nChange region/timezone in the settings.</string>
     <string name="bosstimer_notification_title">Boss about to spawn!</string>
-    <string name="bosstimer_notification_text">%1$s at %2$s</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">Next Spawn:</string>
     <string name="bosstimer_region">Current region: %s</string>
     <!-- BOSS NAMES -->

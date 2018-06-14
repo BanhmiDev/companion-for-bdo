@@ -194,7 +194,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">แตะที่การเตือนภัยเพื่อตั้งค่าการแจ้งเตือนทีละรายการ\nเปลี่ยนภูมิภาค/เขตเวลาในการตั้งค่า</string>
     <string name="bosstimer_notification_title">บอสมาเร็ว ๆ นี้!</string>
-    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">ลักษณะถัดไป:</string>
     <string name="bosstimer_region">ภูมิภาคปัจจุบัน: %s</string>
     <!-- BOSS NAMES -->

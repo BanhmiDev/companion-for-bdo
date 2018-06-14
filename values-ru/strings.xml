@@ -195,7 +195,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">Нажмите на часы для индивидуального уведомления.\nИзменить регион/часовой пояс в настройках.</string>
     <string name="bosstimer_notification_title">идет респ!</string>
-    <string name="bosstimer_notification_text">Порождать: %1$s в %2$s</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">nреспа:</string>
     <string name="bosstimer_region">Текущий выбор: %s</string>
     <!-- BOSS NAMES -->

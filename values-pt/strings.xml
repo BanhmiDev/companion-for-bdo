@@ -192,7 +192,7 @@
     <!-- !! BOSS TIMER -->
     <string name="intro_bosstimer">Toque nos relógios para definir as notificações.\nAltere a região/fuso horário nas configurações.</string>
     <string name="bosstimer_notification_title">Chefe aparecendo em breve!</string>
-    <string name="bosstimer_notification_text">%1$s às %2$s</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">Próxima aparição:</string>
     <string name="bosstimer_region">Região atual: %s</string>
     <!-- BOSS NAMES -->

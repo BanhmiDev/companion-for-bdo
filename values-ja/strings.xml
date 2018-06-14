@@ -193,7 +193,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">時計をタップして通知を設定します。\n設定の地域/タイムゾーンを変更します。</string>
     <string name="bosstimer_notification_title">ボスはすぐに現れている！</string>
-    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_notification_text">%1$s：%2$s</string>
     <string name="bosstimer_next_spawn">次のスポーン：</string>
     <string name="bosstimer_region">現在の選択：%s</string>
     <!-- BOSS NAMES -->

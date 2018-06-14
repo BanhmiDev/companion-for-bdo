@@ -193,7 +193,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">Bildirimleri ayrı ayrı ayarlamak için alarmların üzerine dokunun.\nAyarları bölge/saat dilimi değiştirin.</string>
     <string name="bosstimer_notification_title">Patron yakında belirecek!</string>
-    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">Sonraki görünüm:</string>
     <string name="bosstimer_region">Geçerli bölge: %s</string>
     <!-- BOSS NAMES -->

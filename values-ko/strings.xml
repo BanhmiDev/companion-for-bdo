@@ -193,7 +193,7 @@
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">알림을 설정하려면 알람을 누릅니다.\n설정에서 지역/시간대를 변경하십시오.</string>
     <string name="bosstimer_notification_title">보스가 곧 등장합니다!</string>
-    <string name="bosstimer_notification_text">%1$s - %2$s</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">다음 것:</string>
     <string name="bosstimer_region">현재 선택: %s</string>
     <!-- BOSS NAMES -->
