@@ -59,8 +59,8 @@
     <!-- !! INGAME TIMERS -->
     <string name="ingame_title">在線計時器</string>
     <string name="reset_title">復位</string>
-    <string name="night">Night in</string>
-    <string name="day">Day in</string>
+    <string name="night">晚</string>
+    <string name="day">日</string>
     <string name="resetDaily">日常</string>
     <string name="resetImperial">帝國</string>
     <string name="resetImperialTrading">帝國貿易</string>
@@ -197,11 +197,11 @@
     <string name="bosstimer_next_spawn">下一個產卵：</string>
     <string name="bosstimer_region">當前地區：%s</string>
     <!-- BOSS NAMES -->
-    <string name="karanda">Karanda</string>
+    <string name="karanda">卡嵐達</string>
     <string name="dimtreespirit">Dim Tree Spirit</string>
-    <string name="kzarka">Kzarka</string>
-    <string name="nouver">Nouver</string>
-    <string name="kutum">Kutum</string>
+    <string name="kzarka">克價卡</string>
+    <string name="nouver">羅裴勒</string>
+    <string name="kutum">庫屯</string>
     <string name="bheg">Dastard Bheg</string>
     <string name="mudster">Giant Mudster</string>
     <string name="rednose">Red Nose</string>
@@ -209,6 +209,9 @@
     <string name="quint">肯恩特</string>
     <string name="muraka">木拉卡</string>
     <string name="vell">鐘</string>
+    <string name="garmoth">Garmoth</string>
 
     <string name="error_bosstimer_nodata">地區沒有數據！\n\n請將此區域的產卵時間提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">報警重置</string>
+    <string name="reset_alarm">%1$d個警報已被取消，因為時間已更新。</string>
 </resources>

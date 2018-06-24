@@ -209,6 +209,9 @@
     <string name="quint">귄트</string>
     <string name="muraka">무라카</string>
     <string name="vell">벨</string>
+    <string name="garmoth">가모스</string>
 
     <string name="error_bosstimer_nodata">지역에 데이터가 없습니다!\n\n이 지역의 스폰 시간을 me@gimu.org에 제출하십시오.\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">알람 재설정</string>
+    <string name="reset_alarm">시간이 업데이트 되었기 때문에 %1$d 개의 알람이 취소되었습니다.</string>
 </resources>

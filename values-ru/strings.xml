@@ -211,7 +211,10 @@
     <string name="quint">Квинт</string>
     <string name="muraka">Мурака</string>
     <string name="vell">Велл</string>
+    <string name="garmoth">Garmoth</string>
 
     <!-- DO NOT TRANSLATE FOR THIS LANGUAGE -->
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">Сброс тревоги</string>
+    <string name="reset_alarm">%1$d тревог(-ов) отменены, поскольку расписание было обновлено</string>
 </resources>

@@ -210,6 +210,9 @@
     <string name="quint">Quint</string>
     <string name="muraka">Muraka</string>
     <string name="vell">Vell</string>
+    <string name="garmoth">Garmoth</string>
 
     <string name="error_bosstimer_nodata">ต้องการข้อมูลสำหรับภูมิภาคนี้!\n\nโปรดส่งตารางวางไข่ในระดับภูมิภาคไปที่ me@gimu.org\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">ปลุกใหม่</string>
+    <string name="reset_alarm">มีการยกเลิกการเตือน %1$d ครั้งเนื่องจากมีการอัปเดตครั้ง</string>
 </resources>

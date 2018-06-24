@@ -209,6 +209,9 @@
     <string name="quint">Quint</string>
     <string name="muraka">Muraka</string>
     <string name="vell">Vell</string>
+    <string name="garmoth">Garmoth</string>
 
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">Alarm zurückgesetzt</string>
+    <string name="reset_alarm">%1$d Alarm(e) wurden wegen Zeitplan-Änderungen zurückgesetzt.</string>
 </resources>

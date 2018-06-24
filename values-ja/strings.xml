@@ -209,6 +209,9 @@
     <string name="quint">ギュント</string>
     <string name="muraka">ムラカ</string>
     <string name="vell">ベル</string>
+    <string name="garmoth">Garmoth</string>
 
     <string name="error_bosstimer_nodata">地域にはデータがありません！\n\nこの地域の産卵時間をme@gimu.orgに提出してください。\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">アラームリセット</string>
+    <string name="reset_alarm">時刻が更新されたため、アラーム（%1$d）はキャンセルされました。</string>
 </resources>
