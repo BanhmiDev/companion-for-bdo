@@ -107,7 +107,7 @@
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">Temel Şans</string>
-    <string name="enhance_optimal_stacks">Optimum yığınlar</string>
+    <string name="enhance_optimal_stacks">Max yığınlar</string>
     <string name="enhance_success_chance">Başarı Şansı</string>
     <string name="enhancement_weapon">Silah</string>
     <string name="enhancement_armor">Zırh</string>
@@ -214,6 +214,11 @@
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
     <string name="title_reset_alarm">Alarm Sıfırlama</string>
     <string name="reset_alarm">Zaman güncellendiğinden %1$d alarm iptal edildi.</string>
-</resources>
 
+    <string name="bosstimer_5min">5 dakika</string>
+    <string name="bosstimer_15min">15 dakika</string>
+    <string name="bosstimer_30min">30 dakika</string>
+    <string name="bosstimer_60min">60 dakika</string>
+    <string name="pref_title_bossfetchtime">Erken Bildirim</string>
+</resources>
 

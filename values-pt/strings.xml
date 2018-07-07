@@ -213,5 +213,12 @@
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
     <string name="title_reset_alarm">Redefinição de alarme</string>
     <string name="reset_alarm">%1$d alarmes foram cancelados porque os tempos foram atualizados.</string>
+
+    <string name="bosstimer_5min">5 minutos</string>
+    <string name="bosstimer_15min">15 minutos</string>
+    <string name="bosstimer_30min">30 minutos</string>
+    <string name="bosstimer_60min">60 minutos</string>
+    <string name="pref_title_bossfetchtime">Notificação Antecipada</string>
 </resources>
+
 

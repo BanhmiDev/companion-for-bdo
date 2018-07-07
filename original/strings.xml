@@ -107,7 +107,7 @@
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">Base Chance</string>
-    <string name="enhance_optimal_stacks">Optimal Stacks</string>
+    <string name="enhance_optimal_stacks">Max Stacks</string>
     <string name="enhance_success_chance">Success Chance</string>
     <string name="enhancement_weapon">Weapon</string>
     <string name="enhancement_armor">Armor</string>
@@ -214,4 +214,10 @@
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
     <string name="title_reset_alarm">Alarm Reset</string>
     <string name="reset_alarm">%1$d alarm(s) have been cancelled, because the timetable was updated.</string>
+
+    <string name="bosstimer_5min">5 Minutes</string>
+    <string name="bosstimer_15min">15 Minutes</string>
+    <string name="bosstimer_30min">30 Minutes</string>
+    <string name="bosstimer_60min">60 Minutes</string>
+    <string name="pref_title_bossfetchtime">Early notification appearance</string>
 </resources>

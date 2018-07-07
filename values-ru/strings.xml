@@ -217,4 +217,10 @@
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
     <string name="title_reset_alarm">Сброс тревоги</string>
     <string name="reset_alarm">%1$d тревог(-ов) отменены, поскольку расписание было обновлено</string>
+
+    <string name="bosstimer_5min">5 минут</string>
+    <string name="bosstimer_15min">15 минут</string>
+    <string name="bosstimer_30min">30 минут</string>
+    <string name="bosstimer_60min">60 минут</string>
+    <string name="pref_title_bossfetchtime">Раннее уведомление</string>
 </resources>

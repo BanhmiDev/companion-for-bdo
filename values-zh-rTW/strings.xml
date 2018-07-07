@@ -107,7 +107,7 @@
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">基本機會</string>
-    <string name="enhance_optimal_stacks"> 最佳堆棧</string>
+    <string name="enhance_optimal_stacks">最大疊加</string>
     <string name="enhance_success_chance">成功機會</string>
     <string name="enhancement_weapon">武器</string>
     <string name="enhancement_armor">裝甲</string>
@@ -214,4 +214,10 @@
     <string name="error_bosstimer_nodata">地區沒有數據！\n\n請將此區域的產卵時間提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
     <string name="title_reset_alarm">報警重置</string>
     <string name="reset_alarm">%1$d個警報已被取消，因為時間已更新。</string>
+
+    <string name="bosstimer_5min">5 分鐘</string>
+    <string name="bosstimer_15min">15 分鐘</string>
+    <string name="bosstimer_30min">30 分鐘</string>
+    <string name="bosstimer_60min">60 分鐘</string>
+    <string name="pref_title_bossfetchtime">提前通知</string>
 </resources>

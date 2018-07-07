@@ -108,7 +108,7 @@
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">기본 기회</string>
-    <string name="enhance_optimal_stacks">최적의 스택</string>
+    <string name="enhance_optimal_stacks">최대 스택</string>
     <string name="enhance_success_chance">성공 확률</string>
     <string name="enhancement_weapon">무기</string>
     <string name="enhancement_armor">갑옷</string>
@@ -205,7 +205,7 @@
     <string name="bheg">비겁한 베그</string>
     <string name="mudster">거대한 진흙 괴물</string>
     <string name="rednose">빨간코</string>
-    <string name="offin">오핀의</string>
+    <string name="offin">오핀</string>
     <string name="quint">귄트</string>
     <string name="muraka">무라카</string>
     <string name="vell">벨</string>
@@ -214,4 +214,10 @@
     <string name="error_bosstimer_nodata">지역에 데이터가 없습니다!\n\n이 지역의 스폰 시간을 me@gimu.org에 제출하십시오.\n\nPlease submit the spawn-table for this region to me@gimu.org.</string>
     <string name="title_reset_alarm">알람 재설정</string>
     <string name="reset_alarm">시간이 업데이트 되었기 때문에 %1$d 개의 알람이 취소되었습니다.</string>
+
+    <string name="bosstimer_5min">5 분</string>
+    <string name="bosstimer_15min">15 분</string>
+    <string name="bosstimer_30min">30 분</string>
+    <string name="bosstimer_60min">60 분</string>
+    <string name="pref_title_bossfetchtime">조기 통보</string>
 </resources>
