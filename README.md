@@ -21,4 +21,6 @@ A big thank you to all the contributors.
 **Portuguese**: Thiago172, rannyann                              
 **Russian**: SeefAlert                           
 **Spanish**: Blarzek                              
-**Thai**: จอมเวท มากิ ผู้บุกเบิก แห่งทะเลทรายทมิฬ                     
+**Thai**: จอมเวท มากิ ผู้บุกเบิก แห่งทะเลทรายทมิฬ              
+**Turkish**: vrillons
+
