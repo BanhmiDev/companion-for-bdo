@@ -39,7 +39,7 @@
     <string name="title_rate_app">Uygulamayı\'ı Oyla</string>
 
     <!-- !! INTROS -->
-    <string name="intro_market">BDO\'daki taban vergi \%35\'tir. Değerli Paketler, vergi iade değerinin \%30\'unu ekler.</string>
+    <string name="intro_market">BDO\'daki taban vergi %%35\'tir. Değerli Paketler, vergi iade değerinin %%30\'unu ekler.</string>
     <string name="intro_horselist">Her atın kırmızı, siyah ve beyaz renk noktaları vardır. Olası yavruları hesaplamak için renk kombinasyonları kullanılabilir.</string>
 
     <!-- !! GENERAL -->
@@ -64,7 +64,7 @@
     <string name="resetDaily">Gün Sonu</string>
     <string name="resetImperial">İmparatorluk</string>
     <string name="resetImperialTrading">İmparatorluk ticareti</string>
-    <string name="resetBSA">Kara Ruh'un Macerası</string>
+    <string name="resetBSA">Kara Ruh\'un Macerası</string>
 
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
