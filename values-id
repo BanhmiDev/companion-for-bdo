@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Please ignore strings like "%1$s" or "\n", they are used for formatting.
+        You also give feedback that isn't related to translation on the repository itself.
+        And again, thank you for your contribution!
+    -->
+    <string name="app_name">Teman untuk BDO</string>
+    <!-- !! NAVIGATION -->
+    <string name="navigation_drawer_open">Buka panel navigasi</string>
+    <string name="navigation_drawer_close">Tutup panel navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+    <!-- !! TITLES -->
+    <string name="title_news_feed">Berita BDO</string>
+    <string name="title_map">Peta</string>
+    <string name="title_header_timers">Pengatur Waktu</string>
+    <string name="title_header_crafting">Kerajinan</string>
+    <string name="title_header_calculators">Kalkulator</string>
+    <string name="title_header_charts">Bagan</string>
+    <string name="title_header_misc">Lain-lain</string>
+    <string name="title_main_timer">Pengatur waktu Ingame</string>
+    <string name="title_boss_timer">Pengatur waktu Bos</string>
+    <string name="title_cooking_inspection">Inspeksi</string>
+    <string name="title_cooking_db">Basis data Memasak</string>
+    <string name="title_alchemy_db">Basis data Alkimia</string>
+    <string name="title_workshop_db">Basis data Workshop</string>
+    <string name="title_processing_db">Basis data Pemrosesan</string>
+    <string name="title_materialgroup">Grup Material</string>
+    <string name="title_failstack_calculator">Kalkulator Failstack</string>
+    <string name="title_horse_calculator">Kalkulator Kuda</string>
+    <string name="title_market_calculator">Kalkulator Pasar</string>
+    <string name="title_failstack_chart">Bagan Failstack</string>
+    <string name="title_grinding_chart">Bagan Grinding</string>
+    <string name="title_horse_chart">Bagan Kuda</string>
+    <string name="title_about">Tentang</string>
+    <string name="title_share">Bagikan</string>
+    <string name="title_rate_app">Nilai App</string>
+    <!-- !! INTROS -->
+    <string name="intro_market" formatted="false">Bea dasar di BDO adalah 35%. Nilai Paket ditambahkan 30% dari nilai kembalian terpajak.</string>
+    <string name="intro_horselist">Setiap kuda memiliki warna bintik merah, hitam dan putih. Kombinasi warna dapat digunakan untuk menghitung kemungkinan keturunan.</string>
+    <!-- !! GENERAL -->
+    <string name="calculate">Hitung</string>
+    <string name="enabled">dinyalakan</string>
+    <string name="disabled">dimatikan</string>
+    <string name="upgrade_to_pro">Hilangkan Iklan</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="loading">Memuat&#8230;</string>
+    <string name="search">Cari&#8230;</string>
+    <string name="sort_by_name_asc">Sortir berdasarkan nama: naik</string>
+    <string name="sort_by_name_desc">Sortir berdasarkan nama: turun</string>
+    <string name="sort_by_level_asc">Sortir berdasarkan level: naik</string>
+    <string name="sort_by_level_desc">Sortir berdasarkan level: turun</string>
+    <!-- !! INGAME TIMERS -->
+    <string name="ingame_title">Pengatur waktu Ingame</string>
+    <string name="reset_title">Atur Ulang</string>
+    <string name="night">Malam dalam</string>
+    <string name="day">Pagi dalam</string>
+    <string name="resetDaily">Harian</string>
+    <string name="resetImperial">Imperial</string>
+    <string name="resetImperialTrading">Perdagangan Imperial</string>
+    <string name="resetBSA">Petualangan Roh Hitam</string>
+    <!-- !! CRAFTING -->
+    <!-- CRAFTING LEVEL -->
+    <string name="level_required">Level yang dibutuhkan: %1$s</string>
+    <string name="workshoplevel_required">Level workshop yang dibutuhkan: %1$s</string>
+    <string name="beginner">Pemula</string>
+    <string name="apprentice">Magang</string>
+    <string name="skilled">Terampil</string>
+    <string name="professional">Profesional</string>
+    <string name="artisan">Pengerajin</string>
+    <string name="master">Master</string>
+    <string name="guru">Guru</string>
+    <!-- CRAFTING BUTTONS -->
+    <string name="can_substitute">Kamu dapat menggantinya dengan material dibawah ini:\n</string>
+    <string name="crafting_material">Material Kerajinan</string>
+    <string name="crafting_results">Hasil Kerajinan</string>
+    <string name="crafted_amount">Kuantitas:</string>
+    <string name="recipes">Resep</string>
+    <string name="show_all">Tampilkan Semuanya</string>
+    <string name="bookmark_title_empty">Daftar penanda kosong!</string>
+    <string name="bookmark_empty">Daftar penanda kamu saat ini kosong</string>
+    <string name="crafting_byquantity">Mode: berdasar Kuantitas</string>
+    <string name="crafting_byingredient">Mode: berdasar Bahan Baku</string>
+    <!-- !! HORSE CALCULATOR -->
+    <string name="horse_breeding_multiplier">Region memiliki pengali Pengembangbiakan Kuda yang berbeda: SEA/MENA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Pengali yang dipilih: %1$d</string>
+    <string name="female_horse"><b>Kuda Betina</b></string>
+    <string name="male_horse"><b>Kuda Jantan</b></string>
+    <string name="tier">Tingkat</string>
+    <string name="level">Level</string>
+    <string name="death">Kematian</string>
+    <string name="horse_result">Jantan T%1$d (lvl: %2$d)\nBetina T%3$d (lvl: %4$d)\n\n%5$s</string>
+    <!-- !! MARKET CALCULATOR -->
+    <string name="value_pack"><b>Paket Nilai</b></string>
+    <string name="value_pack_is_activated">Paket Nilai diaktifkan</string>
+    <string name="market_sell_price">Harga Jual Pasar</string>
+    <string name="market_sell_amount">Jumlah Jual Pasar</string>
+    <string name="market_result"><b>Nilai Paket:</b> %1$s\n<b>Profit:</b> %2$s</string>
+    <!-- !! ENHANCEMENT CHART -->
+    <string name="enhance_base_chance">Kesempatan Dasar</string>
+    <string name="enhance_optimal_stacks">Tumpukan Maks</string>
+    <string name="enhance_success_chance">Kesempatan Sukses</string>
+    <string name="enhancement_weapon">Senjata</string>
+    <string name="enhancement_armor">Armor</string>
+    <string name="enhancement_accessory">Aksesoris</string>
+    <!-- !! GRINDING CHART -->
+    <string name="intro_grinding">Sangat dianjurkan untuk mengikuti Questline Cerita Utama</string>
+    <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Level:&lt;/b> %3$d</string>
+    <!-- !! HORSE CHART -->
+    <string name="horse_description">Kecepatan/Akselerasi: %1$s%%\nBelok/Berhenti: %2$s%%</string>
+    <!-- !! ERRORS -->
+    <string name="error_generic">Galat, harap muat ulang halaman.</string>
+    <!-- !! SETTINGS PAGE (Title + Description) -->
+    <!-- SETTINGS -->
+    <string name="pref_title_nightmode">Mode Malam</string>
+    <string name="pref_nightmode">Nyalakan mode gelap</string>
+    <string name="pref_title_language">Bahasa</string>
+    <string name="pref_language">Saat ini diatur ke: %s</string>
+    <string name="pref_title_timezone">Zona Waktu</string>
+    <string name="system_timezone">Zona Waktu Sistem</string>
+    <string name="pref_title_24hour">Format 24-Jam</string>
+    <string name="pref_24hour">Tampilkan waktu dalam format 24-Jam</string>
+    <string name="pref_title_region">Region</string>
+    <string name="pref_screen_awake">Tetap bangunkan layar untuk pengatur waktu ingame dan bos</string>
+    <string name="pref_title_screen_awake">Tetap bangunkan layar</string>
+    <string name="pref_title_bosspriority">Prioritas Bos yang mungkin Muncul</string>
+    <string name="pref_bosspriority">Bos-bos disortir berdasarkan waktu spawn mereka</string>
+    <string name="pref_title_bossnotification">Notifikasi Spawn</string>
+    <!-- MISC -->
+    <string name="pref_title_twitter">Twitter</string>
+    <string name="pref_twitter">Ikuti aku di twitter untuk pembaruan proyek</string>
+    <string name="pref_title_translate">Bantu dengan terjemahan</string>
+    <string name="pref_translate">Sarankan pembaruan terjemahan</string>
+    <!-- !! RATE APP -->
+    <string name="rate_dialog_title">Nilai app ini</string>
+    <string name="rate_dialog_message">JIka kamu senang menggunakan app ini, bersediakah kamu menyempatkan untuk menilainya? Hal ini tidak memakan lebih dari satu menit. Terima kasih untuk dukungan kamu!</string>
+    <string name="rate_dialog_ok">Nilai sekarang</string>
+    <string name="rate_dialog_cancel">Lain kali</string>
+    <string name="rate_dialog_no">Tidak, terima kasih</string>
+    <string name="enhancement_info">Angka tepat tidak diketahui - gunakan ini sebagai referensi!</string>
+    <string name="failstack_result">Peluang saat ini: %1$s%%\nSetiap FS menambahkan peluang: %2$s%%\nMaks failstack: %3$s (%4$s%% Kesempatan)</string>
+    <string name="enhancement_lifeclothing">Pakaian Kehidupan</string>
+    <string name="vote_success">Usulan diserahkan</string>
+    <string name="desired_level">Level Yang Diinginkan</string>
+    <string name="current_stacks">Timbunan Saat ini</string>
+    <string name="furniture">Furnitur</string>
+    <string name="crates">Peti</string>
+    <string name="wearables">Dapat Dipakai</string>
+    <string name="mob_helms">Helm</string>
+    <string name="mob_elrics">Elrics</string>
+    <string name="mob_pollyforest">Hutan Polly</string>
+    <string name="mob_sausans">Sausans</string>
+    <string name="mob_fadus">Fadus Garrison</string>
+    <string name="mob_pirates">Perompak</string>
+    <string name="mob_bashims">Bashim</string>
+    <string name="mob_desertnagas">Gurun Naga</string>
+    <string name="mob_desertfogans">Gurun Fogan</string>
+    <string name="mob_cadry">Cadry</string>
+    <string name="mob_gahazbandits">Bandit Gahaz</string>
+    <string name="mob_crescents">Bulan Sabit</string>
+    <string name="mob_basilisks">Basilisk</string>
+    <string name="mob_taptharplain">Centaur</string>
+    <string name="mob_navarnsteppe">Navarn Steppe</string>
+    <string name="mob_sulfurmines">Tambang Sulfur</string>
+    <string name="mob_pilaku">Pila Ku</string>
+    <string name="mob_manshaum">Hutan Manshaum</string>
+    <string name="mob_forestronaros">Hutan Ronaros</string>
+    <string name="mob_aakmanhystria">Aakman/Hystria</string>
+    <string name="mob_mirumokruins">Reruntuhan Mirumok</string>
+    <string name="mob_gyfinrhasia">Gyfin Rhasia</string>
+    <string name="exp_rate">Tingkat EXP:</string>
+    <string name="difficulty">Kesulitan:</string>
+    <string name="mob_density">Kepadatan Mob:</string>
+    <string name="description">Deskripsi</string>
+    <!-- !! BOSSTIMER -->
+    <string name="intro_bosstimer">Tap pada sebuah jam untuk mengatur notifikasi satu per satu.\nUbah region/zona waktu di pengaturan.</string>
+    <string name="bosstimer_notification_title">Boss sebentar lagi akan muncul!</string>
+    <string name="bosstimer_notification_text">%1$s: %2$s</string>
+    <string name="bosstimer_next_spawn">Spawn Berikutnya:</string>
+    <string name="bosstimer_region">Region saat ini: %s</string>
+    <!-- BOSS NAMES -->
+    <string name="karanda">Karanda</string>
+    <string name="dimtreespirit">Dim Tree Spirit</string>
+    <string name="kzarka">Kzarka</string>
+    <string name="nouver">Nouver</string>
+    <string name="kutum">Kutum</string>
+    <string name="bheg">Dastard Bheg</string>
+    <string name="mudster">Mudster Raksasa</string>
+    <string name="rednose">Hidung Merah</string>
+    <string name="offin">Offin</string>
+    <string name="quint">Quint</string>
+    <string name="muraka">Muraka</string>
+    <string name="vell">Vell</string>
+    <string name="garmoth">Garmoth</string>
+    <string name="error_bosstimer_nodata">Region tidak memiliki data!\n\nHarap kirim tabel-spawn untuk region ini ke me@gimu.org.</string>
+    <string name="title_reset_alarm">Atur Ulang Alarm</string>
+    <string name="reset_alarm">%1$d alarm telah dibatalkan, karena tabel waktu telah diperbarui.</string>
+    <string name="bosstimer_5min">5 Menit</string>
+    <string name="bosstimer_15min">15 Menit</string>
+    <string name="bosstimer_30min">30 Menit</string>
+    <string name="bosstimer_60min">60 Menit</string>
+    <string name="pref_title_bossfetchtime">Penampilan notifikasi awal</string>
+</resources>
