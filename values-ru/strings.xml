@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for BDO</string>
+    <string name="app_name">Companion for BDO (PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Открыть навигационный ящик</string>
@@ -89,7 +89,7 @@
     <string name="crafting_byingredient">Режим: количество ингредиентов</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">На RU-серверах равен 14: MENA/SEA = 9, NA/EU/SA/TW/KR/JP = 14. В настоящий момент установлено значение: %1$d</string>
+    <string name="horse_breeding_multiplier">На RU-серверах равен 14: MENA/SEA/NA/EU/SA/TW/KR/JP = 14. В настоящий момент установлено значение: %1$d</string>
     <string name="female_horse"><b>Мужской</b></string>
     <string name="male_horse"><b>Женский</b></string>
     <string name="tier">Pанг</string>
@@ -223,4 +223,15 @@
     <string name="bosstimer_30min">30 минут</string>
     <string name="bosstimer_60min">60 минут</string>
     <string name="pref_title_bossfetchtime">Раннее уведомление</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">Калькулятор выравнивания</string>
+    <string name="silver_embroidered_clothes">Особая одежда укротителя</string>
+    <string name="horse_trainer_clothes">Одежда укротителя</string>
+    <string name="professional_trainer_clothes">Специальный костюм мага</string>
+    <string name="horseleveling_result">Всего требуется XP: %1$s\nОтносительная XP: %2$s\nНеобходимые часы: %3$s</string>
+    <string name="special_clothing">Костюм наездника</string>
+    <string name="training_level">Уровень подготовки лошадей</string>
+    <string name="current_exp">Текущий EXP</string>
+    <string name="type">Тип</string>
 </resources>

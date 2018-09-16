@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for BDO</string>
+    <string name="app_name">Companion for BDO (PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
@@ -91,7 +91,7 @@
     <string name="crafting_byingredient">Modo: por ingrediente</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Multiplicador seleccionado: %1$d</string>
+    <string name="horse_breeding_multiplier">Estas regiones tienen diferentes multiplicadores: MENA/SEA/NA/EU/SA/TW/KR/JP/RU = 14. Multiplicador seleccionado: %1$d</string>
     <string name="female_horse"><b>Hembra</b></string>
     <string name="male_horse"><b>Macho</b></string>
     <string name="tier">Grado</string>
@@ -100,7 +100,7 @@
     <string name="horse_result">Macho T%1$d (nvl: %2$d)\nHembra T%3$d (nvl: %4$d)\n\n%5$s</string>
 
     <!-- !! MARKET CALCULATOR -->
-    <string name="value_pack"><b>Macuto con útiles</b></string>
+    <string name="value_pack">Macuto con útiles</string>
     <string name="value_pack_is_activated">Macuto con útiles está activo</string>
     <string name="market_sell_price">Precio de venta</string>
     <string name="market_sell_amount">Cantidad</string>
@@ -220,4 +220,15 @@
     <string name="bosstimer_30min">30 minutos</string>
     <string name="bosstimer_60min">60 minutos</string>
     <string name="pref_title_bossfetchtime">Notificación temprana</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">Calculadora de nivel</string>
+    <string name="silver_embroidered_clothes">Bordado de plata</string>
+    <string name="horse_trainer_clothes">Entrenador de caballo</string>
+    <string name="professional_trainer_clothes">Entrenador profesional</string>
+    <string name="horseleveling_result">Total de XP necesario: %1$s\nXP relativo: %2$s\nHoras necesarias: %3$s</string>
+    <string name="special_clothing">Vestimenta de venia</string>
+    <string name="training_level">Nivel de entrenamiento</string>
+    <string name="current_exp">EXP actual</string>
+    <string name="type">Tipo</string>
 </resources>

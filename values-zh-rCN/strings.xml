@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">黑色沙漠帮手</string>
+    <string name="app_name">黑色沙漠帮手 (PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">打开导航抽屉</string>
@@ -90,7 +90,7 @@
     <string name="crafting_byingredient">模式：按成分</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">地区有不同的繁殖倍数：SEA/MENA = 9，NA/EU/SA/TW/KR/JP/RU = 14.选择乘数：%1$d</string>
+    <string name="horse_breeding_multiplier">地区有不同的繁殖倍数：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.选择乘数：%1$d</string>
     <string name="female_horse"><b>雌马</b></string>
     <string name="male_horse"><b>马匹</b></string>
     <string name="tier">层</string>
@@ -154,7 +154,7 @@
     <string name="rate_dialog_no">不，谢谢</string>
 
     <string name="enhancement_info">确切的费率是未知的 - 将其用作参考！</string>
-    <string name="failstack_result">当前机会：%1$s%%\n每个FS都会增加以下机率：%2$s%%最大失败堆栈：%3$s（%4$s%% 机会）</string>
+    <string name="failstack_result">当前机会：%1$s%%\n每个FS都会增加以下机率：%2$s%%\n最大失败堆栈：%3$s（%4$s%% 机会）</string>
     <string name="enhancement_lifeclothing">生活服装</string>
     <string name="vote_success">投票提交</string>
     <string name="desired_level">期望的级别</string>
@@ -220,4 +220,15 @@
     <string name="bosstimer_30min">30 分钟</string>
     <string name="bosstimer_60min">60 分钟</string>
     <string name="pref_title_bossfetchtime">提前通知</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">調平計算器</string>
+    <string name="silver_embroidered_clothes">银刺绣驯马师的衣服</string>
+    <string name="horse_trainer_clothes">驯马师的衣服</string>
+    <string name="professional_trainer_clothes">专门训练师的衣服</string>
+    <string name="horseleveling_result">需要的總XP：%1$s\n相對XP需要：%2$s\n所需時數：%3$s</string>
+    <string name="special_clothing">贝尼亚乘马服</string>
+    <string name="training_level">馬訓練水平</string>
+    <string name="current_exp">目前的EXP</string>
+    <string name="type">類型</string>
 </resources>

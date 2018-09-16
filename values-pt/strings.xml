@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for BDO</string>
+    <string name="app_name">Companion for BDO (PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Abrir a aba de navegação</string>
@@ -90,7 +90,7 @@
     <string name="crafting_byingredient">Modo: quant. de ingrediente</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">As regiões têm diferentes multiplicadores: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Multiplicador selecionado: %1$d</string>
+    <string name="horse_breeding_multiplier">As regiões têm diferentes multiplicadores: MENA/SEA/NA/EU/SA/TW/KR/JP/RU = 14. Multiplicador selecionado: %1$d</string>
     <string name="female_horse"><b>Fêmea</b></string>
     <string name="male_horse"><b>Macho</b></string>
     <string name="tier">Tier</string>
@@ -219,6 +219,17 @@
     <string name="bosstimer_30min">30 minutos</string>
     <string name="bosstimer_60min">60 minutos</string>
     <string name="pref_title_bossfetchtime">Notificação Antecipada</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">Calc. de Nivelamento</string>
+    <string name="silver_embroidered_clothes">Traje Bordado de Prata</string>
+    <string name="horse_trainer_clothes">Roupa de Treinador</string>
+    <string name="professional_trainer_clothes">Roupa do Treinador Profissional</string>
+    <string name="horseleveling_result">Total de XP necessário: %1$s\nXP relativo necessário: %2$s\nHoras necessárias: %3$s</string>
+    <string name="special_clothing">Vestido Hípico Venia</string>
+    <string name="training_level">Nível de treinamento de cavalo</string>
+    <string name="current_exp">EXP atual</string>
+    <string name="type">Tipo</string>
 </resources>
 
 

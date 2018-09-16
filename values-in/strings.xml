@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Teman untuk BDO</string>
+    <string name="app_name">Teman untuk BDO (PRO)</string>
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Buka panel navigasi</string>
     <string name="navigation_drawer_close">Tutup panel navigasi</string>
@@ -200,4 +200,15 @@
     <string name="bosstimer_30min">30 Menit</string>
     <string name="bosstimer_60min">60 Menit</string>
     <string name="pref_title_bossfetchtime">Penampilan notifikasi awal</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">Kalkulator leveling</string>
+    <string name="silver_embroidered_clothes">Silver Embroidered Clothes</string>
+    <string name="horse_trainer_clothes">Horse Trainer\'s Clothes</string>
+    <string name="professional_trainer_clothes">Professional Trainer\'s Clothes</string>
+    <string name="horseleveling_result">Total XP diperlukan: %1$s\nDiperlukan XP Relatif: %2$s\nJam diperlukan: %3$s</string>
+    <string name="special_clothing">Venia Riding Attire</string>
+    <string name="training_level">Tingkat Pelatihan Kuda</string>
+    <string name="current_exp">EXP saat ini</string>
+    <string name="type">Mengetik</string>
 </resources>

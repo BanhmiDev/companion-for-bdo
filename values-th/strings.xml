@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">คู่มือนักผจญภัยในทะเลทรายทมิฬ</string>
+    <string name="app_name">คู่มือนักผจญภัยในทะเลทรายทมิฬ (PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">เปิด วาดเส้นนำทาง</string>
@@ -90,7 +90,7 @@
     <string name="crafting_byingredient">โหมด: ตามส่วนผสม</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">ภูมิภาคมีคูณพันธุ์ม้าที่แตกต่างกัน: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. เลือกตัวคูณ: %1$d</string>
+    <string name="horse_breeding_multiplier">ภูมิภาคมีคูณพันธุ์ม้าที่แตกต่างกัน: MENA/SEA/NA/EU/SA/TW/KR/JP/RU = 14. เลือกตัวคูณ: %1$d</string>
     <string name="female_horse"><b>ม้าตัวเมีย</b></string>
     <string name="male_horse"><b>ม้าตัวผู้</b></string>
     <string name="tier">รุ่น</string>
@@ -221,4 +221,15 @@
     <string name="bosstimer_30min">30 นาที</string>
     <string name="bosstimer_60min">60 นาที</string>
     <string name="pref_title_bossfetchtime">การแจ้งล่วงหน้า</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">เครื่องคิดเลข leveling</string>
+    <string name="silver_embroidered_clothes">ชุดนักฝึกสัตว์ปักด้ายเงิน</string>
+    <string name="horse_trainer_clothes">ชุดนักฝึกสัตว์</string>
+    <string name="professional_trainer_clothes">ชุดนักฝึกสัตว์ - เชี่ยวชาญ</string>
+    <string name="horseleveling_result">ต้องการ XP ทั้งหมด: %1$s\nXP ญาติที่จำเป็น: %2$s\nจำนวนชั่วโมงที่ต้องการ: %3$s</string>
+    <string name="special_clothing">ชุดขี่ม้าเวเนียน</string>
+    <string name="training_level">ระดับการฝึกม้า</string>
+    <string name="current_exp">EXP ปัจจุบัน</string>
+    <string name="type">ชนิด</string>
 </resources>

@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">黒い砂漠のヘルパー</string>
+    <string name="app_name">黒い砂漠のヘルパー(PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">ナビゲーション・ドロワーを開く</string>
@@ -91,7 +91,7 @@
     <string name="crafting_byingredient">モード：成分量</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">リージョンには異なる乗数があります: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14。現在の乗数：%1$d</string>
+    <string name="horse_breeding_multiplier">リージョンには異なる乗数があります: MENA/SEA/NA/EU/SA/TW/KR/JP/RU = 14。現在の乗数：%1$d</string>
     <string name="female_horse"><b>女性の馬</b></string>
     <string name="male_horse"><b>男性馬</b></string>
     <string name="tier">ティア</string>
@@ -220,4 +220,15 @@
     <string name="bosstimer_30min">30分</string>
     <string name="bosstimer_60min">60分</string>
     <string name="pref_title_bossfetchtime">早期通知</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">レベリング計</string>
+    <string name="silver_embroidered_clothes">銀刺繍トレーナーの服</string>
+    <string name="horse_trainer_clothes">トレーナーの服</string>
+    <string name="professional_trainer_clothes">専門トレーナーの服</string>
+    <string name="horseleveling_result">必要な合計XP：%1$s\n相対XPが必要：%2$s\n必要な時間：%3$s</string>
+    <string name="special_clothing">ベニヤ乗馬服</string>
+    <string name="training_level">トレーニングレベル</string>
+    <string name="current_exp">現在のEXP</string>
+    <string name="type">タイプ</string>
 </resources>

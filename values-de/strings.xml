@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Helfer für BDO</string>
+    <string name="app_name">Helfer für BDO (PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
@@ -90,7 +90,7 @@
     <string name="crafting_byingredient">Modus: nach Zutatenmenge</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">Regionen haben unterschliedliche Pferdezuchtmultiplikatoren: MENA/SEA = 9, NA/EU/SA/TW/KR/JP/RU = 14. Derzeitige Auswahl: %1$d</string>
+    <string name="horse_breeding_multiplier">Regionen haben unterschliedliche Pferdezuchtmultiplikatoren: MENA/SEA/NA/EU/SA/TW/KR/JP/RU = 14. Derzeitige Auswahl: %1$d</string>
     <string name="female_horse"><b>Weibliches Pferd</b></string>
     <string name="male_horse"><b>Männliches Pferd</b></string>
     <string name="tier">Stufe</string>
@@ -99,7 +99,7 @@
     <string name="horse_result">Männlich T%1$d (lvl: %2$d)\nWeiblich T%3$d (lvl: %4$d)\n\n%5$s</string>
 
     <!-- !! MARKET CALCULATOR -->
-    <string name="value_pack"><b>Vorteilspaket</b></string>
+    <string name="value_pack">Vorteilspaket</string>
     <string name="value_pack_is_activated">Vorteilspaket ist aktiviert</string>
     <string name="market_sell_price">Marktverkaufspreis</string>
     <string name="market_sell_amount">Marktverkaufsmenge</string>
@@ -220,4 +220,15 @@
     <string name="bosstimer_30min">30 Minuten</string>
     <string name="bosstimer_60min">60 Minuten</string>
     <string name="pref_title_bossfetchtime">Frühzeitige Benachrichtigung</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">Level Rechner</string>
+    <string name="silver_embroidered_clothes">Silberbestickte Kleidung</string>
+    <string name="horse_trainer_clothes">Kleidung für Pferdeabrichter</string>
+    <string name="professional_trainer_clothes">Kleidung für Professionelle Reiter</string>
+    <string name="horseleveling_result">Totale XP nötig: %1$s\nRelative XP nötig: %2$s\nStunden nötig: %3$s</string>
+    <string name="special_clothing">Reitbekleidung Venia</string>
+    <string name="training_level">Reitlevel</string>
+    <string name="current_exp">Aktuelle EXP</string>
+    <string name="type">Typ</string>
 </resources>

@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">黑色沙漠的幫手</string>
+    <string name="app_name">黑色沙漠的幫手 (PRO)</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">打開導航抽屜</string>
@@ -90,7 +90,7 @@
     <string name="crafting_byingredient">模式：按成分</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">地區有不同的繁殖倍數：SEA/MENA = 9，NA/EU/SA/TW/KR/JP/RU = 14.選擇乘數：%1$d</string>
+    <string name="horse_breeding_multiplier">地區有不同的繁殖倍數：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.選擇乘數：%1$d</string>
     <string name="female_horse"><b>雌馬</b></string>
     <string name="male_horse"><b>馬匹</b></string>
     <string name="tier">層</string>
@@ -154,7 +154,7 @@
     <string name="rate_dialog_no">不，謝謝</string>
 
     <string name="enhancement_info">確切的費率是未知的 - 將其用作參考！</string>
-    <string name="failstack_result">當前機會：%1$s%%\n每個FS都會增加以下機率：%2$s%%最大失敗堆棧：%3$s（%4$s%% 機會）</string>
+    <string name="failstack_result">當前機會：%1$s%%\n每個FS都會增加以下機率：%2$s%%\n最大失敗堆棧：%3$s（%4$s%% 機會）</string>
     <string name="enhancement_lifeclothing">生活服裝</string>
     <string name="vote_success">投票提交</string>
     <string name="desired_level">期望的級別</string>
@@ -220,4 +220,15 @@
     <string name="bosstimer_30min">30 分鐘</string>
     <string name="bosstimer_60min">60 分鐘</string>
     <string name="pref_title_bossfetchtime">提前通知</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="title_horseleveling_calculator">调平计算器</string>
+    <string name="silver_embroidered_clothes">銀刺繡馴養師的服裝</string>
+    <string name="horse_trainer_clothes">馴養師的服裝</string>
+    <string name="professional_trainer_clothes">專家馴養師的衣服</string>
+    <string name="horseleveling_result">需要的总XP：%1$s\n相对XP需要：%2$s\n所需时数：%3$s</string>
+    <string name="special_clothing">貝尼亞騎馬服</string>
+    <string name="training_level">马训练水平</string>
+    <string name="current_exp">目前的EXP</string>
+    <string name="type">类型</string>
 </resources>
