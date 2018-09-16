@@ -18,6 +18,7 @@ You can either attach the whole file or just mention the changes within your com
 A big thank you to all the contributors.
 
 **French**: Yoone                            
+**Indonesian**: tsaliscepu                            
 **Portuguese**: Thiago172, rannyann                              
 **Russian**: SeefAlert                           
 **Spanish**: Blarzek                              
