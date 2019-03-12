@@ -222,7 +222,6 @@
     <string name="bosstimer_60min">60 นาที</string>
     <string name="pref_title_bossfetchtime">การแจ้งล่วงหน้า</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">เครื่องคิดเลข leveling</string>
     <string name="silver_embroidered_clothes">ชุดนักฝึกสัตว์ปักด้ายเงิน</string>
     <string name="horse_trainer_clothes">ชุดนักฝึกสัตว์</string>
@@ -232,4 +231,8 @@
     <string name="training_level">ระดับการฝึกม้า</string>
     <string name="current_exp">EXP ปัจจุบัน</string>
     <string name="type">ชนิด</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">เริ่มต้นด้วย เวลาบอส</string>
+    <string name="pref_bosstimerstartup">แอพเริ่มต้นด้วย เวลาบอส</string>
 </resources>

@@ -220,7 +220,6 @@
     <string name="bosstimer_60min">60 minutos</string>
     <string name="pref_title_bossfetchtime">Notificação Antecipada</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">Calc. de Nivelamento</string>
     <string name="silver_embroidered_clothes">Traje Bordado de Prata</string>
     <string name="horse_trainer_clothes">Roupa de Treinador</string>
@@ -230,6 +229,10 @@
     <string name="training_level">Nível de treinamento de cavalo</string>
     <string name="current_exp">EXP atual</string>
     <string name="type">Tipo</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">Comece com chefe</string>
+    <string name="pref_bosstimerstartup">App começa com temporizador chefe</string>
 </resources>
 
 

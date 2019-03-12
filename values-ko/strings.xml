@@ -221,7 +221,6 @@
     <string name="bosstimer_60min">60 분</string>
     <string name="pref_title_bossfetchtime">조기 통보</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">레벨링 계산기</string>
     <string name="silver_embroidered_clothes">은자수 조련사의 옷옷</string>
     <string name="horse_trainer_clothes">조련사의 옷</string>
@@ -231,4 +230,8 @@
     <string name="training_level">말 훈련 수준</string>
     <string name="current_exp">현재 경험치</string>
     <string name="type">유형</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">보스 타이머로 시작하십시오</string>
+    <string name="pref_bosstimerstartup">보스 타이머로 시작하는 앱</string>
 </resources>

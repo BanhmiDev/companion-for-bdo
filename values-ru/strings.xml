@@ -224,7 +224,6 @@
     <string name="bosstimer_60min">60 минут</string>
     <string name="pref_title_bossfetchtime">Раннее уведомление</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">Калькулятор выравнивания</string>
     <string name="silver_embroidered_clothes">Особая одежда укротителя</string>
     <string name="horse_trainer_clothes">Одежда укротителя</string>
@@ -234,4 +233,8 @@
     <string name="training_level">Уровень подготовки лошадей</string>
     <string name="current_exp">Текущий EXP</string>
     <string name="type">Тип</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">Начните с таймера босса</string>
+    <string name="pref_bosstimerstartup">Приложение начинается с таймера босса</string>
 </resources>

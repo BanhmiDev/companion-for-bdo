@@ -221,7 +221,6 @@
     <string name="bosstimer_60min">60分</string>
     <string name="pref_title_bossfetchtime">早期通知</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">レベリング計</string>
     <string name="silver_embroidered_clothes">銀刺繍トレーナーの服</string>
     <string name="horse_trainer_clothes">トレーナーの服</string>
@@ -231,4 +230,8 @@
     <string name="training_level">トレーニングレベル</string>
     <string name="current_exp">現在のEXP</string>
     <string name="type">タイプ</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">ボスタイマーで始める</string>
+    <string name="pref_bosstimerstartup">アプリの起動動作を変更する</string>
 </resources>

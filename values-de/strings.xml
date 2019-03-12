@@ -221,7 +221,6 @@
     <string name="bosstimer_60min">60 Minuten</string>
     <string name="pref_title_bossfetchtime">Frühzeitige Benachrichtigung</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">Level Rechner</string>
     <string name="silver_embroidered_clothes">Silberbestickte Kleidung</string>
     <string name="horse_trainer_clothes">Kleidung für Pferdeabrichter</string>
@@ -231,4 +230,8 @@
     <string name="training_level">Reitlevel</string>
     <string name="current_exp">Aktuelle EXP</string>
     <string name="type">Typ</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">Starte mit Boss Timer</string>
+    <string name="pref_bosstimerstartup">App startet mit boss timer</string>
 </resources>

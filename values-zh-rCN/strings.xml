@@ -221,7 +221,6 @@
     <string name="bosstimer_60min">60 分钟</string>
     <string name="pref_title_bossfetchtime">提前通知</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">調平計算器</string>
     <string name="silver_embroidered_clothes">银刺绣驯马师的衣服</string>
     <string name="horse_trainer_clothes">驯马师的衣服</string>
@@ -231,4 +230,8 @@
     <string name="training_level">馬訓練水平</string>
     <string name="current_exp">目前的EXP</string>
     <string name="type">類型</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">從老闆計時器開始</string>
+    <string name="pref_bosstimerstartup">應用程序從老闆時間開始</string>
 </resources>

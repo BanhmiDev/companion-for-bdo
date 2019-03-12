@@ -23,5 +23,5 @@ A big thank you to all the contributors.
 **Russian**: SeefAlert                           
 **Spanish**: Blarzek                              
 **Thai**: จอมเวท มากิ ผู้บุกเบิก แห่งทะเลทรายทมิฬ              
-**Turkish**: vrillons
+**Turkish**: Serhat Öktem, vrillons
 

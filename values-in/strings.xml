@@ -201,7 +201,6 @@
     <string name="bosstimer_60min">60 Menit</string>
     <string name="pref_title_bossfetchtime">Penampilan notifikasi awal</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">Kalkulator leveling</string>
     <string name="silver_embroidered_clothes">Silver Embroidered Clothes</string>
     <string name="horse_trainer_clothes">Horse Trainer\'s Clothes</string>
@@ -211,4 +210,8 @@
     <string name="training_level">Tingkat Pelatihan Kuda</string>
     <string name="current_exp">EXP saat ini</string>
     <string name="type">Mengetik</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">Mulailah dengan waktu bos</string>
+    <string name="pref_bosstimerstartup">Aplikasi dimulai dengan waktu bos</string>
 </resources>

@@ -221,7 +221,6 @@
     <string name="bosstimer_60min">60 minutes</string>
     <string name="pref_title_bossfetchtime">Notification anticipée</string>
 
-    <!-- LATEST UPDATE -->
     <string name="title_horseleveling_calculator">Calc. de nivellement</string>
     <string name="silver_embroidered_clothes">Brodés d\'argent</string>
     <string name="horse_trainer_clothes">D\'entraîneur de chevaux</string>
@@ -231,4 +230,8 @@
     <string name="training_level">Niveau de dressage</string>
     <string name="current_exp">EXP actuel</string>
     <string name="type">Type</string>
+
+    <!-- LATEST UPDATE -->
+    <string name="pref_title_bosstimerstartup">Commencez avec horaires des boss</string>
+    <string name="pref_bosstimerstartup">App commence avec horaires des boss</string>
 </resources>
