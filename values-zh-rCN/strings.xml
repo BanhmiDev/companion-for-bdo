@@ -8,46 +8,46 @@
     <string name="app_name">黑色沙漠帮手 (PRO)</string>
 
     <!-- !! NAVIGATION -->
-    <string name="navigation_drawer_open">打开导航抽屉</string>
-    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="navigation_drawer_open">打开向导</string>
+    <string name="navigation_drawer_close">关闭向导</string>
     <string name="action_settings">设置</string>
 
     <!-- !! TITLES -->
     <string name="title_news_feed">黑色沙漠新闻</string>
     <string name="title_map">地图</string>
-    <string name="title_header_timers">计时器</string>
-    <string name="title_header_crafting">手工艺</string>
-    <string name="title_header_calculators">计算器</string>
-    <string name="title_header_charts">图表</string>
-    <string name="title_header_misc">杂项</string>
-    <string name="title_main_timer">在线计时器</string>
-    <string name="title_boss_timer">老板计时器</string>
+    <string name="title_header_timers">时间</string>
+    <string name="title_header_crafting">生活图鉴</string>
+    <string name="title_header_calculators">模拟器</string>
+    <string name="title_header_charts">图鉴</string>
+    <string name="title_header_misc">其它</string>
+    <string name="title_main_timer">游戏当前时间</string>
+    <string name="title_boss_timer">Boss刷新时间</string>
     <string name="title_cooking_inspection">检查</string>
-    <string name="title_cooking_db">烹饪数据库</string>
-    <string name="title_alchemy_db">炼金术数据库</string>
-    <string name="title_workshop_db">车间数据库</string>
-    <string name="title_processing_db">处理数据库</string>
-    <string name="title_materialgroup">材料组</string>
-    <string name="title_failstack_calculator">失效堆栈计算器</string>
-    <string name="title_horse_calculator">马计算器</string>
-    <string name="title_market_calculator">市场计算器</string>
-    <string name="title_failstack_chart">失败堆栈图</string>
-    <string name="title_grinding_chart">研磨图</string>
-    <string name="title_horse_chart">马图</string>
+    <string name="title_cooking_db">料理数据库</string>
+    <string name="title_alchemy_db">炼金数据库</string>
+    <string name="title_workshop_db">房屋制造数据库</string>
+    <string name="title_processing_db">加工数据库</string>
+    <string name="title_materialgroup">材料表</string>
+    <string name="title_failstack_calculator">强化模拟器</string>
+    <string name="title_horse_calculator">马模拟器</string>
+    <string name="title_market_calculator">交易模拟器</string>
+    <string name="title_failstack_chart">失败堆叠表</string>
+    <string name="title_grinding_chart">推荐刷怪地</string>
+    <string name="title_horse_chart">马图鉴</string>
     <string name="title_about">关于</string>
-    <string name="title_share">共享</string>
-    <string name="title_rate_app">评价应用</string>
+    <string name="title_share">分享</string>
+    <string name="title_rate_app">意见反馈</string>
 
     <!-- !! INTROS -->
-    <string name="intro_market" formatted="false">基本税率是35％。价值包增加了30％的税收返回值。</string>
-    <string name="intro_horselist">每匹马都有红色，黑色和白色的颜色点。颜色组合可以用来计算可能的后代。 </string>
+    <string name="intro_market" formatted="false">交易所基本税率为35％，价值礼包增加了30％的税收返回值。</string>
+    <string name="intro_horselist">每匹马都有红色，黑色和白色的颜色点，颜色组合可以用来计算可能出生的后代几率。 </string>
 
     <!-- !! GENERAL -->
-    <string name="calculate">计算</string>
+    <string name="calculate">模拟</string>
     <string name="enabled">启用</string>
-    <string name="disabled">残</string>
+    <string name="disabled">禁用</string>
     <string name="upgrade_to_pro">移除广告</string>
-    <string name="ok">好</string>
+    <string name="ok">确认</string>
     <string name="cancel">取消</string>
     <string name="loading">载入中&#8230;</string>
     <string name="search">搜索&#8230;</string>
@@ -57,13 +57,13 @@
     <string name="sort_by_level_desc">按级别排序：降序</string>
 
     <!-- !! INGAME TIMERS -->
-    <string name="ingame_title">在线计时器</string>
-    <string name="reset_title">复位</string>
-    <string name="night">晚</string>
-    <string name="day">日</string>
-    <string name="resetDaily">日常</string>
-    <string name="resetImperial">帝国</string>
-    <string name="resetImperialTrading">帝国贸易</string>
+    <string name="ingame_title">游戏当前时间</string>
+    <string name="reset_title">重置时间</string>
+    <string name="night">夜晚持续时间</string>
+    <string name="day">白天持续时间</string>
+    <string name="resetDaily">日常任务</string>
+    <string name="resetImperial">皇室</string>
+    <string name="resetImperialTrading">皇室贸易</string>
     <string name="resetBSA">棋盘游戏</string>
 
     <!-- !! CRAFTING -->
@@ -71,9 +71,9 @@
     <string name="level_required">所需级别：%1$s</string>
     <string name="workshoplevel_required">所需车间级别：%1$s</string>
     <string name="beginner">初級 Lv.</string>
-    <string name="apprentice">見習 Lv.</string>
-    <string name="skilled">熟練 Lv.</string>
-    <string name="professional">專家 Lv.</string>
+    <string name="apprentice">见习 Lv.</string>
+    <string name="skilled">熟练 Lv.</string>
+    <string name="professional">专家 Lv.</string>
     <string name="artisan">匠人 Lv.</string>
     <string name="master">名匠 Lv.</string>
     <string name="guru">道人 Lv.</string>
@@ -87,38 +87,38 @@
     <string name="bookmark_title_empty">书签列表为空！</string>
     <string name="bookmark_empty">您的书签列表当前为空。</string>
     <string name="crafting_byquantity">模式：按数量</string>
-    <string name="crafting_byingredient">模式：按成分</string>
+    <string name="crafting_byingredient">模式：按材料</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">地区有不同的繁殖倍数：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.选择乘数：%1$d</string>
-    <string name="female_horse"><b>雌马</b></string>
-    <string name="male_horse"><b>马匹</b></string>
-    <string name="tier">层</string>
-    <string name="level">Lv</string>
+    <string name="horse_breeding_multiplier">各地区有不同的交配倍率：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.选择倍率：%1$d</string>
+    <string name="female_horse"><b>母马</b></string>
+    <string name="male_horse"><b>公马</b></string>
+    <string name="tier">Tier</string>
+    <string name="level">等级</string>
     <string name="death">死亡</string>
-    <string name="horse_result">男 T%1$d (Lv: %2$d)\n女 T%3$d (Lv: %4$d)\n\n%5$s</string>
+    <string name="horse_result">公 T%1$d (Lv: %2$d)\n母 T%3$d (Lv: %4$d)\n\n%5$s</string>
 
     <!-- !! MARKET CALCULATOR -->
-    <string name="value_pack"><b>超值包</b></string>
-    <string name="value_pack_is_activated">值包已激活</string>
+    <string name="value_pack"><b>价值礼包</b></string>
+    <string name="value_pack_is_activated">价值礼包已激活</string>
     <string name="market_sell_price">市场卖出价</string>
     <string name="market_sell_amount">市场卖出金额</string>
-    <string name="market_result"><b>超值包：</b> %1$s\n<b>盈利：</b> %2$s</string>
+    <string name="market_result"><b>价值礼包：</b> %1$s\n<b>盈利：</b> %2$s</string>
 
     <!-- !! ENHANCEMENT CHART -->
-    <string name="enhance_base_chance">基本机会</string>
-    <string name="enhance_optimal_stacks">最大叠加</string>
-    <string name="enhance_success_chance">成功机会</string>
+    <string name="enhance_base_chance">初始几率</string>
+    <string name="enhance_optimal_stacks">最大堆叠</string>
+    <string name="enhance_success_chance">成功几率</string>
     <string name="enhancement_weapon">武器</string>
-    <string name="enhancement_armor">装甲</string>
-    <string name="enhancement_accessory">附件</string>
+    <string name="enhancement_armor">护甲</string>
+    <string name="enhancement_accessory">首饰</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="intro_grinding">建议遵循主要故事。</string>
+    <string name="intro_grinding">建议遵循主线任务。</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Lv:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
-    <string name="horse_description">速度/加速度：%1$s%%\n打开/刹车：%2$s%%</string>
+    <string name="horse_description">速度/加速度：%1$s%%\n启动/刹车：%2$s%%</string>
 
     <!-- !! ERRORS -->
     <string name="error_generic">错误，请尝试重新加载页面。</string>
@@ -134,86 +134,86 @@
     <string name="pref_title_24hour"> 24小时格式</string>
     <string name="pref_24hour">以24小时格式显示时间</string>
     <string name="pref_title_region">区域</string>
-    <string name="pref_screen_awake">让游戏和老板定时器保持屏幕</string>
-    <string name="pref_title_screen_awake">保持屏幕清醒</string>
-    <string name="pref_title_bosspriority">排序老板</string>
-    <string name="pref_bosspriority">老板按他们的产卵时间排序</string>
-    <string name="pref_title_bossnotification">产卵通知</string>
+    <string name="pref_screen_awake">在时间界面保持屏幕唤醒状态</string>
+    <string name="pref_title_screen_awake">保持屏幕唤醒</string>
+    <string name="pref_title_bosspriority">Boss排序</string>
+    <string name="pref_bosspriority">BOSS将按Boss的刷新时间排序</string>
+    <string name="pref_title_bossnotification">Boss刷新通知</string>
 
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
     <string name="pref_twitter">在Twitter上关注我的项目更新</string>
     <string name="pref_title_translate">帮助翻译</string>
-    <string name="pref_translate">建议翻译更新</string>
+    <string name="pref_translate">帮助我们翻译吧！</string>
 
     <!-- !! RATE APP -->
     <string name="rate_dialog_title">为此应用评分</string>
-    <string name="rate_dialog_message">如果你喜欢使用这个应用程序，你介意花点时间来评价它吗？它不会花一分多钟。感谢您的支持！ </string>
+    <string name="rate_dialog_message">如果您喜欢使用这个应用程序，介意花点时间来评价它吗？它不会花您太多时间。感谢您的支持！ </string>
     <string name="rate_dialog_ok">现在评分</string>
     <string name="rate_dialog_cancel">稍后</string>
     <string name="rate_dialog_no">不，谢谢</string>
 
-    <string name="enhancement_info">确切的费率是未知的 - 将其用作参考！</string>
-    <string name="failstack_result">当前机会：%1$s%%\n每个FS都会增加以下机率：%2$s%%\n最大失败堆栈：%3$s（%4$s%% 机会）</string>
+    <string name="enhancement_info">确切的消耗是未知的，请将其用作参考！</string>
+    <string name="failstack_result">当前几率：%1$s%%\n每次失败都会增加以下几率：%2$s%%\n最大失败堆叠：%3$s（%4$s%% 成功几率）</string>
     <string name="enhancement_lifeclothing">生活服装</string>
     <string name="vote_success">投票提交</string>
-    <string name="desired_level">期望的级别</string>
-    <string name="current_stacks">当前堆栈</string>
+    <string name="desired_level">期望的强化等级</string>
+    <string name="current_stacks">当前堆叠</string>
     <string name="furniture">家具</string>
-    <string name="crates">包装箱</string>
-    <string name="wearables">可穿戴设备</string>
+    <string name="crates">装箱</string>
+    <string name="wearables">装备</string>
 
-    <string name="mob_helms">Helms</string>
-    <string name="mob_elrics">Elrics</string>
-    <string name="mob_pollyforest">Polly\'s Forest</string>
-    <string name="mob_sausans">Sausans</string>
-    <string name="mob_fadus">Fadus Garrison</string>
-    <string name="mob_pirates">Pirates</string>
-    <string name="mob_bashims">Bashims</string>
-    <string name="mob_desertnagas">Desert Nagas</string>
-    <string name="mob_desertfogans">Desert Fogans</string>
-    <string name="mob_cadry">Cadry</string>
-    <string name="mob_gahazbandits">Gahaz Bandits</string>
-    <string name="mob_crescents">Crescents</string>
-    <string name="mob_basilisks">Basilisks</string>
-    <string name="mob_taptharplain">Centaur</string>
-    <string name="mob_navarnsteppe">Navarn Steppe</string>
-    <string name="mob_sulfurmines">Sulfur Mines</string>
-    <string name="mob_pilaku">Pila Ku</string>
-    <string name="mob_manshaum">Manshaum Forest</string>
-    <string name="mob_forestronaros">Forest Ronaros</string>
-    <string name="mob_aakmanhystria">Aakman/Hystria</string>
-    <string name="mob_mirumokruins">Mirumok Ruins</string>
-    <string name="mob_gyfinrhasia">Gyfin Rhasia</string>
+    <string name="mob_helms">头盔族营地</string>
+    <string name="mob_elrics">艾尔利克寺庙</string>
+    <string name="mob_pollyforest">波黎之森</string>
+    <string name="mob_sausans">萨扇营地</string>
+    <string name="mob_fadus">帕多斯营地</string>
+    <string name="mob_pirates">海盗</string>
+    <string name="mob_bashims">巴西恩族营地</string>
+    <string name="mob_desertnagas">沙漠纳嘎</string>
+    <string name="mob_desertfogans">沙漠普根</string>
+    <string name="mob_cadry">卡德里</string>
+    <string name="mob_gahazbandits">嘎哈咨盗贼团巢穴</string>
+    <string name="mob_crescents">月牙神殿</string>
+    <string name="mob_basilisks">巴希利斯克巢穴</string>
+    <string name="mob_taptharplain">肯达鲁斯</string>
+    <string name="mob_navarnsteppe">纳班草原</string>
+    <string name="mob_sulfurmines">路德硫磺矿山</string>
+    <string name="mob_pilaku">皮拉酷监狱</string>
+    <string name="mob_manshaum">蔓沙乌姆</string>
+    <string name="mob_forestronaros">森林罗纳罗斯地区</string>
+    <string name="mob_aakmanhystria">亚克曼寺院/赫斯特利亚废墟</string>
+    <string name="mob_mirumokruins">米路罗慕遗迹</string>
+    <string name="mob_gyfinrhasia">葛伊品拉西亚寺庙</string>
     <string name="exp_rate">EXP评分：</string>
-    <string name="difficulty">困难：</string>
+    <string name="difficulty">难易度：</string>
     <string name="mob_density">怪物密度：</string>
     <string name="description">描述</string>
 
     <!-- !! BOSSTIMER -->
-    <string name="intro_bosstimer">点击闹钟以分别设置通知。\n在设置中更改地区/时区。</string>
-    <string name="bosstimer_notification_title">老大即将产卵！</string>
+    <string name="intro_bosstimer">点击闹钟以设置通知。\可在设置中更改地区/时区。</string>
+    <string name="bosstimer_notification_title">BOSS即将刷新！</string>
     <string name="bosstimer_notification_text">%1$s:%2$s</string>
-    <string name="bosstimer_next_spawn">下一个产卵：</string>
+    <string name="bosstimer_next_spawn">下一次刷新时间：</string>
     <string name="bosstimer_region">当前地区：%s</string>
     <!-- BOSS NAMES -->
-    <string name="karanda">卡嵐達</string>
-    <string name="dimtreespirit">Dim Tree Spirit</string>
-    <string name="kzarka">克價卡</string>
-    <string name="nouver">羅裴勒</string>
-    <string name="kutum">庫屯</string>
-    <string name="bheg">Dastard Bheg</string>
-    <string name="mudster">Giant Mudster</string>
-    <string name="rednose">Red Nose</string>
-    <string name="offin">Offin</string>
+    <string name="karanda">卡岚达</string>
+    <string name="dimtreespirit">愚钝的树精灵</string>
+    <string name="kzarka">克价卡</string>
+    <string name="nouver">罗裴勒</string>
+    <string name="kutum">古代库屯</string>
+    <string name="bheg">卑鄙的贝克</string>
+    <string name="mudster">巨大的泥土怪</string>
+    <string name="rednose">红鼻子</string>
+    <string name="offin">监视者 奧平</string>
     <string name="quint">肯恩特</string>
     <string name="muraka">木拉卡</string>
-    <string name="vell">鐘</string>
-    <string name="garmoth">Garmoth</string>
+    <string name="vell">贝尔</string>
+    <string name="garmoth">卡莫斯</string>
 
-    <string name="error_bosstimer_nodata">地区没有数据！\n\n请将此区域的产卵时间提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
-    <string name="title_reset_alarm">报警重置</string>
-    <string name="reset_alarm">%1$d个警报已被取消，因为时间已更新。</string>
+    <string name="error_bosstimer_nodata">该Boss没有数据！\n\n请将此Boss的刷新时间提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">闹钟重置</string>
+    <string name="reset_alarm">%1$d个闹钟已被取消，因为时间已更新。</string>
 
     <string name="bosstimer_5min">5 分钟</string>
     <string name="bosstimer_15min">15 分钟</string>
@@ -221,17 +221,17 @@
     <string name="bosstimer_60min">60 分钟</string>
     <string name="pref_title_bossfetchtime">提前通知</string>
 
-    <string name="title_horseleveling_calculator">調平計算器</string>
+    <string name="title_horseleveling_calculator">驯马模拟器</string>
     <string name="silver_embroidered_clothes">银刺绣驯马师的衣服</string>
     <string name="horse_trainer_clothes">驯马师的衣服</string>
     <string name="professional_trainer_clothes">专门训练师的衣服</string>
-    <string name="horseleveling_result">需要的總XP：%1$s\n相對XP需要：%2$s\n所需時數：%3$s</string>
+    <string name="horseleveling_result">总共所需经验值：%1$s\n相对所需经验值：%2$s\n所需时间：%3$s</string>
     <string name="special_clothing">贝尼亚乘马服</string>
-    <string name="training_level">馬訓練水平</string>
-    <string name="current_exp">目前的EXP</string>
-    <string name="type">類型</string>
+    <string name="training_level">驯养等级</string>
+    <string name="current_exp">目前的经验值</string>
+    <string name="type">类型</string>
 
     <!-- LATEST UPDATE -->
-    <string name="pref_title_bosstimerstartup">從老闆計時器開始</string>
-    <string name="pref_bosstimerstartup">應用程序從老闆時間開始</string>
+    <string name="pref_title_bosstimerstartup">Boss刷新时间为默认首页</string>
+    <string name="pref_bosstimerstartup">打开App时将首先显示Boss刷新时间</string>
 </resources>
