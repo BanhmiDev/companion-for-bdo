@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">BDO Yoldaşı(PRO)</string>
+    <string name="app_name">BDO Yoldaşı</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Gezinme çekmecesini aç</string>
@@ -154,7 +154,7 @@
     <string name="rate_dialog_no">Hayır, teşekkürler</string>
 
     <string name="enhancement_info">Tam oranlar bilinmiyor - referans olarak kullanın!</string>
-    <string name="failstack_result">Mevcut yükseltme şansı: %1$s%%\nHer yükseltmede yükseltme şansı artar: %2$s%%\nArtırılabilir en fazla yükseltme şansı: %3$s (%4$s%% şans)</string>
+    <string name="failstack_result">Mevcut yükseltme şansı: %1$s\nArtırılabilir en fazla yükseltme şansı: %2$s (%3$s şans)</string>
     <string name="enhancement_lifeclothing">Fonksiyonel Giysi</string>
     <string name="vote_success">Başarıyla değerlendirildi</string>
     <string name="desired_level">İstenilen seviye</string>
@@ -234,4 +234,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">Boss Timer ile başlayın</string>
     <string name="pref_bosstimerstartup">Uygulama patron zamanlayıcı ile başlar</string>
+    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
+    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
+    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
+    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
+    <string name="accessory_green">Accessory (green)</string>
 </resources>

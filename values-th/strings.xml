@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">คู่มือนักผจญภัยในทะเลทรายทมิฬ (PRO)</string>
+    <string name="app_name">คู่มือนักผจญภัยในทะเลทรายทมิฬ</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">เปิด วาดเส้นนำทาง</string>
@@ -154,7 +154,7 @@
     <string name="rate_dialog_no">ไม่ ,ขอบคุณ</string>
 
     <string name="enhancement_info">ไม่ทราบอัตราที่แน่นอนให้ใช้เป็นข้อมูลอ้างอิง!</string>
-    <string name="failstack_result">โอกาสปัจจุบัน: %1$s%%\nแต่ละสแต็คจะเพิ่มโอกาสเป็น: %2$s%%\nสแต็คสูงสุด: %3$s (%4$s%% โอกาส)</string>
+    <string name="failstack_result">โอกาสปัจจุบัน: %1$s\nสแต็คสูงสุด: %2$s (%3$s โอกาส)</string>
     <string name="enhancement_lifeclothing">เสื้อผ้าเพื่อชีวิต</string>
     <string name="vote_success">โหวตแล้ว</string>
     <string name="desired_level">ระดับที่ต้องการ</string>
@@ -235,4 +235,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">เริ่มต้นด้วย เวลาบอส</string>
     <string name="pref_bosstimerstartup">แอพเริ่มต้นด้วย เวลาบอส</string>
+    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
+    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
+    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
+    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
+    <string name="accessory_green">Accessory (green)</string>
 </resources>

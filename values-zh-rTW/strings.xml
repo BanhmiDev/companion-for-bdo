@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">黑色沙漠的幫手 (PRO)</string>
+    <string name="app_name">黑色沙漠的幫手</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">打開導航抽屜</string>
@@ -154,7 +154,7 @@
     <string name="rate_dialog_no">不，謝謝</string>
 
     <string name="enhancement_info">確切的費率是未知的 - 將其用作參考！</string>
-    <string name="failstack_result">當前機會：%1$s%%\n每個FS都會增加以下機率：%2$s%%\n最大失敗堆棧：%3$s（%4$s%% 機會）</string>
+    <string name="failstack_result">當前機會：%1$s\n最大失敗堆棧：%2$s（%3$s 機會）</string>
     <string name="enhancement_lifeclothing">生活服裝</string>
     <string name="vote_success">投票提交</string>
     <string name="desired_level">期望的級別</string>
@@ -234,4 +234,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">从老板计时器开始</string>
     <string name="pref_bosstimerstartup">应用程序从老板时间开始</string>
+    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
+    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
+    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
+    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
+    <string name="accessory_green">Accessory (green)</string>
 </resources>

@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for BDO (PRO)</string>
+    <string name="app_name">Companion for BDO</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Abrir a aba de navegação</string>
@@ -153,7 +153,7 @@
     <string name="rate_dialog_no">Não, obrigado</string>
 
     <string name="enhancement_info">Os dados exatos são desconhecidos, use-os como referência!</string>
-    <string name="failstack_result">Chance atual: %1$s%%\nCada FS aumenta a chance por: %2$s%%\nMáximo FS: %3$s (%4$s%% Chance)</string>
+    <string name="failstack_result">Chance atual: %1$s\nMáximo FS: %2$s (%3$s Chance)</string>
     <string name="enhancement_lifeclothing">Roupa de lifeskill</string>
     <string name="vote_success">Votação enviada</string>
     <string name="desired_level">Nível desejado</string>
@@ -233,6 +233,11 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">Comece com chefe</string>
     <string name="pref_bosstimerstartup">App começa com temporizador chefe</string>
+    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
+    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
+    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
+    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
+    <string name="accessory_green">Accessory (green)</string>
 </resources>
 
 
