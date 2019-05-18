@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for BDO (PRO)</string>
+    <string name="app_name">Companion for BDO</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Открыть навигационный ящик</string>
@@ -150,7 +150,7 @@
     <string name="rate_dialog_no">Нет, спасибо</string>
 
     <string name="enhancement_info">Точные данные неизвестны.</string>
-    <string name="failstack_result">Текущая вероятность: %1$s%%\nКаждый стек увеличивает шанс на: %2$s%%\nМакс. Стеки: %3$s (%4$s%% вероятность)</string>
+    <string name="failstack_result">Текущая вероятность: %1$s\nМакс. Стеки: %2$s (%3$s вероятность)</string>
     <string name="enhancement_lifeclothing">Одежда для жизни</string>
     <string name="vote_success">Голосование отправлено</string>
     <string name="desired_level">Желаемый уровень</string>
@@ -237,4 +237,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">Начните с таймера босса</string>
     <string name="pref_bosstimerstartup">Приложение начинается с таймера босса</string>
+    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
+    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
+    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
+    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
+    <string name="accessory_green">Accessory (green)</string>
 </resources>

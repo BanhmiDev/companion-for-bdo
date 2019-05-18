@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">黑色沙漠帮手 (PRO)</string>
+    <string name="app_name">黑色沙漠帮手</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">打开向导</string>
@@ -22,7 +22,7 @@
     <string name="title_header_misc">其它</string>
     <string name="title_main_timer">游戏当前时间</string>
     <string name="title_boss_timer">Boss刷新时间</string>
-    <string name="title_cooking_inspection">检查</string>
+    <string name="title_cooking_inspection">列表</string>
     <string name="title_cooking_db">料理数据库</string>
     <string name="title_alchemy_db">炼金数据库</string>
     <string name="title_workshop_db">房屋制造数据库</string>
@@ -61,9 +61,9 @@
     <string name="reset_title">重置时间</string>
     <string name="night">夜晚持续时间</string>
     <string name="day">白天持续时间</string>
-    <string name="resetDaily">日常任务</string>
-    <string name="resetImperial">皇室</string>
-    <string name="resetImperialTrading">皇室贸易</string>
+    <string name="resetDaily">每日任务重置</string>
+    <string name="resetImperial">皇室纳贡重置</string>
+    <string name="resetImperialTrading">皇室贸易重置</string>
     <string name="resetBSA">棋盘游戏</string>
 
     <!-- !! CRAFTING -->
@@ -111,14 +111,14 @@
     <string name="enhance_success_chance">成功几率</string>
     <string name="enhancement_weapon">武器</string>
     <string name="enhancement_armor">护甲</string>
-    <string name="enhancement_accessory">首饰</string>
+    <string name="enhancement_accessory">饰品</string>
 
     <!-- !! GRINDING CHART -->
     <string name="intro_grinding">建议遵循主线任务。</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Lv:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
-    <string name="horse_description">速度/加速度：%1$s%%\n启动/刹车：%2$s%%</string>
+    <string name="horse_description">速度/加速度：%1$s%%\n回转力/制动：%2$s%%</string>
 
     <!-- !! ERRORS -->
     <string name="error_generic">错误，请尝试重新加载页面。</string>
@@ -148,15 +148,16 @@
 
     <!-- !! RATE APP -->
     <string name="rate_dialog_title">为此应用评分</string>
-    <string name="rate_dialog_message">如果您喜欢使用这个应用程序，介意花点时间来评价它吗？它不会花您太多时间。感谢您的支持！ </string>
+    <string name="rate_dialog_message">如果您喜欢使用这个应用程序，介意花点时间来评价它吗？它不会耽误您太多时间。感谢您的支持！ </string>
     <string name="rate_dialog_ok">现在评分</string>
     <string name="rate_dialog_cancel">稍后</string>
     <string name="rate_dialog_no">不，谢谢</string>
 
+
     <string name="enhancement_info">确切的消耗是未知的，请将其用作参考！</string>
-    <string name="failstack_result">当前几率：%1$s%%\n每次失败都会增加以下几率：%2$s%%\n最大失败堆叠：%3$s（%4$s%% 成功几率）</string>
+    <string name="failstack_result">当前几率：%1$s\n最大失败堆叠：%2$s（%3$s 成功几率）</string>
     <string name="enhancement_lifeclothing">生活服装</string>
-    <string name="vote_success">投票提交</string>
+    <string name="vote_success">已 提交</string>
     <string name="desired_level">期望的强化等级</string>
     <string name="current_stacks">当前堆叠</string>
     <string name="furniture">家具</string>
@@ -211,14 +212,14 @@
     <string name="vell">贝尔</string>
     <string name="garmoth">卡莫斯</string>
 
-    <string name="error_bosstimer_nodata">该Boss没有数据！\n\n请将此Boss的刷新时间提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
+    <string name="error_bosstimer_nodata">该Boss没有数据！\n\n请将此Boss的刷新时间提交至me@gimu.org.</string>
     <string name="title_reset_alarm">闹钟重置</string>
-    <string name="reset_alarm">%1$d个闹钟已被取消，因为时间已更新。</string>
+    <string name="reset_alarm">%1$d个闹钟已被取消，因为刷新时间已更新。</string>
 
-    <string name="bosstimer_5min">5 分钟</string>
-    <string name="bosstimer_15min">15 分钟</string>
-    <string name="bosstimer_30min">30 分钟</string>
-    <string name="bosstimer_60min">60 分钟</string>
+    <string name="bosstimer_5min">5分钟</string>
+    <string name="bosstimer_15min">15分钟</string>
+    <string name="bosstimer_30min">30分钟</string>
+    <string name="bosstimer_60min">60分钟</string>
     <string name="pref_title_bossfetchtime">提前通知</string>
 
     <string name="title_horseleveling_calculator">驯马模拟器</string>
@@ -234,4 +235,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">Boss刷新时间为默认首页</string>
     <string name="pref_bosstimerstartup">打开App时将首先显示Boss刷新时间</string>
+    <string name="armor_white_blue_yellow">护甲（白色，蓝色，黄色）</string>
+    <string name="weapons_white_blue_yellow">武器（白色，蓝色，黄色）</string>
+    <string name="accessory_gold_blue_unbound">饰品（黄色，蓝色，未绑定）</string>
+    <string name="accessory_blue_bound">饰品（蓝色，绑定）</string>
+    <string name="accessory_green">饰品（绿色）</string>
 </resources>

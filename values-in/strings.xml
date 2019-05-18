@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Teman untuk BDO (PRO)</string>
+    <string name="app_name">Teman untuk BDO</string>
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Buka panel navigasi</string>
     <string name="navigation_drawer_close">Tutup panel navigasi</string>
@@ -138,7 +138,7 @@
     <string name="rate_dialog_cancel">Lain kali</string>
     <string name="rate_dialog_no">Tidak, terima kasih</string>
     <string name="enhancement_info">Angka tepat tidak diketahui - gunakan ini sebagai referensi!</string>
-    <string name="failstack_result">Peluang saat ini: %1$s%%\nSetiap FS menambahkan peluang: %2$s%%\nMaks failstack: %3$s (%4$s%% Kesempatan)</string>
+    <string name="failstack_result">Peluang saat ini: %1$s\nMaks failstack: %2$s (%3$s Kesempatan)</string>
     <string name="enhancement_lifeclothing">Pakaian Kehidupan</string>
     <string name="vote_success">Usulan diserahkan</string>
     <string name="desired_level">Level Yang Diinginkan</string>
@@ -214,4 +214,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">Mulailah dengan waktu bos</string>
     <string name="pref_bosstimerstartup">Aplikasi dimulai dengan waktu bos</string>
+    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
+    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
+    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
+    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
+    <string name="accessory_green">Accessory (green)</string>
 </resources>

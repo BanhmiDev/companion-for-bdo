@@ -5,7 +5,7 @@
         You also give feedback that isn't related to translation on the repository itself.
         And again, thank you for your contribution!
     -->
-    <string name="app_name">Companion for BDO (PRO)</string>
+    <string name="app_name">Companion for BDO</string>
 
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -154,7 +154,7 @@
     <string name="rate_dialog_no">No, thanks</string>
 
     <string name="enhancement_info">Exact rates are not known - use it as reference!</string>
-    <string name="failstack_result">Current chance: %1$s%%\nEach FS increases chance by: %2$s%%\nMax failstack: %3$s (%4$s%% Chance)</string>
+    <string name="failstack_result">Current chance: %1$s\nMax failstack: %2$s (%3$s Chance)</string>
     <string name="enhancement_lifeclothing">Life Clothing</string>
     <string name="vote_success">Vote submitted</string>
     <string name="desired_level">Desired Level</string>
@@ -191,7 +191,7 @@
     <string name="description">Description</string>
 
     <!-- !! BOSSTIMER -->
-    <string name="intro_bosstimer">Tap on a clock to set notifications individually.\nChange region/timezone in the settings.</string>
+    <string name="intro_bosstimer">Tap on a clock to set notifications individually.\nChange platform/region/timezone in the settings.</string>
     <string name="bosstimer_notification_title">Boss about to spawn!</string>
     <string name="bosstimer_notification_text">%1$s: %2$s</string>
     <string name="bosstimer_next_spawn">Next Spawn:</string>
@@ -234,4 +234,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">Start with Boss Timer</string>
     <string name="pref_bosstimerstartup">App starts with boss timer</string>
+    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
+    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
+    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
+    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
+    <string name="accessory_green">Accessory (green)</string>
 </resources>
