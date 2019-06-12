@@ -234,9 +234,9 @@
     <!-- LATEST UPDATE -->
     <string name="pref_title_bosstimerstartup">ボスタイマーで始める</string>
     <string name="pref_bosstimerstartup">アプリの起動動作を変更する</string>
-    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
-    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
-    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
-    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
-    <string name="accessory_green">Accessory (green)</string>
+    <string name="armor_white_blue_yellow">鎧（白、青、黄色）</string>
+    <string name="weapons_white_blue_yellow">武器（白、青、黄色）</string>
+    <string name="accessory_gold_blue_unbound">アクセサリー（ゴールド、ブルー、アンバインド）</string>
+    <string name="accessory_blue_bound">アクセサリー（青、バウンド）</string>
+    <string name="accessory_green">アクセサリー（グリーン）</string>
 </resources>
