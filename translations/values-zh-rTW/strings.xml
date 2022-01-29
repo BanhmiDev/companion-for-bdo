@@ -17,20 +17,20 @@
     <string name="title_map">地圖</string>
     <string name="title_header_timers">計時器</string>
     <string name="title_header_crafting">手工藝</string>
-    <string name="title_header_calculators">計算器</string>
+    <string name="title_header_calculators">計算機</string>
     <string name="title_header_charts">圖表</string>
     <string name="title_header_misc">雜項</string>
-    <string name="title_main_timer">在線計時器</string>
-    <string name="title_boss_timer">老闆計時器</string>
+    <string name="title_main_timer">遊戲時間</string>
+    <string name="title_boss_timer">頭目計時器</string>
     <string name="title_cooking_inspection">檢查</string>
-    <string name="title_cooking_db">烹飪數據庫</string>
-    <string name="title_alchemy_db">煉金術數據庫</string>
-    <string name="title_workshop_db">車間數據庫</string>
-    <string name="title_processing_db">處理數據庫</string>
+    <string name="title_cooking_db">料理資料庫</string>
+    <string name="title_alchemy_db">煉金資料庫</string>
+    <string name="title_workshop_db">房子製作資料庫</string>
+    <string name="title_processing_db">加工資料庫</string>
     <string name="title_materialgroup">材料組</string>
-    <string name="title_failstack_calculator">失效堆棧計算器</string>
-    <string name="title_horse_calculator">馬計算器</string>
-    <string name="title_market_calculator">市場計算器</string>
+    <string name="title_failstack_calculator">疊層計算機</string>
+    <string name="title_horse_calculator">馬計算機</string>
+    <string name="title_market_calculator">交易市場計算機</string>
     <string name="title_failstack_chart">失敗堆棧圖</string>
     <string name="title_grinding_chart">研磨圖</string>
     <string name="title_horse_chart">馬圖</string>
@@ -45,12 +45,12 @@
     <!-- !! GENERAL -->
     <string name="calculate">計算</string>
     <string name="enabled">啟用</string>
-    <string name="disabled">殘</string>
+    <string name="disabled">停用</string>
     <string name="upgrade_to_pro">移除廣告</string>
     <string name="ok">好</string>
     <string name="cancel">取消</string>
     <string name="loading">載入中&#8230;</string>
-    <string name="search">搜索&#8230;</string>
+    <string name="search">搜尋&#8230;</string>
     <string name="sort_by_name_asc">按名稱排序：升序</string>
     <string name="sort_by_name_desc">按名稱排序：降序</string>
     <string name="sort_by_level_asc">按級別排序：升序</string>
@@ -58,13 +58,13 @@
 
     <!-- !! INGAME TIMERS -->
     <string name="ingame_title">在線計時器</string>
-    <string name="reset_title">復位</string>
-    <string name="night">晚</string>
-    <string name="day">日</string>
-    <string name="resetDaily">日常</string>
-    <string name="resetImperial">帝國</string>
-    <string name="resetImperialTrading">帝國貿易</string>
-    <string name="resetBSA">棋盤遊戲</string>
+    <string name="reset_title">重設</string>
+    <string name="night">入夜</string>
+    <string name="day">天亮</string>
+    <string name="resetDaily">每日</string>
+    <string name="resetImperial">皇室</string>
+    <string name="resetImperialTrading">皇室貿易</string>
+    <string name="resetBSA">黑精靈的冒險</string>
 
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
@@ -91,37 +91,37 @@
 
     <!-- !! HORSE CALCULATOR -->
     <string name="horse_breeding_multiplier">地區有不同的繁殖倍數：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.選擇乘數：%1$d</string>
-    <string name="female_horse"><b>雌馬</b></string>
-    <string name="male_horse"><b>馬匹</b></string>
-    <string name="tier">層</string>
+    <string name="female_horse"><b>母馬</b></string>
+    <string name="male_horse"><b>公馬</b></string>
+    <string name="tier">世代</string>
     <string name="level">Lv</string>
     <string name="death">死亡</string>
-    <string name="horse_result">男 T%1$d (Lv: %2$d)\n女 T%3$d (Lv: %4$d)\n\n%5$s</string>
+    <string name="horse_result">公馬 T%1$d (Lv: %2$d)\n母馬 T%3$d (Lv: %4$d)\n\n%5$s</string>
 
     <!-- !! MARKET CALCULATOR -->
-    <string name="value_pack"> <b>超值包</b> </string>
-    <string name="value_pack_is_activated">值包已激活</string>
+    <string name="value_pack"> <b>價值禮包</b> </string>
+    <string name="value_pack_is_activated">已啟用價值禮包</string>
     <string name="market_sell_price">市場賣出價</string>
     <string name="market_sell_amount">市場賣出金額</string>
-    <string name="market_result"><b>超值包：</b> %1$s\n<b>盈利：</b> %2$s</string>
+    <string name="market_result"><b>價值禮包：</b> %1$s\n<b>盈利：</b> %2$s</string>
 
     <!-- !! ENHANCEMENT CHART -->
-    <string name="enhance_base_chance">基本機會</string>
+    <string name="enhance_base_chance">基本機率</string>
     <string name="enhance_optimal_stacks">最大疊加</string>
-    <string name="enhance_success_chance">成功機會</string>
+    <string name="enhance_success_chance">成功機率</string>
     <string name="enhancement_weapon">武器</string>
-    <string name="enhancement_armor">裝甲</string>
-    <string name="enhancement_accessory">附件</string>
+    <string name="enhancement_armor">防具</string>
+    <string name="enhancement_accessory">飾品</string>
 
     <!-- !! GRINDING CHART -->
-    <string name="intro_grinding">建議遵循主要故事。</string>
+    <string name="intro_grinding">建議遵循主線故事。</string>
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Lv:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
-    <string name="horse_description">速度/加速度：%1$s%%\n打開/剎車：%2$s%%</string>
+    <string name="horse_description">速度/加速：%1$s%%\n打開/剎車：%2$s%%</string>
 
     <!-- !! ERRORS -->
-    <string name="error_generic">錯誤，請嘗試重新加載頁面。</string>
+    <string name="error_generic">錯誤，請嘗試重新載入頁面。</string>
 
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
@@ -134,11 +134,11 @@
     <string name="pref_title_24hour"> 24小時格式</string>
     <string name="pref_24hour">以24小時格式顯示時間</string>
     <string name="pref_title_region">區域</string>
-    <string name="pref_screen_awake">讓遊戲和老闆定時器保持屏幕</string>
-    <string name="pref_title_screen_awake">保持屏幕清醒</string>
-    <string name="pref_title_bosspriority">排序老闆</string>
-    <string name="pref_bosspriority">老闆按他們的產卵時間排序</string>
-    <string name="pref_title_bossnotification">產卵通知</string>
+    <string name="pref_screen_awake">讓遊戲和頭目計時器保持螢幕開啟</string>
+    <string name="pref_title_screen_awake">保持螢幕開啟</string>
+    <string name="pref_title_bosspriority">頭目排序</string>
+    <string name="pref_bosspriority">依出現時間排序頭目</string>
+    <string name="pref_title_bossnotification">出現通知</string>
 
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
@@ -154,7 +154,7 @@
     <string name="rate_dialog_no">不，謝謝</string>
 
     <string name="enhancement_info">確切的費率是未知的 - 將其用作參考！</string>
-    <string name="failstack_result">當前機會：%1$s\n最大失敗堆棧：%2$s（%3$s 機會）</string>
+    <string name="failstack_result">目前機率：%1$s\n最大失敗堆棧：%2$s（%3$s 機會）</string>
     <string name="enhancement_lifeclothing">生活服裝</string>
     <string name="vote_success">投票提交</string>
     <string name="desired_level">期望的級別</string>
@@ -163,7 +163,7 @@
     <string name="crates">包裝箱</string>
     <string name="wearables">可穿戴設備</string>
 
-    <string name="mob_helms">Helms</string>
+    <string name="mob_helms">頭盔族</string>
     <string name="mob_elrics">Elrics</string>
     <string name="mob_pollyforest">Polly\'s Forest</string>
     <string name="mob_sausans">Sausans</string>
@@ -192,28 +192,28 @@
 
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">點擊鬧鐘以分別設置通知。\n在設置中更改地區/時區。</string>
-    <string name="bosstimer_notification_title">老大即將產卵！</string>
+    <string name="bosstimer_notification_title">頭目即將出現！</string>
     <string name="bosstimer_notification_text">%1$s:%2$s</string>
-    <string name="bosstimer_next_spawn">下一個產卵：</string>
+    <string name="bosstimer_next_spawn">下次出珼：</string>
     <string name="bosstimer_region">當前地區：%s</string>
     <!-- BOSS NAMES -->
     <string name="karanda">卡嵐達</string>
-    <string name="dimtreespirit">Dim Tree Spirit</string>
+    <string name="dimtreespirit">愚鈍的樹精靈</string>
     <string name="kzarka">克價卡</string>
     <string name="nouver">羅裴勒</string>
     <string name="kutum">庫屯</string>
-    <string name="bheg">Dastard Bheg</string>
-    <string name="mudster">Giant Mudster</string>
-    <string name="rednose">Red Nose</string>
-    <string name="offin">Offin</string>
+    <string name="bheg">卑鄙貝克</string>
+    <string name="mudster">巨大的泥土怪</string>
+    <string name="rednose">紅鼻子</string>
+    <string name="offin">奧平</string>
     <string name="quint">肯恩特</string>
     <string name="muraka">木拉卡</string>
-    <string name="vell">鐘</string>
-    <string name="garmoth">Garmoth</string>
+    <string name="vell">貝爾</string>
+    <string name="garmoth">卡莫斯</string>
 
-    <string name="error_bosstimer_nodata">地區沒有數據！\n\n請將此區域的產卵時間提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
-    <string name="title_reset_alarm">報警重置</string>
-    <string name="reset_alarm">%1$d個警報已被取消，因為時間已更新。</string>
+    <string name="error_bosstimer_nodata">地區沒有數據！\n\n請將此區域的出現時間提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
+    <string name="title_reset_alarm">重設通知</string>
+    <string name="reset_alarm">因為時間更新，%1$d個通知已取消。</string>
 
     <string name="bosstimer_5min">5 分鐘</string>
     <string name="bosstimer_15min">15 分鐘</string>
@@ -221,22 +221,22 @@
     <string name="bosstimer_60min">60 分鐘</string>
     <string name="pref_title_bossfetchtime">提前通知</string>
 
-    <string name="title_horseleveling_calculator">调平计算器</string>
+    <string name="title_horseleveling_calculator">馴養計算機</string>
     <string name="silver_embroidered_clothes">銀刺繡馴養師的服裝</string>
     <string name="horse_trainer_clothes">馴養師的服裝</string>
     <string name="professional_trainer_clothes">專家馴養師的衣服</string>
-    <string name="horseleveling_result">需要的总XP：%1$s\n相对XP需要：%2$s\n所需时数：%3$s</string>
+    <string name="horseleveling_result">總共需要經驗值：%1$s\n相對需要經驗值：%2$s\n所需時數：%3$s</string>
     <string name="special_clothing">貝尼亞騎馬服</string>
-    <string name="training_level">马训练水平</string>
+    <string name="training_level">馴養等級</string>
     <string name="current_exp">目前的EXP</string>
-    <string name="type">类型</string>
+    <string name="type">類型</string>
 
     <!-- LATEST UPDATE -->
-    <string name="pref_title_bosstimerstartup">从老板计时器开始</string>
-    <string name="pref_bosstimerstartup">应用程序从老板时间开始</string>
-    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
-    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
-    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
-    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
-    <string name="accessory_green">Accessory (green)</string>
+    <string name="pref_title_bosstimerstartup">開啟頭目計時器</string>
+    <string name="pref_bosstimerstartup">啟動應用程式時進入頭目計時器</string>
+    <string name="armor_white_blue_yellow">防具（白色、藍色、黃色）</string>
+    <string name="weapons_white_blue_yellow">武器（白色、藍色、黃色）</string>
+    <string name="accessory_gold_blue_unbound">飾品（金色、藍色 unbound）</string>
+    <string name="accessory_blue_bound">飾品（藍色 bound）</string>
+    <string name="accessory_green">飾品（綠色）</string>
 </resources>
