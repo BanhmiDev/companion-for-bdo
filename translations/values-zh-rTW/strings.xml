@@ -10,13 +10,13 @@
     <!-- !! NAVIGATION -->
     <string name="navigation_drawer_open">打開導航抽屜</string>
     <string name="navigation_drawer_close">關閉導航抽屜</string>
-    <string name="action_settings">設置</string>
+    <string name="action_settings">設定</string>
 
     <!-- !! TITLES -->
     <string name="title_news_feed">黑色沙漠新聞</string>
     <string name="title_map">地圖</string>
     <string name="title_header_timers">計時器</string>
-    <string name="title_header_crafting">手工藝</string>
+    <string name="title_header_crafting">製作</string>
     <string name="title_header_calculators">計算機</string>
     <string name="title_header_charts">圖表</string>
     <string name="title_header_misc">雜項</string>
@@ -25,29 +25,29 @@
     <string name="title_cooking_inspection">檢查</string>
     <string name="title_cooking_db">料理資料庫</string>
     <string name="title_alchemy_db">煉金資料庫</string>
-    <string name="title_workshop_db">房子製作資料庫</string>
+    <string name="title_workshop_db">工坊製作資料庫</string>
     <string name="title_processing_db">加工資料庫</string>
     <string name="title_materialgroup">材料組</string>
     <string name="title_failstack_calculator">疊層計算機</string>
     <string name="title_horse_calculator">馬計算機</string>
     <string name="title_market_calculator">交易市場計算機</string>
-    <string name="title_failstack_chart">失敗堆棧圖</string>
-    <string name="title_grinding_chart">研磨圖</string>
-    <string name="title_horse_chart">馬圖</string>
+    <string name="title_failstack_chart">失敗層數表</string>
+    <string name="title_grinding_chart">狩獵區</string>
+    <string name="title_horse_chart">馬種列表</string>
     <string name="title_about">關於</string>
     <string name="title_share">共享</string>
     <string name="title_rate_app">評價應用</string>
 
     <!-- !! INTROS -->
-    <string name="intro_market" formatted="false">基本稅率是35％。 價值包增加了30％的稅收返回值。</string>
+    <string name="intro_market" formatted="false">基本稅率是35％。 價值禮包可增加30％領取額。</string>
     <string name="intro_horselist">每匹馬都有紅色，黑色和白色的顏色點。 顏色組合可以用來計算可能的後代。</string>
 
     <!-- !! GENERAL -->
     <string name="calculate">計算</string>
-    <string name="enabled">啟用</string>
-    <string name="disabled">停用</string>
+    <string name="enabled">使用</string>
+    <string name="disabled">未使用</string>
     <string name="upgrade_to_pro">移除廣告</string>
-    <string name="ok">好</string>
+    <string name="ok">確定</string>
     <string name="cancel">取消</string>
     <string name="loading">載入中&#8230;</string>
     <string name="search">搜尋&#8230;</string>
@@ -57,9 +57,9 @@
     <string name="sort_by_level_desc">按級別排序：降序</string>
 
     <!-- !! INGAME TIMERS -->
-    <string name="ingame_title">在線計時器</string>
+    <string name="ingame_title">遊戲時間</string>
     <string name="reset_title">重設</string>
-    <string name="night">入夜</string>
+    <string name="night">天黑</string>
     <string name="day">天亮</string>
     <string name="resetDaily">每日</string>
     <string name="resetImperial">皇室</string>
@@ -69,7 +69,7 @@
     <!-- !! CRAFTING -->
     <!-- CRAFTING LEVEL -->
     <string name="level_required">所需級別：%1$s</string>
-    <string name="workshoplevel_required">所需車間級別：%1$s</string>
+    <string name="workshoplevel_required">所需工坊級別：%1$s</string>
     <string name="beginner">初級 Lv.</string>
     <string name="apprentice">見習 Lv.</string>
     <string name="skilled">熟練 Lv.</string>
@@ -82,15 +82,15 @@
     <string name="crafting_material">製作材料</string>
     <string name="crafting_results">製作結果</string>
     <string name="crafted_amount">數量：</string>
-    <string name="recipes">食譜</string>
-    <string name="show_all">顯示所有</string>
+    <string name="recipes">配方</string>
+    <string name="show_all">全部顯示</string>
     <string name="bookmark_title_empty">書籤列表為空！</string>
     <string name="bookmark_empty">您的書籤列表當前為空。</string>
     <string name="crafting_byquantity">模式：按數量</string>
     <string name="crafting_byingredient">模式：按成分</string>
 
     <!-- !! HORSE CALCULATOR -->
-    <string name="horse_breeding_multiplier">地區有不同的繁殖倍數：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.選擇乘數：%1$d</string>
+    <string name="horse_breeding_multiplier">地區有不同的繁殖倍數：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.選擇倍數：%1$d</string>
     <string name="female_horse"><b>母馬</b></string>
     <string name="male_horse"><b>公馬</b></string>
     <string name="tier">世代</string>
@@ -100,7 +100,7 @@
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"> <b>價值禮包</b> </string>
-    <string name="value_pack_is_activated">已啟用價值禮包</string>
+    <string name="value_pack_is_activated">已使用價值禮包</string>
     <string name="market_sell_price">市場賣出價</string>
     <string name="market_sell_amount">市場賣出金額</string>
     <string name="market_result"><b>價值禮包：</b> %1$s\n<b>盈利：</b> %2$s</string>
@@ -118,7 +118,7 @@
     <string name="grinding_description">&lt;b>AP:&lt;/b> %1$d &lt;b>DP:&lt;/b> %2$d &lt;b>Lv:&lt;/b> %3$d</string>
 
     <!-- !! HORSE CHART -->
-    <string name="horse_description">速度/加速：%1$s%%\n打開/剎車：%2$s%%</string>
+    <string name="horse_description">速度/加速：%1$s%%\n迴轉力/制動：%2$s%%</string>
 
     <!-- !! ERRORS -->
     <string name="error_generic">錯誤，請嘗試重新載入頁面。</string>
@@ -126,9 +126,9 @@
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
     <string name="pref_title_nightmode">夜間模式</string>
-    <string name="pref_nightmode">啟用暗色主題</string>
+    <string name="pref_nightmode">啟用深色主題</string>
     <string name="pref_title_language">語言</string>
-    <string name="pref_language">目前設置為：%s</string>
+    <string name="pref_language">目前設定為：%s</string>
     <string name="pref_title_timezone">時區</string>
     <string name="system_timezone">系統時區</string>
     <string name="pref_title_24hour"> 24小時格式</string>
@@ -148,50 +148,50 @@
 
     <!-- !! RATE APP -->
     <string name="rate_dialog_title">為此應用評分</string>
-    <string name="rate_dialog_message">如果你喜歡使用這個應用程序，你介意花點時間來評價它嗎？它不會花一分多鐘。感謝您的支持！</string>
+    <string name="rate_dialog_message">如果你喜歡使用這個應用程序，介意花點時間來評價它嗎？這用不到一分多鐘。感謝您的支持！</string>
     <string name="rate_dialog_ok">現在評分</string>
     <string name="rate_dialog_cancel">稍後</string>
     <string name="rate_dialog_no">不，謝謝</string>
 
-    <string name="enhancement_info">確切的費率是未知的 - 將其用作參考！</string>
-    <string name="failstack_result">目前機率：%1$s\n最大失敗堆棧：%2$s（%3$s 機會）</string>
-    <string name="enhancement_lifeclothing">生活服裝</string>
-    <string name="vote_success">投票提交</string>
+    <string name="enhancement_info">確切的機率是未知的 - 僅供參考！</string>
+    <string name="failstack_result">目前機率：%1$s\n最大失敗層數：%2$s（%3$s 機率）</string>
+    <string name="enhancement_lifeclothing">功能服裝</string>
+    <string name="vote_success">送出投票</string>
     <string name="desired_level">期望的級別</string>
-    <string name="current_stacks">當前堆棧</string>
+    <string name="current_stacks">目前層數</string>
     <string name="furniture">家具</string>
     <string name="crates">包裝箱</string>
     <string name="wearables">可穿戴設備</string>
 
     <string name="mob_helms">頭盔族</string>
-    <string name="mob_elrics">Elrics</string>
-    <string name="mob_pollyforest">Polly\'s Forest</string>
-    <string name="mob_sausans">Sausans</string>
-    <string name="mob_fadus">Fadus Garrison</string>
-    <string name="mob_pirates">Pirates</string>
-    <string name="mob_bashims">Bashims</string>
-    <string name="mob_desertnagas">Desert Nagas</string>
-    <string name="mob_desertfogans">Desert Fogans</string>
-    <string name="mob_cadry">Cadry</string>
-    <string name="mob_gahazbandits">Gahaz Bandits</string>
-    <string name="mob_crescents">Crescents</string>
-    <string name="mob_basilisks">Basilisks</string>
-    <string name="mob_taptharplain">Centaur</string>
-    <string name="mob_navarnsteppe">Navarn Steppe</string>
+    <string name="mob_elrics">艾爾力克寺廟</string>
+    <string name="mob_pollyforest">波黎之森</string>
+    <string name="mob_sausans">薩扇營地</string>
+    <string name="mob_fadus">帕多斯營地</string>
+    <string name="mob_pirates">海賊</string>
+    <string name="mob_bashims">巴西恩族</string>
+    <string name="mob_desertnagas">沙漠納嗄</string>
+    <string name="mob_desertfogans">沙漠普根</string>
+    <string name="mob_cadry">卡德里廢墟</string>
+    <string name="mob_gahazbandits">嗄哈恣盜賊團</string>
+    <string name="mob_crescents">月牙神殿</string>
+    <string name="mob_basilisks">巴希利斯克</string>
+    <string name="mob_taptharplain">肯達魯斯群</string>
+    <string name="mob_navarnsteppe">納班草原</string>
     <string name="mob_sulfurmines">Sulfur Mines</string>
-    <string name="mob_pilaku">Pila Ku</string>
-    <string name="mob_manshaum">Manshaum Forest</string>
-    <string name="mob_forestronaros">Forest Ronaros</string>
-    <string name="mob_aakmanhystria">Aakman/Hystria</string>
-    <string name="mob_mirumokruins">Mirumok Ruins</string>
-    <string name="mob_gyfinrhasia">Gyfin Rhasia</string>
+    <string name="mob_pilaku">皮拉酷監獄</string>
+    <string name="mob_manshaum">蔓沙鳥姆森林</string>
+    <string name="mob_forestronaros">森林羅納羅斯</string>
+    <string name="mob_aakmanhystria">亞克曼寺廟</string>
+    <string name="mob_mirumokruins">硫磺礦山</string>
+    <string name="mob_gyfinrhasia">葛伊品拉西亞寺廟</string>
     <string name="exp_rate">EXP評分：</string>
-    <string name="difficulty">困難：</string>
+    <string name="difficulty">難度：</string>
     <string name="mob_density">怪物密度：</string>
-    <string name="description">描述</string>
+    <string name="description">說明</string>
 
     <!-- !! BOSSTIMER -->
-    <string name="intro_bosstimer">點擊鬧鐘以分別設置通知。\n在設置中更改地區/時區。</string>
+    <string name="intro_bosstimer">點擊鬧鐘以分別設定通知。\n在設定中更改地區/時區。</string>
     <string name="bosstimer_notification_title">頭目即將出現！</string>
     <string name="bosstimer_notification_text">%1$s:%2$s</string>
     <string name="bosstimer_next_spawn">下次出珼：</string>
@@ -211,7 +211,7 @@
     <string name="vell">貝爾</string>
     <string name="garmoth">卡莫斯</string>
 
-    <string name="error_bosstimer_nodata">地區沒有數據！\n\n請將此區域的出現時間提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
+    <string name="error_bosstimer_nodata">地區沒有資料！\n\n請將此區域的出現時間提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
     <string name="title_reset_alarm">重設通知</string>
     <string name="reset_alarm">因為時間更新，%1$d個通知已取消。</string>
 
